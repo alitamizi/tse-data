@@ -1,0 +1,42 @@
+{
+ "published_at_utc": "2026-10-03T09:35:36Z",
+ "endpoints": [
+  {
+   "name": "localhost.run",
+   "url": "https://1b4dab0de0afa0.lhr.life",
+   "priority": 1,
+   "verified_recently": false,
+   "connected_since_utc": "2026-10-03T09:35:24Z",
+   "last_check_ok_utc": "2026-10-03T09:35:01Z",
+   "last_check_passed": null
+  },
+  {
+   "name": "serveo",
+   "url": "https://2080da597a6b5a26-80-210-48-94.serveousercontent.com",
+   "priority": 3,
+   "verified_recently": false,
+   "connected_since_utc": "2026-10-03T09:29:24Z",
+   "last_check_ok_utc": null,
+   "last_check_passed": false
+  },
+  {
+   "name": "pinggy",
+   "url": null,
+   "priority": 2,
+   "verified_recently": false,
+   "connected_since_utc": null,
+   "last_check_ok_utc": null,
+   "last_check_passed": null
+  },
+  {
+   "name": "cloudflared",
+   "url": null,
+   "priority": 4,
+   "verified_recently": false,
+   "connected_since_utc": null,
+   "last_check_ok_utc": null,
+   "last_check_passed": null
+  }
+ ],
+ "bot_version": "4.1"
+}

@@ -1,0 +1,311 @@
+{
+ "fetched_at_utc": "2026-10-11T00:38:40Z",
+ "last_success_utc": {
+  "codal": "2026-10-11T00:38:41Z"
+ },
+ "errors": {
+  "_": "2026-10-10T19:06:58Z ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+ },
+ "items": [
+  {
+   "id": "codal-1609801",
+   "source": "کدال",
+   "published_at": "2026-10-10T20:56:02+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "پرسپولیس",
+   "نام شرکت": "فرهنگی ورزشی پرسپولیس",
+   "title": "آگهی دعوت به مجمع عمومی عادی سالیانه دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۳/۳۱(حضوری و الکترونیکی)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609801,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=l6rezmlHF3aOOObOOOlPgYH6WwPw%3d%3d&rt=5&let=16&ct=0&ft=-1",
+   "symbols": [
+    "پرسپولیس"
+   ]
+  },
+  {
+   "id": "codal-1606214",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:48:35+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "وبوعلی",
+   "نام شرکت": "سرمایه گذاری بوعلی",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۵/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1606214,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=lZESv1hVqiBkkPHOGAn33Q%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وبوعلی"
+   ]
+  },
+  {
+   "id": "codal-1609795",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:32:11+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "پسهند",
+   "نام شرکت": "صنایع لاستیکی سهند",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مزایده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1609795,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hnk1cMIzTYcL1GPm7gSqeg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "پسهند"
+   ]
+  },
+  {
+   "id": "codal-1609794",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:26:41+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "نهال",
+   "نام شرکت": "چند کالایی نو ویرا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609794,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=HuQQQaQQQa1GXPh5oDOOObOOO9GR1YeOOObOOOJg%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "نهال"
+   ]
+  },
+  {
+   "id": "codal-1609748",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:18:36+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "امید",
+   "نام شرکت": "تامین سرمایه امید",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - پذیرش تعهدات جدید- گروه ب) منتهی به سال مالی ۱۴۰۵/۰۹/۳۰",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1609748,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=R5i9JaCe74TgfOY2TNu6nQ%3d%3d&rt=9&let=11&ct=0&ft=-1",
+   "symbols": [
+    "امید"
+   ]
+  },
+  {
+   "id": "codal-1609793",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:18:15+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "خصدرا",
+   "نام شرکت": "صنعتی دریائی ایران",
+   "title": "افشای اطلاعات بااهمیت - (انعقاد قرارداد - گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1609793,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=JAWV3ilJ8OOObOOOj0OyYLTqTH2A%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "خصدرا"
+   ]
+  },
+  {
+   "id": "codal-1609792",
+   "source": "کدال",
+   "published_at": "2026-10-10T19:08:07+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "نهال",
+   "نام شرکت": "چند کالایی نو ویرا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609792,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=8rhkJQQQaQQQLAcHaveS830gDccQ%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "نهال"
+   ]
+  },
+  {
+   "id": "codal-1594638",
+   "source": "کدال",
+   "published_at": "2026-10-10T18:58:54+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "فلات",
+   "نام شرکت": "گروه سرمایه گذاری صنایع و معادن فلات ایرانیان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای تلفیقی دوره ۶ ماهه منتهی به ۱۴۰۵/۰۳/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1594638,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=dFfwQQQaQQQYWKEKmTQ30k2FQQQaQQQXCg%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "فلات"
+   ]
+  },
+  {
+   "id": "codal-1609787",
+   "source": "کدال",
+   "published_at": "2026-10-10T18:37:42+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "دتولید",
+   "نام شرکت": "داروسازی تولید دارو",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۳/۳۱(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1609787,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=whFthebxDrExgQQQaQQQFKn4Irgw%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "دتولید"
+   ]
+  },
+  {
+   "id": "codal-1609785",
+   "source": "کدال",
+   "published_at": "2026-10-10T18:15:02+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "ازمحاسب",
+   "نام شرکت": "افق زرین محاسب",
+   "title": "مشمول اصل ۴۴ - اطلاعات و صورتهای مالی پایان دوره به همراه گزارش حسابرس و بازرس قانونی سال مالی منتهی به ۱۴۰۵/۰۲/۳۱",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1609785,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=24tjSEYos9OOObOOO5lxntLoBSxQ%3d%3d",
+   "symbols": [
+    "ازمحاسب"
+   ]
+  },
+  {
+   "id": "codal-1609777",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:57:06+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "تجهیزات اساسی صبا",
+   "نام شرکت": "مدیریت و هماهنگی ساخت تجهیزات اساسی نفت صبا",
+   "title": "مشمول اصل ۴۴ - اطلاعات صورت مالی تلفیقی پایان دوره به همراه گزارش حسابرسی و بازرس قانونی سال مالی منتهی به ۱۴۰۴/۱۲/۲۹",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1609777,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=bQIxhQQQaQQQLUaWqumVzQQQaQQQfxIlOA%3d%3d",
+   "symbols": [
+    "تجهیزات اساسی صبا"
+   ]
+  },
+  {
+   "id": "codal-1609718",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:55:23+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "وسبحان",
+   "نام شرکت": "سرمایه گذاری سبحان",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1609718,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=MHSQVJYBV008vX3Ml5tp3A%3d%3d&rt=2&let=60&ct=0&ft=-1",
+   "symbols": [
+    "وسبحان"
+   ]
+  },
+  {
+   "id": "codal-1609782",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:53:44+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "داریوش ثابت",
+   "نام شرکت": "خزانه داریوش",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609782,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ACXXBr03fmZu82cgbGvf8g%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "داریوش ثابت"
+   ]
+  },
+  {
+   "id": "codal-1609778",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:44:33+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "زریران",
+   "نام شرکت": "مبتنی بر کالای داریوش",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609778,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=zZzs29OOObOOOlpZQQUXQlInmX0Q%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "زریران"
+   ]
+  },
+  {
+   "id": "codal-1609769",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:42:59+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "پرسپولیس",
+   "نام شرکت": "فرهنگی ورزشی پرسپولیس",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - مصوبه هیات مدیره جهت عدم احتساب رای عضو ذی ربط- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۳/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1609769,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=3PQQQaQQQUi6NSkb9cxUhN9NkoHQ%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "پرسپولیس"
+   ]
+  },
+  {
+   "id": "codal-1609776",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:38:08+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "سمان",
+   "نام شرکت": "بخشی قلک",
+   "title": "صورت وضعیت پورتفوی صندوق سرمایه گذاری دوره ۱ ماهه منتهی به ۱۴۰۵/۰۶/۳۱",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1609776,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=bbJD6AMzAbWPgghAKIH8ag%3d%3d",
+   "symbols": [
+    "سمان"
+   ]
+  },
+  {
+   "id": "codal-1608642",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:34:27+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "وسبحان",
+   "نام شرکت": "سرمایه گذاری سبحان",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1608642,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=giGvbOEAEfQB06bgzUmUsQ%3d%3d&rt=2&let=260&ct=0&ft=-1",
+   "symbols": [
+    "وسبحان"
+   ]
+  },
+  {
+   "id": "codal-1609775",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:31:41+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "زریران",
+   "نام شرکت": "مبتنی بر کالای داریوش",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1609775,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=l7r6SyQQQQaQQQsQQQaQQQ0cNjoQQQaQQQYuyGIQ%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "زریران"
+   ]
+  },
+  {
+   "id": "codal-1609742",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:30:45+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "وسبحان",
+   "نام شرکت": "سرمایه گذاری سبحان",
+   "title": "کمیته انتصابات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1609742,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=kzE9pT6RwgqqisHgWprjEA%3d%3d&rt=2&let=248&ct=0&ft=-1",
+   "symbols": [
+    "وسبحان"
+   ]
+  },
+  {
+   "id": "codal-1609714",
+   "source": "کدال",
+   "published_at": "2026-10-10T17:30:11+03:30",
+   "fetched_at_utc": "2026-10-10T18:36:36Z",
+   "نماد": "پالایش",
+   "نام شرکت": "پالایشی یکم",
+   "title": "توقف نماد معاملاتی ناشر به استناد ماده ۱۹ مکرر/ ۱۲ مکرر ۳دستورالعمل اجرایی نحوه انجام معاملات",
+   "نوع": "توقف نماد",
+   "شمارهٔ پیگیری": 1609714,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hMxQqdYIzcyfQ5ZgsGjWmg%3d%3d&rt=2&let=140&ct=5&ft=3",
+   "symbols": [
+    "پالایش"
+   ]
+  }
+ ]
+}

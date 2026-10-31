@@ -1,0 +1,42 @@
+{
+ "published_at_utc": "2026-10-31T16:30:29Z",
+ "endpoints": [
+  {
+   "name": "localhost.run",
+   "url": "https://9a20fdfdc202ea.lhr.life",
+   "priority": 1,
+   "verified_recently": true,
+   "connected_since_utc": "2026-10-31T16:20:43Z",
+   "last_check_ok_utc": "2026-10-31T16:30:23Z",
+   "last_check_passed": true
+  },
+  {
+   "name": "cloudflared",
+   "url": "https://ent-joel-championships-derek.trycloudflare.com",
+   "priority": 4,
+   "verified_recently": true,
+   "connected_since_utc": "2026-10-31T16:09:17Z",
+   "last_check_ok_utc": "2026-10-31T16:30:24Z",
+   "last_check_passed": true
+  },
+  {
+   "name": "serveo",
+   "url": "https://749750e1d92f09bc-80-210-48-94.serveousercontent.com",
+   "priority": 3,
+   "verified_recently": false,
+   "connected_since_utc": "2026-10-31T16:19:56Z",
+   "last_check_ok_utc": "2026-10-31T16:29:08Z",
+   "last_check_passed": false
+  },
+  {
+   "name": "pinggy",
+   "url": null,
+   "priority": 2,
+   "verified_recently": false,
+   "connected_since_utc": null,
+   "last_check_ok_utc": null,
+   "last_check_passed": null
+  }
+ ],
+ "bot_version": "4.4"
+}

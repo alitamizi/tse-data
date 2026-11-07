@@ -1,0 +1,27 @@
+{
+ "published_at_utc": "2026-11-07T16:51:14Z",
+ "channel": null,
+ "chat_id_known": false,
+ "send_raw_alerts": false,
+ "rules": {
+  "version": "2026-11-07",
+  "updated_at_utc": "2026-11-07T10:05:16Z",
+  "loaded_at_utc": "2026-11-07T16:49:04Z",
+  "rules": 7,
+  "watch": 149
+ },
+ "verdicts": {
+  "updated_at_utc": "2026-10-03T08:04:53Z",
+  "polled_at_utc": "2026-11-07T16:51:08Z",
+  "count": 1
+ },
+ "verdicts_sent_today": 0,
+ "context_symbols": 716,
+ "alerts_today": 22,
+ "errors": {},
+ "last_success_utc": {
+  "rules": "2026-11-07T16:49:04Z",
+  "context": "2026-11-07T16:49:05Z",
+  "verdicts": "2026-11-07T16:51:08Z"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "fetched_at_utc": "2026-11-14T21:49:00Z",
+ "fetched_at_tehran": "2026-11-15T01:19:00+03:30",
+ "fetched_at_unix": 1794692940,
+ "clock_synced_with_server": true,
+ "bot_version": "4.8.3",
+ "instance": {
+  "pid": 10140,
+  "started_at_utc": "2026-11-14T05:16:03Z",
+  "dir_id": "0bf8a2b9"
+ },
+ "nav": {
+  "funds": 461,
+  "with_nav": 339,
+  "last_pass_utc": "2026-11-14T09:29:52Z",
+  "last_pass_ok": 338,
+  "last_error": null
+ },
+ "published_at_utc": "2026-11-14T21:49:03Z",
+ "last_error": null,
+ "status_note": null,
+ "symbols": 2231
+}

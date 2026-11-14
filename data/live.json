@@ -1,0 +1,42 @@
+{
+ "published_at_utc": "2026-11-14T21:49:03Z",
+ "endpoints": [
+  {
+   "name": "serveo",
+   "url": "https://efc815012340c227-80-210-48-94.serveousercontent.com",
+   "priority": 3,
+   "verified_recently": true,
+   "connected_since_utc": "2026-11-14T21:43:49Z",
+   "last_check_ok_utc": "2026-11-14T21:48:54Z",
+   "last_check_passed": true
+  },
+  {
+   "name": "cloudflared",
+   "url": "https://nissan-alignment-authorized-appliances.trycloudflare.com",
+   "priority": 4,
+   "verified_recently": true,
+   "connected_since_utc": "2026-11-14T16:34:05Z",
+   "last_check_ok_utc": "2026-11-14T21:48:55Z",
+   "last_check_passed": true
+  },
+  {
+   "name": "localhost.run",
+   "url": null,
+   "priority": 1,
+   "verified_recently": false,
+   "connected_since_utc": null,
+   "last_check_ok_utc": null,
+   "last_check_passed": null
+  },
+  {
+   "name": "pinggy",
+   "url": null,
+   "priority": 2,
+   "verified_recently": false,
+   "connected_since_utc": null,
+   "last_check_ok_utc": null,
+   "last_check_passed": null
+  }
+ ],
+ "bot_version": "4.8.3"
+}

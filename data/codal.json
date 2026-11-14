@@ -1,0 +1,3221 @@
+{
+ "fetched_at_utc": "2026-11-14T21:48:09Z",
+ "last_success_utc": {
+  "codal": "2026-11-14T21:48:10Z"
+ },
+ "errors": {
+  "_": "2026-11-14T14:14:28Z ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+ },
+ "items": [
+  {
+   "id": "codal-1629857",
+   "source": "کدال",
+   "published_at": "2026-11-14T21:16:52+03:30",
+   "fetched_at_utc": "2026-11-14T18:00:44Z",
+   "نماد": "بازرگام",
+   "نام شرکت": "پست پیشگامان",
+   "title": "صورتهای مالی تلفیقی سال مالی منتهی به ۱۴۰۴/۱۲/۲۹ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1629857,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=h3cdt4rM4N41gLMM1xQqmg%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "بازرگام"
+   ]
+  },
+  {
+   "id": "codal-1634859",
+   "source": "کدال",
+   "published_at": "2026-11-14T21:14:49+03:30",
+   "fetched_at_utc": "2026-11-14T18:00:44Z",
+   "نماد": "فارابی سهام",
+   "نام شرکت": "مشترک یکم اکسیر فارابی",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634859,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=upVbC1DHFPyOOObOOOgw2P5Sebdg%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "فارابی سهام"
+   ]
+  },
+  {
+   "id": "codal-1629392",
+   "source": "کدال",
+   "published_at": "2026-11-14T20:02:01+03:30",
+   "fetched_at_utc": "2026-11-14T16:45:28Z",
+   "نماد": "وسرمایه",
+   "نام شرکت": "سرمایه گذاری دنیای سرمایه ایرانیان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت طنین توسعه الوند)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1629392,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ShWj1ojLE4ENZN9iQQQaQQQV34kg%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وسرمایه"
+   ]
+  },
+  {
+   "id": "codal-1629350",
+   "source": "کدال",
+   "published_at": "2026-11-14T20:01:55+03:30",
+   "fetched_at_utc": "2026-11-14T16:45:28Z",
+   "نماد": "وسرمایه",
+   "نام شرکت": "سرمایه گذاری دنیای سرمایه ایرانیان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت دیبا توسعه هونام)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1629350,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=fiQQQaQQQJwVr4eaWh0bBlGVz5ow%3d%3d&rt=1&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وسرمایه"
+   ]
+  },
+  {
+   "id": "codal-1628149",
+   "source": "کدال",
+   "published_at": "2026-11-14T20:01:49+03:30",
+   "fetched_at_utc": "2026-11-14T16:45:28Z",
+   "نماد": "هلد سمند",
+   "نام شرکت": "سرمایه گذاری سمند",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628149,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=h5ncQOWIbZeCsD0OOObOOOD7UITw%3d%3d&rt=2&let=6&ct=2&ft=-1",
+   "symbols": [
+    "هلد سمند"
+   ]
+  },
+  {
+   "id": "codal-1634876",
+   "source": "کدال",
+   "published_at": "2026-11-14T18:51:53+03:30",
+   "fetched_at_utc": "2026-11-14T15:30:09Z",
+   "نماد": "واتی",
+   "نام شرکت": "گروه سرمایه گذاری آتیه دماوند",
+   "title": "معرفی /تغییر در ترکیب اعضای هیئت مدیره/مدیر عامل",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634876,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=cCt1ZK0seoKxGtSLwNOOObOOOSug%3d%3d&rt=2&let=19&ct=0&ft=-1",
+   "symbols": [
+    "واتی"
+   ]
+  },
+  {
+   "id": "codal-1634833",
+   "source": "کدال",
+   "published_at": "2026-11-14T18:31:23+03:30",
+   "fetched_at_utc": "2026-11-14T15:15:01Z",
+   "نماد": "الماس",
+   "نام شرکت": "صندوق سرمایه گذاری امین تدبیرگران فردا(ETF)",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۴/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634833,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SzOfhWMc1YkSltwqQUWhZg%3d%3d&rt=2&let=6&ct=5&ft=4",
+   "symbols": [
+    "الماس"
+   ]
+  },
+  {
+   "id": "codal-1634746",
+   "source": "کدال",
+   "published_at": "2026-11-14T18:21:54+03:30",
+   "fetched_at_utc": "2026-11-14T14:59:55Z",
+   "نماد": "افرا",
+   "نام شرکت": "افرانت",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634746,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=IE8FOOObOOOf2dob52QGYZa7T88g%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "افرا"
+   ]
+  },
+  {
+   "id": "codal-1634714",
+   "source": "کدال",
+   "published_at": "2026-11-14T18:19:35+03:30",
+   "fetched_at_utc": "2026-11-14T14:59:55Z",
+   "نماد": "سولار",
+   "نام شرکت": "پروژه راهبرد انرژی فردا",
+   "title": "صورتجلسه و تایید سازمان درخصوص تعیین سمت مدیران مجمع مورخ ۱۴۰۵.۰۸.۲۳ (به پیوست)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634714,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=ZoyWyTMo1TQQQaQQQGCv523MXIRA%3d%3d",
+   "symbols": [
+    "سولار"
+   ]
+  },
+  {
+   "id": "codal-1634877",
+   "source": "کدال",
+   "published_at": "2026-11-14T18:11:31+03:30",
+   "fetched_at_utc": "2026-11-14T14:44:51Z",
+   "نماد": "قاسم",
+   "نام شرکت": "قاسم ایران",
+   "title": "آگهی ثبت تصمیمات مجمع عادی سالیانه دوره ۱۲ ماهه منتهی به ۱۴۰۴/۱۲/۲۹(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634877,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=Ku3oXQeHASiJjTDOt9lYvQ%3d%3d",
+   "symbols": [
+    "قاسم"
+   ]
+  },
+  {
+   "id": "codal-1634873",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:56:23+03:30",
+   "fetched_at_utc": "2026-11-14T14:27:33Z",
+   "نماد": "قاسم",
+   "نام شرکت": "قاسم ایران",
+   "title": "آگهی ثبت تصمیمات مجمع عادی سالیانه دوره ۱۲ ماهه منتهی به ۱۴۰۵/۱۲/۲۹",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634873,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=pfl9AnfOOObOOOTAjn9tGOOObOOO57rWWQ%3d%3d",
+   "symbols": [
+    "قاسم"
+   ]
+  },
+  {
+   "id": "codal-1633098",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:54:31+03:30",
+   "fetched_at_utc": "2026-11-14T14:27:33Z",
+   "نماد": "حرهشا",
+   "نام شرکت": "رهشاد سپاهان",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633098,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=qFuvWDFRD3GoWxpbjxglqg%3d%3d&rt=5&let=60&ct=0&ft=-1",
+   "symbols": [
+    "حرهشا"
+   ]
+  },
+  {
+   "id": "codal-1632604",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:54:07+03:30",
+   "fetched_at_utc": "2026-11-14T14:27:33Z",
+   "نماد": "حرهشا",
+   "نام شرکت": "رهشاد سپاهان",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1632604,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=XNvccR6DKr1c297QsBBrUA%3d%3d&rt=5&let=260&ct=0&ft=-1",
+   "symbols": [
+    "حرهشا"
+   ]
+  },
+  {
+   "id": "codal-1633097",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:53:56+03:30",
+   "fetched_at_utc": "2026-11-14T14:27:33Z",
+   "نماد": "حرهشا",
+   "نام شرکت": "رهشاد سپاهان",
+   "title": "کمیته انتصابات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633097,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=NJ3OOObOOOH5C1X96JDye9NZ1RPA%3d%3d&rt=5&let=248&ct=0&ft=-1",
+   "symbols": [
+    "حرهشا"
+   ]
+  },
+  {
+   "id": "codal-1634870",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:40:26+03:30",
+   "fetched_at_utc": "2026-11-14T14:12:07Z",
+   "نماد": "نوویرا بازار",
+   "نام شرکت": "اختصاصی بازارگردانی گسترش نو ویرا",
+   "title": "صورت وضعیت پورتفوی صندوق سرمایه گذاری دوره ۱ ماهه منتهی به ۱۴۰۵/۰۸/۱۴",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634870,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=Mw9Hax5AyX1hSWhOKZmAMQ%3d%3d",
+   "symbols": [
+    "نوویرا بازار"
+   ]
+  },
+  {
+   "id": "codal-1634867",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:35:47+03:30",
+   "fetched_at_utc": "2026-11-14T14:08:00Z",
+   "نماد": "نهال",
+   "نام شرکت": "چند کالایی نو ویرا",
+   "title": "صورت وضعیت پورتفوی صندوق سرمایه گذاری دوره ۱ ماهه منتهی به ۱۴۰۵/۰۸/۱۴",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634867,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=LK6BDAF9gQE22U59ShPovg%3d%3d",
+   "symbols": [
+    "نهال"
+   ]
+  },
+  {
+   "id": "codal-1634855",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:28:46+03:30",
+   "fetched_at_utc": "2026-11-14T14:08:00Z",
+   "نماد": "وگردش",
+   "نام شرکت": "بانک گردشگری",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مزایده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634855,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=5OYecmoJmwEFONBc8YRSaA%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وگردش"
+   ]
+  },
+  {
+   "id": "codal-1628286",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:19:56+03:30",
+   "fetched_at_utc": "2026-11-14T13:51:46Z",
+   "نماد": "سیسکو",
+   "نام شرکت": "فولاد سیرجان ایرانیان",
+   "title": "توضیحات در خصوص اطلاعات و صورت های مالی منتشر شده",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628286,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=w2q4TE2UKEFFTrvtzLMP3A%3d%3d&rt=0&let=174&ct=0&ft=-1",
+   "symbols": [
+    "سیسکو"
+   ]
+  },
+  {
+   "id": "codal-1634853",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:19:20+03:30",
+   "fetched_at_utc": "2026-11-14T13:51:46Z",
+   "نماد": "فولاژ",
+   "نام شرکت": "فولاد آلیاژی ایران",
+   "title": "توضیحات در خصوص اطلاعات و صورت های مالی منتشر شده",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634853,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=lxN8wxxUj0GjCTwMJgQQQaQQQQQQaQQQqA%3d%3d&rt=0&let=174&ct=0&ft=-1",
+   "symbols": [
+    "فولاژ"
+   ]
+  },
+  {
+   "id": "codal-1634854",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:19:25+03:30",
+   "fetched_at_utc": "2026-11-14T13:51:46Z",
+   "نماد": "کالای تجاری",
+   "نام شرکت": "بین المللی بازرسی کالای تجاری",
+   "title": "مشمول اصل ۴۴ - اطلاعات صورت مالی میان دوره ای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634854,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=savtduFuwUeBQDIVtULquw%3d%3d",
+   "symbols": [
+    "کالای تجاری"
+   ]
+  },
+  {
+   "id": "codal-1634806",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:18:24+03:30",
+   "fetched_at_utc": "2026-11-14T13:51:46Z",
+   "نماد": "بوعلی",
+   "نام شرکت": "پتروشیمی بوعلی سینا",
+   "title": "پیشنهاد هیئت مدیره به مجمع عمومی فوق العاده در خصوص افزایش سرمایه",
+   "نوع": "افزایش سرمایه",
+   "شمارهٔ پیگیری": 1634806,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=VPXzi4GHYY8ppRSCUjFdeQ%3d%3d&rt=0&let=55&ct=0&ft=-1",
+   "symbols": [
+    "بوعلی"
+   ]
+  },
+  {
+   "id": "codal-1634848",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:16:18+03:30",
+   "fetched_at_utc": "2026-11-14T13:47:42Z",
+   "نماد": "ثروت ساز",
+   "نام شرکت": "سهامی ثروت ساز دیبا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۳ ماهه منتهی به ۱۴۰۵/۰۵/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634848,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=3far2McEjhQB3k7AHZhtZg%3d%3d&rt=2&let=6&ct=5&ft=4",
+   "symbols": [
+    "ثروت ساز"
+   ]
+  },
+  {
+   "id": "codal-1634856",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:14:45+03:30",
+   "fetched_at_utc": "2026-11-14T13:47:42Z",
+   "نماد": "وثنو",
+   "نام شرکت": "سرمایه گذاری ساختمان نوین",
+   "title": "گزارش فعالیت هیئت مدیره دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۶/۳۱",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634856,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=fLgsV5Vbf0cFsuusLfpXwg%3d%3d",
+   "symbols": [
+    "وثنو"
+   ]
+  },
+  {
+   "id": "codal-1621283",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:08:19+03:30",
+   "fetched_at_utc": "2026-11-14T13:41:51Z",
+   "نماد": "حتوکا",
+   "نام شرکت": "حمل و نقل توکا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت امواج طلایی خلیج فارس)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1621283,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hfFKlFMkQqLpsWTbaQyV2A%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "حتوکا"
+   ]
+  },
+  {
+   "id": "codal-1634512",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:08:30+03:30",
+   "fetched_at_utc": "2026-11-14T13:39:37Z",
+   "نماد": "حسینا",
+   "نام شرکت": "توسعه خدمات دریائی و بندری سینا",
+   "title": "تصمیمات مجمع عمومی فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۵/۱۲/۲۹",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634512,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=RxS3QQQaQQQCkIcVTUd5TKwAEyQQQaQQQQ%3d%3d&rt=5&let=22&ct=0&ft=-1",
+   "symbols": [
+    "حسینا"
+   ]
+  },
+  {
+   "id": "codal-1634818",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:06:10+03:30",
+   "fetched_at_utc": "2026-11-14T13:37:37Z",
+   "نماد": "کسرام",
+   "نام شرکت": "پارس سرام",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - رفع ۱۰۰ درصد تعهد ارزی سنواتی شرکت- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۶/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634818,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ZZx8O44o7mJ1hd2UmTxvkw%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "کسرام"
+   ]
+  },
+  {
+   "id": "codal-1634763",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:05:26+03:30",
+   "fetched_at_utc": "2026-11-14T13:37:37Z",
+   "نماد": "ارمغان ثابت",
+   "نام شرکت": "صندوق سرمایه گذاری ارمغان ایرانیان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634763,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=MuavrAoBQQQaQQQPHavhIlci8hyA%3d%3d&rt=2&let=6&ct=5&ft=2",
+   "symbols": [
+    "ارمغان ثابت"
+   ]
+  },
+  {
+   "id": "codal-1633458",
+   "source": "کدال",
+   "published_at": "2026-11-14T17:05:29+03:30",
+   "fetched_at_utc": "2026-11-14T13:37:37Z",
+   "نماد": "آفرین",
+   "نام شرکت": "رشد آفرین سرمایه",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633458,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=vJ0zcjcgCS64frdWOOObOOOTZwIA%3d%3d&rt=2&let=6&ct=5&ft=3",
+   "symbols": [
+    "آفرین"
+   ]
+  },
+  {
+   "id": "codal-1633170",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:56:27+03:30",
+   "fetched_at_utc": "2026-11-14T13:29:27Z",
+   "نماد": "کقزوی",
+   "نام شرکت": "شیشه قزوین",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633170,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=XCcITKjfDhxqE9vjdnBQQQaQQQhQ%3d%3d&rt=0&let=260&ct=0&ft=-1",
+   "symbols": [
+    "کقزوی"
+   ]
+  },
+  {
+   "id": "codal-1634534",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:56:17+03:30",
+   "fetched_at_utc": "2026-11-14T13:27:27Z",
+   "نماد": "زشک",
+   "نام شرکت": "تولیدی حسنانو",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در نرخ فروش محصولات یا ارائه خدمات – گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634534,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=kKZ1Ua2ccQQQaQQQGzeiEU7xEdBg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "زشک"
+   ]
+  },
+  {
+   "id": "codal-1634771",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:54:03+03:30",
+   "fetched_at_utc": "2026-11-14T13:27:27Z",
+   "نماد": "فولای",
+   "نام شرکت": "صنایع فولاد آلیاژی یزد",
+   "title": "اظهارنظر حسابرس و بازرس قانونی نسبت به گزارش توجیهی هیئت مدیره در خصوص افزایش سرمایه",
+   "نوع": "افزایش سرمایه",
+   "شمارهٔ پیگیری": 1634771,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=YwijvLJKvFmD5LPtPTf1yQ%3d%3d&rt=0&let=56&ct=0&ft=-1",
+   "symbols": [
+    "فولای"
+   ]
+  },
+  {
+   "id": "codal-1633198",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:53:20+03:30",
+   "fetched_at_utc": "2026-11-14T13:25:22Z",
+   "نماد": "کقزوی",
+   "نام شرکت": "شیشه قزوین",
+   "title": "کمیته انتصابات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633198,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=CXUOOObOOO2sYD2oUIGCkT1Fdcug%3d%3d&rt=0&let=248&ct=0&ft=-1",
+   "symbols": [
+    "کقزوی"
+   ]
+  },
+  {
+   "id": "codal-1634766",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:52:40+03:30",
+   "fetched_at_utc": "2026-11-14T13:25:22Z",
+   "نماد": "نوین پیشرو بازار",
+   "نام شرکت": "صندوق سرمایه گذاری بازارگردانی نوین پیشرو",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634766,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=744Oim9R0YNSY7fQpO5FlA%3d%3d&rt=2&let=6&ct=5&ft=7",
+   "symbols": [
+    "نوین پیشرو بازار"
+   ]
+  },
+  {
+   "id": "codal-1634579",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:52:29+03:30",
+   "fetched_at_utc": "2026-11-14T13:25:22Z",
+   "نماد": "افق",
+   "نام شرکت": "فروشگاه های زنجیره ای افق کوروش",
+   "title": "افشای اطلاعات بااهمیت - (آزاد سازی سهام ناشر متعلق به سهامدار عمده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634579,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=lvb1NOOObOOOxY8uFsCmQjOOObOOOB9xQQQaQQQA%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "افق"
+   ]
+  },
+  {
+   "id": "codal-1633444",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:48:27+03:30",
+   "fetched_at_utc": "2026-11-14T13:21:21Z",
+   "نماد": "کشرق",
+   "نام شرکت": "صنعتی و معدنی شمالشرق شاهرود",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633444,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=myraFgqCNSGOOObOOOow2wC5cQHQ%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "کشرق"
+   ]
+  },
+  {
+   "id": "codal-1634829",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:48:18+03:30",
+   "fetched_at_utc": "2026-11-14T13:21:21Z",
+   "نماد": "بهمن بازار",
+   "نام شرکت": "صندوق سرمایه گذاری بازارگردان بهمن گستر",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634829,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=Cu3bktTWVQBQD8FLG42I0A%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "بهمن بازار"
+   ]
+  },
+  {
+   "id": "codal-1634813",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:46:29+03:30",
+   "fetched_at_utc": "2026-11-14T13:19:18Z",
+   "نماد": "جهش",
+   "نام شرکت": "سهامی اهرمی جهش فارابی",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634813,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=UdIw5Ee9e79NKbtZsQVMLw%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "جهش"
+   ]
+  },
+  {
+   "id": "codal-1633070",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:44:52+03:30",
+   "fetched_at_utc": "2026-11-14T13:17:17Z",
+   "نماد": "کقزوی",
+   "نام شرکت": "شیشه قزوین",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633070,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=LkkEk5iyZExER7XhoaqRpg%3d%3d&rt=0&let=60&ct=0&ft=-1",
+   "symbols": [
+    "کقزوی"
+   ]
+  },
+  {
+   "id": "codal-1634817",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:41:26+03:30",
+   "fetched_at_utc": "2026-11-14T13:13:13Z",
+   "نماد": "لبخند",
+   "نام شرکت": "لبخند فارابی",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634817,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=n7bRelTKsx50LNyiGZjOOObOOOSA%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "لبخند"
+   ]
+  },
+  {
+   "id": "codal-1634791",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:39:27+03:30",
+   "fetched_at_utc": "2026-11-14T13:11:13Z",
+   "نماد": "سیمین",
+   "نام شرکت": "نقره سیمین هوبر",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634791,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=jRABGjzLvLVxiVtQ04VzTQ%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "سیمین"
+   ]
+  },
+  {
+   "id": "codal-1634812",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:37:30+03:30",
+   "fetched_at_utc": "2026-11-14T13:09:09Z",
+   "نماد": "نهال",
+   "نام شرکت": "چند کالایی نو ویرا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634812,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=8VwfpyiMXpb66uHM8blAlA%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "نهال"
+   ]
+  },
+  {
+   "id": "codal-1634584",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:36:35+03:30",
+   "fetched_at_utc": "2026-11-14T13:09:09Z",
+   "نماد": "دانایان",
+   "نام شرکت": "گروه مالی دانایان",
+   "title": "آگهی ثبت تصمیمات مجمع عمومی عادی بطور فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۹/۳۰",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634584,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=pAQQQaQQQbTQTm9FY6PR69tS3Vig%3d%3d",
+   "symbols": [
+    "دانایان"
+   ]
+  },
+  {
+   "id": "codal-1634825",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:35:17+03:30",
+   "fetched_at_utc": "2026-11-14T13:07:08Z",
+   "نماد": "کوروش بازار",
+   "نام شرکت": "اختصاصی بازارگردانی توازن کوروش",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634825,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=wJu9bRNQcZf6HIOMBrtiPg%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "کوروش بازار"
+   ]
+  },
+  {
+   "id": "codal-1634827",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:35:22+03:30",
+   "fetched_at_utc": "2026-11-14T13:07:08Z",
+   "نماد": "امین شهر",
+   "نام شرکت": "املاک و مستغلات امین شهر یکم",
+   "title": "لغو آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634827,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=4zDhRJONONWLtkFsVcOOObOOOQLw%3d%3d&rt=2&let=154&ct=5&ft=2",
+   "symbols": [
+    "امین شهر"
+   ]
+  },
+  {
+   "id": "codal-1633354",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:33:45+03:30",
+   "fetched_at_utc": "2026-11-14T13:07:08Z",
+   "نماد": "خراسان",
+   "نام شرکت": "پتروشیمی خراسان",
+   "title": "معرفی /تغییر در ترکیب اعضای هیئت مدیره/مدیر عامل",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633354,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ISUtcD8MLdclhHjbNtOOObOOO94g%3d%3d&rt=0&let=19&ct=0&ft=-1",
+   "symbols": [
+    "خراسان"
+   ]
+  },
+  {
+   "id": "codal-1634823",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:31:08+03:30",
+   "fetched_at_utc": "2026-11-14T13:03:02Z",
+   "نماد": "کمند",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت کمند",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634823,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=pFzYJkcrTj7JOufy0LHxtg%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "کمند"
+   ]
+  },
+  {
+   "id": "codal-1630034",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:31:06+03:30",
+   "fetched_at_utc": "2026-11-14T13:03:02Z",
+   "نماد": "غمارگ",
+   "نام شرکت": "مارگارین",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1630034,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=QQQaQQQJRR63d2LfiMWtIEIKPM3g%3d%3d&rt=0&let=60&ct=0&ft=-1",
+   "symbols": [
+    "غمارگ"
+   ]
+  },
+  {
+   "id": "codal-1634670",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:30:51+03:30",
+   "fetched_at_utc": "2026-11-14T13:03:02Z",
+   "نماد": "خودرو",
+   "نام شرکت": "ایران خودرو",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت طراحی مهندسی وتامین قطعات خودروقشم)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634670,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=wbuFlur5uJxNwm0nPDD69Q%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "خودرو"
+   ]
+  },
+  {
+   "id": "codal-1612188",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:24:04+03:30",
+   "fetched_at_utc": "2026-11-14T12:56:59Z",
+   "نماد": "امید توسعه سهام",
+   "نام شرکت": "مشترک امید توسعه مفید",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1612188,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=0LSy8DSSsC6H2BC5Joo4Kw%3d%3d&rt=2&let=6&ct=5&ft=4",
+   "symbols": [
+    "امید توسعه سهام"
+   ]
+  },
+  {
+   "id": "codal-1634816",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:23:21+03:30",
+   "fetched_at_utc": "2026-11-14T12:54:51Z",
+   "نماد": "فراز بازار",
+   "نام شرکت": "اختصاصی بازارگردانی آوای فراز",
+   "title": "صورت وضعیت پورتفوی صندوق سرمایه گذاری دوره ۱ ماهه منتهی به ۱۴۰۵/۰۸/۱۵",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634816,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=h5IIh8UYwgFUF2T9rzdGcA%3d%3d",
+   "symbols": [
+    "فراز بازار"
+   ]
+  },
+  {
+   "id": "codal-1634808",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:22:21+03:30",
+   "fetched_at_utc": "2026-11-14T12:54:51Z",
+   "نماد": "حیات",
+   "نام شرکت": "بیمه زندگی مفید",
+   "title": "اعلامیه پذیره نویسی عمومی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634808,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=k6iDhJZ84FjoNr2aCEVHgQ%3d%3d&rt=6&let=27&ct=0&ft=-1",
+   "symbols": [
+    "حیات"
+   ]
+  },
+  {
+   "id": "codal-1634786",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:18:51+03:30",
+   "fetched_at_utc": "2026-11-14T12:50:50Z",
+   "نماد": "ولصنم",
+   "نام شرکت": "لیزینگ صنعت و معدن",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634786,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=dFYX7ADJj1QQQaQQQDOOObOOO7j6onwg0A%3d%3d&rt=4&let=60&ct=0&ft=-1",
+   "symbols": [
+    "ولصنم"
+   ]
+  },
+  {
+   "id": "codal-1634798",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:17:18+03:30",
+   "fetched_at_utc": "2026-11-14T12:48:47Z",
+   "نماد": "کاریزما ثابت",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت کاریزما",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۳ ماهه منتهی به ۱۴۰۵/۰۷/۳۰ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634798,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=NafjpU0NpGnzJmLz3VH9hQ%3d%3d&rt=2&let=6&ct=5&ft=2",
+   "symbols": [
+    "کاریزما ثابت"
+   ]
+  },
+  {
+   "id": "codal-1634694",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:06:34+03:30",
+   "fetched_at_utc": "2026-11-14T12:38:36Z",
+   "نماد": "خراسان",
+   "نام شرکت": "پتروشیمی خراسان",
+   "title": "درخواست تکمیل مشخصات سهامداران",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634694,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=hCt64qVOOObOOOSQQQaQQQutfxWoinOOOObOOOpg%3d%3d",
+   "symbols": [
+    "خراسان"
+   ]
+  },
+  {
+   "id": "codal-1632220",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:06:24+03:30",
+   "fetched_at_utc": "2026-11-14T12:38:36Z",
+   "نماد": "بازرگام",
+   "نام شرکت": "پست پیشگامان",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۴/۱۲/۲۹ (حسابرسی شده) (شرکت پیشگامان عمران ایرانیان کیش)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632220,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=RGvieqJ1ibvRfYhUaZZIeQ%3d%3d&rt=1&let=6&ct=0&ft=-1",
+   "symbols": [
+    "بازرگام"
+   ]
+  },
+  {
+   "id": "codal-1633197",
+   "source": "کدال",
+   "published_at": "2026-11-14T16:01:00+03:30",
+   "fetched_at_utc": "2026-11-14T12:32:31Z",
+   "نماد": "وثنو",
+   "نام شرکت": "سرمایه گذاری ساختمان نوین",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633197,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=AYR4gebPKpRqML5IDFLPVA%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وثنو"
+   ]
+  },
+  {
+   "id": "codal-1608837",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:58:51+03:30",
+   "fetched_at_utc": "2026-11-14T12:32:31Z",
+   "نماد": "خودرو",
+   "نام شرکت": "ایران خودرو",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۴/۱۲/۲۹ (حسابرسی شده) (شرکت ایران خودرو تبریز)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1608837,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SecfOaRsOYSwtDYcJlQQQaQQQITQ%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "خودرو"
+   ]
+  },
+  {
+   "id": "codal-1634788",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:57:02+03:30",
+   "fetched_at_utc": "2026-11-14T12:28:24Z",
+   "نماد": "الزهرا نیکو",
+   "نام شرکت": "صندوق سرمایه گذاری نیکوکاری دانشگاه الزهرا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634788,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=a2lwbGarhPSXfJLl94xdXA%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "الزهرا نیکو"
+   ]
+  },
+  {
+   "id": "codal-1634785",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:55:06+03:30",
+   "fetched_at_utc": "2026-11-14T12:28:24Z",
+   "نماد": "سپهر",
+   "نام شرکت": "جسورانه سپهر یکم",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634785,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=28CAu3Xk6Ht4cHJPuVovBA%3d%3d&rt=2&let=122&ct=5&ft=6",
+   "symbols": [
+    "سپهر"
+   ]
+  },
+  {
+   "id": "codal-1634787",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:55:19+03:30",
+   "fetched_at_utc": "2026-11-14T12:26:24Z",
+   "نماد": "پایش",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت دینا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634787,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=1e9VjQQQaQQQmtOOObOOO1XugBU769OOObOOODXQ%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "پایش"
+   ]
+  },
+  {
+   "id": "codal-1627024",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:48:33+03:30",
+   "fetched_at_utc": "2026-11-14T12:20:19Z",
+   "نماد": "سبد لقمان",
+   "نام شرکت": "سبدگردان لقمان",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1627024,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=HV5WgxSP9YuOLSZNBtt0XQ%3d%3d&rt=2&let=6&ct=6&ft=-1",
+   "symbols": [
+    "سبد لقمان"
+   ]
+  },
+  {
+   "id": "codal-1632949",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:48:26+03:30",
+   "fetched_at_utc": "2026-11-14T12:20:19Z",
+   "نماد": "ثنور",
+   "نام شرکت": "سرمایه گذاری کوه نور",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت ایوان کوه نور)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632949,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ta4nwbu0KDwbqF87rqTk4g%3d%3d&rt=1&let=6&ct=0&ft=-1",
+   "symbols": [
+    "ثنور"
+   ]
+  },
+  {
+   "id": "codal-1621278",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:48:15+03:30",
+   "fetched_at_utc": "2026-11-14T12:20:19Z",
+   "نماد": "حتوکا",
+   "نام شرکت": "حمل و نقل توکا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت حمل و نقل کالای داخلی امیران ترابر خواف)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1621278,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=fiGIx6APT29EGMHVtvKQQQaQQQnQ%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "حتوکا"
+   ]
+  },
+  {
+   "id": "codal-1634782",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:42:33+03:30",
+   "fetched_at_utc": "2026-11-14T12:14:12Z",
+   "نماد": "پایش بازار",
+   "نام شرکت": "اختصاصی بازارگردانی دینا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634782,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=KIpPBtCtIXOEZSYqTTzEgw%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "پایش بازار"
+   ]
+  },
+  {
+   "id": "codal-1634781",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:40:44+03:30",
+   "fetched_at_utc": "2026-11-14T12:12:12Z",
+   "نماد": "پایش بازار",
+   "نام شرکت": "اختصاصی بازارگردانی دینا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634781,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=nvlfw32aVIQ0ojNru8QpAg%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "پایش بازار"
+   ]
+  },
+  {
+   "id": "codal-1634777",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:38:26+03:30",
+   "fetched_at_utc": "2026-11-14T12:10:11Z",
+   "نماد": "پایش بازار",
+   "نام شرکت": "اختصاصی بازارگردانی دینا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634777,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=HKFm8fgQ4SW5ox0td9jYnA%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "پایش بازار"
+   ]
+  },
+  {
+   "id": "codal-1634769",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:37:39+03:30",
+   "fetched_at_utc": "2026-11-14T12:10:11Z",
+   "نماد": "سپهر",
+   "نام شرکت": "جسورانه سپهر یکم",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634769,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=BerOOObOOOCTpXRYXyXIs6QQQaQQQJymKQ%3d%3d&rt=2&let=122&ct=5&ft=6",
+   "symbols": [
+    "سپهر"
+   ]
+  },
+  {
+   "id": "codal-1634733",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:37:42+03:30",
+   "fetched_at_utc": "2026-11-14T12:10:11Z",
+   "نماد": "آرامش",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت آرامش",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634733,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=XBxXmorPJOOObOOOV8BmD4HeyrAw%3d%3d&rt=2&let=6&ct=5&ft=2",
+   "symbols": [
+    "آرامش"
+   ]
+  },
+  {
+   "id": "codal-1634650",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:36:46+03:30",
+   "fetched_at_utc": "2026-11-14T12:10:11Z",
+   "نماد": "ولصنم",
+   "نام شرکت": "لیزینگ صنعت و معدن",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634650,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=gwUkYsdOOObOOOSPExEAQHMnawJQ%3d%3d&rt=4&let=260&ct=0&ft=-1",
+   "symbols": [
+    "ولصنم"
+   ]
+  },
+  {
+   "id": "codal-1603214",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:34:46+03:30",
+   "fetched_at_utc": "2026-11-14T12:08:07Z",
+   "نماد": "وسپاهان",
+   "نام شرکت": "سرمایه گذاری پویندگان سرمایه سپاهان",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1603214,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOrWybKgLOOObOOOKkde9o9Fedyyw%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وسپاهان"
+   ]
+  },
+  {
+   "id": "codal-1634716",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:34:33+03:30",
+   "fetched_at_utc": "2026-11-14T12:06:07Z",
+   "نماد": "آبان ثابت",
+   "نام شرکت": "روند پایدار آبان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634716,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=aCuEzDKpGEqQhOqOxKactw%3d%3d&rt=2&let=6&ct=5&ft=2",
+   "symbols": [
+    "آبان ثابت"
+   ]
+  },
+  {
+   "id": "codal-1633490",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:33:40+03:30",
+   "fetched_at_utc": "2026-11-14T12:06:07Z",
+   "نماد": "ومعادن",
+   "نام شرکت": "سرمایه گذاری توسعه معادن و فلزات",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت صنایع فولاد کردستان)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633490,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=251yA73PtYTfxPNvOOOObOOOo5kg%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "ومعادن"
+   ]
+  },
+  {
+   "id": "codal-1634740",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:27:19+03:30",
+   "fetched_at_utc": "2026-11-14T12:00:01Z",
+   "نماد": "ونچر",
+   "نام شرکت": "جسورانه فیروزه",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۳ ماهه منتهی به ۱۴۰۵/۰۷/۳۰ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634740,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=twJKf5GtzoXr97bMzxseDA%3d%3d&rt=2&let=6&ct=5&ft=6",
+   "symbols": [
+    "ونچر"
+   ]
+  },
+  {
+   "id": "codal-1634772",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:24:54+03:30",
+   "fetched_at_utc": "2026-11-14T11:57:53Z",
+   "نماد": "پایش",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت دینا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634772,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=mwqjCdIOGrgWxvV0row3lg%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "پایش"
+   ]
+  },
+  {
+   "id": "codal-1634770",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:24:01+03:30",
+   "fetched_at_utc": "2026-11-14T11:55:51Z",
+   "نماد": "کارا",
+   "نام شرکت": "نوع دوم کارا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634770,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=08PLNQipTL16JlJLxHh2dA%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "کارا"
+   ]
+  },
+  {
+   "id": "codal-1634765",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:21:44+03:30",
+   "fetched_at_utc": "2026-11-14T11:53:40Z",
+   "نماد": "پایش",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت دینا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634765,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=NDFaFWoSSXQQQaQQQ1lpDBRrqy3A%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "پایش"
+   ]
+  },
+  {
+   "id": "codal-1634744",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:20:47+03:30",
+   "fetched_at_utc": "2026-11-14T11:53:40Z",
+   "نماد": "کشرق",
+   "نام شرکت": "صنعتی و معدنی شمالشرق شاهرود",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۶/۳۱(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1634744,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=MtiROOObOOOHz0oDMl9R8i4MmDEQ%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "کشرق"
+   ]
+  },
+  {
+   "id": "codal-1634758",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:18:51+03:30",
+   "fetched_at_utc": "2026-11-14T11:51:39Z",
+   "نماد": "تخاور",
+   "نام شرکت": "تامین سرمایه طاووس خاورمیانه",
+   "title": "اظهارنظر حسابرس و بازرس قانونی نسبت به گزارش توجیهی هیئت مدیره در خصوص افزایش سرمایه",
+   "نوع": "افزایش سرمایه",
+   "شمارهٔ پیگیری": 1634758,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=J5D7EbhNihquYjtNOOObOOOS2TMA%3d%3d&rt=9&let=56&ct=0&ft=-1",
+   "symbols": [
+    "تخاور"
+   ]
+  },
+  {
+   "id": "codal-1634753",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:15:51+03:30",
+   "fetched_at_utc": "2026-11-14T11:47:33Z",
+   "نماد": "ارزش آفرینان ثابت",
+   "نام شرکت": "صندوق سرمایه گذاری ارزش آفرینان دی",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634753,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=sCOOObOOO5hH4IQUj0Z2pvoza3OOObOOOw%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "ارزش آفرینان ثابت"
+   ]
+  },
+  {
+   "id": "codal-1634751",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:10:22+03:30",
+   "fetched_at_utc": "2026-11-14T11:43:28Z",
+   "نماد": "فولاد بازار",
+   "نام شرکت": "اختصاصی بازارگردانی توسعه فولاد مبارکه",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634751,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=fOOObOOOBwrhdXec2MEuEAypg19Q%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "فولاد بازار"
+   ]
+  },
+  {
+   "id": "codal-1632416",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:08:39+03:30",
+   "fetched_at_utc": "2026-11-14T11:41:28Z",
+   "نماد": "و بیدار",
+   "نام شرکت": "سرمایه گذاری اقتصاد بیدار",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632416,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=pIJMIX0QQQaQQQdwDI2veJ3UE8Rg%3d%3d&rt=2&let=6&ct=2&ft=-1",
+   "symbols": [
+    "و بیدار"
+   ]
+  },
+  {
+   "id": "codal-1632736",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:08:34+03:30",
+   "fetched_at_utc": "2026-11-14T11:41:28Z",
+   "نماد": "وخارزم",
+   "نام شرکت": "گروه سرمایه گذاری خوارزمی",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت تدبیر آفرینان هگمتان)(اصلاحیه)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632736,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=UQQQaQQQVDF9Ys37dJh342DjTeXg%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وخارزم"
+   ]
+  },
+  {
+   "id": "codal-1634747",
+   "source": "کدال",
+   "published_at": "2026-11-14T15:08:14+03:30",
+   "fetched_at_utc": "2026-11-14T11:41:28Z",
+   "نماد": "زر",
+   "نام شرکت": "امید ثروت ایرانیان",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634747,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOgX8mI2hpkziN1I2AExr7w%3d%3d&rt=2&let=121&ct=5&ft=8",
+   "symbols": [
+    "زر"
+   ]
+  },
+  {
+   "id": "codal-1634738",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:56:11+03:30",
+   "fetched_at_utc": "2026-11-14T11:29:04Z",
+   "نماد": "آسا",
+   "نام شرکت": "صندوق سرمایه گذاری آرمان کارآفرین",
+   "title": "صورت وضعیت پورتفوی صندوق سرمایه گذاری دوره ۱ ماهه منتهی به ۱۴۰۵/۰۸/۱۴",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634738,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=ICgsQpFOYsh0bYjhn4KUUg%3d%3d",
+   "symbols": [
+    "آسا"
+   ]
+  },
+  {
+   "id": "codal-1633134",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:50:12+03:30",
+   "fetched_at_utc": "2026-11-14T11:22:51Z",
+   "نماد": "حفاری",
+   "نام شرکت": "حفاری شمال",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - توضیحات تکمیلی درخصوص خرید ۴ دستگاه حفاری- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633134,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=jR7ITHuTAMnz1L4feK5N1A%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "حفاری"
+   ]
+  },
+  {
+   "id": "codal-1634731",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:48:54+03:30",
+   "fetched_at_utc": "2026-11-14T11:20:51Z",
+   "نماد": "اعتبار سهام",
+   "نام شرکت": "اعتبار سهام ایرانیان",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634731,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=GM12pHjxPgelaUZ8Y2Ltvw%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "اعتبار سهام"
+   ]
+  },
+  {
+   "id": "codal-1634726",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:46:58+03:30",
+   "fetched_at_utc": "2026-11-14T11:18:50Z",
+   "نماد": "ثروت ساز",
+   "نام شرکت": "سهامی ثروت ساز دیبا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634726,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hLxH77mmXQwsDwTEU9QQQaQQQhYg%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "ثروت ساز"
+   ]
+  },
+  {
+   "id": "codal-1634695",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:47:24+03:30",
+   "fetched_at_utc": "2026-11-14T11:18:50Z",
+   "نماد": "بهین رو",
+   "نام شرکت": "بخشی صنایع ویستا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634695,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=siV4lb8YphPbpb4tayjJYg%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "بهین رو"
+   ]
+  },
+  {
+   "id": "codal-1634620",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:45:15+03:30",
+   "fetched_at_utc": "2026-11-14T11:16:46Z",
+   "نماد": "زاگرس",
+   "نام شرکت": "پتروشیمی زاگرس",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - توقف تولیدوقطعی گاز واحداول بدلیل محدودیت مصرف گاز- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "توقف نماد",
+   "شمارهٔ پیگیری": 1634620,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=PInZStSYZFhi94JFWYibxQ%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "زاگرس"
+   ]
+  },
+  {
+   "id": "codal-1634708",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:43:53+03:30",
+   "fetched_at_utc": "2026-11-14T11:16:46Z",
+   "نماد": "اندیشه زرین بازار",
+   "نام شرکت": "اختصاصی بازگردانی اندیشه زرین پاسارگاد",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634708,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=F12OOObOOOQIXlYCjgAMmmQMQQQaQQQMPQ%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "اندیشه زرین بازار"
+   ]
+  },
+  {
+   "id": "codal-1634690",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:42:41+03:30",
+   "fetched_at_utc": "2026-11-14T11:14:45Z",
+   "نماد": "نارین",
+   "نام شرکت": "ارزش آفرین فولاد",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634690,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=O2tectLIX3tYjiV16OHC7A%3d%3d&rt=2&let=122&ct=5&ft=4",
+   "symbols": [
+    "نارین"
+   ]
+  },
+  {
+   "id": "codal-1634570",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:41:51+03:30",
+   "fetched_at_utc": "2026-11-14T11:14:45Z",
+   "نماد": "راهین نیکو",
+   "نام شرکت": "نیکوکاری مهرآور راهین",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634570,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=YvqczWQQQaQQQsioSJ0Bav3Z2E3w%3d%3d&rt=2&let=6&ct=5&ft=2",
+   "symbols": [
+    "راهین نیکو"
+   ]
+  },
+  {
+   "id": "codal-1634640",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:40:51+03:30",
+   "fetched_at_utc": "2026-11-14T11:12:41Z",
+   "نماد": "وکار",
+   "نام شرکت": "بانک کار آفرین",
+   "title": "خلاصه تصمیمات مجمع عمومی عادی به طور فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۵/۱۲/۲۹",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634640,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOiRJtxUDHpjBOdujd9WQQQaQQQSQ%3d%3d&rt=3&let=2121&ct=0&ft=-1",
+   "symbols": [
+    "وکار"
+   ]
+  },
+  {
+   "id": "codal-1628494",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:38:45+03:30",
+   "fetched_at_utc": "2026-11-14T11:10:40Z",
+   "نماد": "میدکو",
+   "نام شرکت": "مادر تخصصی توسعه معادن و صنایع معدنی خاورمیانه",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۳/۳۱ (حسابرسی شده) (شرکت فولاد بوتیای ایرانیان)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628494,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=PZJ6xmpzPFGKjlKVusYMHw%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "میدکو"
+   ]
+  },
+  {
+   "id": "codal-1628072",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:37:15+03:30",
+   "fetched_at_utc": "2026-11-14T11:08:40Z",
+   "نماد": "وگردش",
+   "نام شرکت": "بانک گردشگری",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۳/۳۱ (حسابرسی شده) (شرکت نگین افق نیایش)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628072,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=JjQQQaQQQDr0JrIkkySvThKGKG5A%3d%3d&rt=1&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وگردش"
+   ]
+  },
+  {
+   "id": "codal-1634618",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:35:48+03:30",
+   "fetched_at_utc": "2026-11-14T11:08:40Z",
+   "نماد": "کفپارس",
+   "نام شرکت": "فرآورده های نسوز پارس",
+   "title": "تصمیمات مجمع عمومی فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۹/۳۰",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634618,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=GV3lqqMpSkzFNV92G53AVQ%3d%3d&rt=0&let=22&ct=0&ft=-1",
+   "symbols": [
+    "کفپارس"
+   ]
+  },
+  {
+   "id": "codal-1628674",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:33:42+03:30",
+   "fetched_at_utc": "2026-11-14T11:06:35Z",
+   "نماد": "ثشاهد",
+   "نام شرکت": "شاهد",
+   "title": "اطلاعات و صورتهای مالی میاندورهای تلفیقی دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت هرمز انرژی)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628674,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hZ2bMTLPtY5VWcEBx5LhXQ%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "ثشاهد"
+   ]
+  },
+  {
+   "id": "codal-1634683",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:31:31+03:30",
+   "fetched_at_utc": "2026-11-14T11:04:33Z",
+   "نماد": "ولساپا",
+   "نام شرکت": "لیزینگ رایان سایپا",
+   "title": "افشای اطلاعات بااهمیت - (افشای معاملات موضوع ماده ۱۲۹ اصلاحیه قانون تجارت، یا سایر اشخاص وابسته - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634683,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ByZMcyjawdxqYM7m14g68A%3d%3d&rt=4&let=11&ct=0&ft=-1",
+   "symbols": [
+    "ولساپا"
+   ]
+  },
+  {
+   "id": "codal-1629958",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:28:07+03:30",
+   "fetched_at_utc": "2026-11-14T11:00:33Z",
+   "نماد": "ثشاهد",
+   "نام شرکت": "شاهد",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت تاسیسات ساختمان تسیس)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1629958,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=zQQQaQQQpWc2TCNJxULuaGw5Tv8A%3d%3d&rt=5&let=6&ct=0&ft=-1",
+   "symbols": [
+    "ثشاهد"
+   ]
+  },
+  {
+   "id": "codal-1634685",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:27:51+03:30",
+   "fetched_at_utc": "2026-11-14T11:00:33Z",
+   "نماد": "وگردش",
+   "نام شرکت": "بانک گردشگری",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - صورتهای مالی منتهی به ۱۴۰۵/۰۳/۳۱شرکت ماهان سیرجان- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634685,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=WSAswY9w3rDlkFhqMOdpRA%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وگردش"
+   ]
+  },
+  {
+   "id": "codal-1634686",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:24:23+03:30",
+   "fetched_at_utc": "2026-11-14T10:56:22Z",
+   "نماد": "سنیر",
+   "نام شرکت": "سیمان سفید نی ریز",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مناقصه - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634686,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=KGlJLpHa0ei3XWOa3xr5xQ%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "سنیر"
+   ]
+  },
+  {
+   "id": "codal-1634689",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:23:32+03:30",
+   "fetched_at_utc": "2026-11-14T10:56:22Z",
+   "نماد": "قلک ثابت",
+   "نام شرکت": "در اوراق بهادار درآمد ثابت قلک",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634689,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=3wWI4J1lN6dIz2LVxASfug%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "قلک ثابت"
+   ]
+  },
+  {
+   "id": "codal-1634642",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:22:51+03:30",
+   "fetched_at_utc": "2026-11-14T10:54:21Z",
+   "نماد": "وحافظ",
+   "نام شرکت": "بیمه حافظ",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مزایده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634642,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ZWXEiziZ6SbjtuWkCJsBSA%3d%3d&rt=6&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وحافظ"
+   ]
+  },
+  {
+   "id": "codal-1634648",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:18:52+03:30",
+   "fetched_at_utc": "2026-11-14T10:50:14Z",
+   "نماد": "وحافظ",
+   "نام شرکت": "بیمه حافظ",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مزایده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634648,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=YxJu1H2xoI3UwavNUKGe8g%3d%3d&rt=6&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وحافظ"
+   ]
+  },
+  {
+   "id": "codal-1634687",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:17:31+03:30",
+   "fetched_at_utc": "2026-11-14T10:50:14Z",
+   "نماد": "سنیر",
+   "نام شرکت": "سیمان سفید نی ریز",
+   "title": "افشای اطلاعات بااهمیت - (عدم حصول نتیجه از برگزاری مناقصه - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634687,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=r1f6VdzePH0Dxv7aosxrog%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "سنیر"
+   ]
+  },
+  {
+   "id": "codal-1632083",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:17:12+03:30",
+   "fetched_at_utc": "2026-11-14T10:50:14Z",
+   "نماد": "سشرق",
+   "نام شرکت": "سیمان شرق",
+   "title": "صورتهای مالی تلفیقی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632083,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=AqXIz7zubBdvY4CZsygkdg%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "سشرق"
+   ]
+  },
+  {
+   "id": "codal-1634578",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:16:33+03:30",
+   "fetched_at_utc": "2026-11-14T10:50:14Z",
+   "نماد": "پویا سهام",
+   "نام شرکت": "صندوق سرمایه گذاری مشترک پویا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634578,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OrIBCm5kxxP2tJTt9iJVGQ%3d%3d&rt=2&let=6&ct=5&ft=4",
+   "symbols": [
+    "پویا سهام"
+   ]
+  },
+  {
+   "id": "codal-1629776",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:07:28+03:30",
+   "fetched_at_utc": "2026-11-14T10:42:06Z",
+   "نماد": "موسسه خیریه صدیقین تهران",
+   "نام شرکت": "خیریه صدیقین تهران",
+   "title": "مشمول اصل ۴۴ - صورتهای مالی سال مالی منتهی به ۱۴۰۳/۱۲/۳۰ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1629776,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OD2TmsNnYPZrBen7jUcRjw%3d%3d&rt=5&let=6&ct=13&ft=-1",
+   "symbols": [
+    "موسسه خیریه صدیقین تهران"
+   ]
+  },
+  {
+   "id": "codal-1634676",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:07:47+03:30",
+   "fetched_at_utc": "2026-11-14T10:42:06Z",
+   "نماد": "وپارس",
+   "نام شرکت": "بانک پارسیان",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - صورتهای مالی حسابرسی شده شرکت های وابسته- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634676,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=keYGOdc3zWfhZU8WfZniAg%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وپارس"
+   ]
+  },
+  {
+   "id": "codal-1632305",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:07:31+03:30",
+   "fetched_at_utc": "2026-11-14T10:42:06Z",
+   "نماد": "نبروج",
+   "نام شرکت": "کارخانجات نساجی بروجرد",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۷/۳۰",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1632305,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=GVfbBLfAxZtaFNn7ynwxzw%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "نبروج"
+   ]
+  },
+  {
+   "id": "codal-1634679",
+   "source": "کدال",
+   "published_at": "2026-11-14T14:03:18+03:30",
+   "fetched_at_utc": "2026-11-14T10:35:42Z",
+   "نماد": "بها بازار",
+   "نام شرکت": "اختصاصی بازارگردانی امید آتا",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634679,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=cY46h3S2evIlLxz6HDSOOObOOOOw%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "بها بازار"
+   ]
+  },
+  {
+   "id": "codal-1634674",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:53:35+03:30",
+   "fetched_at_utc": "2026-11-14T10:25:24Z",
+   "نماد": "قلک گلد",
+   "نام شرکت": "کالایی قلک",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634674,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=CnIEHKOdJbSQQQaQQQOiHMl1SqPg%3d%3d&rt=2&let=121&ct=5&ft=8",
+   "symbols": [
+    "قلک گلد"
+   ]
+  },
+  {
+   "id": "codal-1634673",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:53:26+03:30",
+   "fetched_at_utc": "2026-11-14T10:25:24Z",
+   "نماد": "سمان",
+   "نام شرکت": "بخشی قلک",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634673,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOpTO1H5MGbT60IdEnhsjRw%3d%3d&rt=2&let=121&ct=5&ft=4",
+   "symbols": [
+    "سمان"
+   ]
+  },
+  {
+   "id": "codal-1634672",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:49:03+03:30",
+   "fetched_at_utc": "2026-11-14T10:21:19Z",
+   "نماد": "هامون",
+   "نام شرکت": "ثروت هامون",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634672,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=oSAjmVIxdzZTOZQQQaQQQS9aPz1w%3d%3d&rt=2&let=121&ct=5&ft=4",
+   "symbols": [
+    "هامون"
+   ]
+  },
+  {
+   "id": "codal-1632593",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:47:13+03:30",
+   "fetched_at_utc": "2026-11-14T10:19:19Z",
+   "نماد": "اعتبار کالایی",
+   "نام شرکت": "در اوراق بهادار مبتنی بر کالای اعتبار",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1632593,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=p9usWRXF44L2pX2ovYqKJw%3d%3d&rt=2&let=121&ct=5&ft=8",
+   "symbols": [
+    "اعتبار کالایی"
+   ]
+  },
+  {
+   "id": "codal-1634657",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:46:39+03:30",
+   "fetched_at_utc": "2026-11-14T10:19:19Z",
+   "نماد": "پویا بازار",
+   "نام شرکت": "اختصاصی بازارگردانی قلک",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634657,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=6LnGJn4QN2p8OOObOOOGFcVw4SvQ%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "پویا بازار"
+   ]
+  },
+  {
+   "id": "codal-1634663",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:45:45+03:30",
+   "fetched_at_utc": "2026-11-14T10:17:11Z",
+   "نماد": "پایا",
+   "نام شرکت": "پایا قلک پویا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634663,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=sIyQQQaQQQliUUhhWhAQ1BCc7egg%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "پایا"
+   ]
+  },
+  {
+   "id": "codal-1634667",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:45:43+03:30",
+   "fetched_at_utc": "2026-11-14T10:17:11Z",
+   "نماد": "رفاه بازار",
+   "نام شرکت": "اختصاصی بازارگردانی کارگزاری رفاه کارگران",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634667,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=EQWm8e0VZNcyOOObOOO7oLQQQaQQQwSm8A%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "رفاه بازار"
+   ]
+  },
+  {
+   "id": "codal-1634653",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:45:36+03:30",
+   "fetched_at_utc": "2026-11-14T10:17:11Z",
+   "نماد": "رویان نیکو",
+   "نام شرکت": "صندوق سرمایه گذاری نیکوکاری لوتوس رویان",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634653,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SYaQOn2R8ssamC4S2IQKig%3d%3d&rt=2&let=122&ct=5&ft=2",
+   "symbols": [
+    "رویان نیکو"
+   ]
+  },
+  {
+   "id": "codal-1634664",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:41:58+03:30",
+   "fetched_at_utc": "2026-11-14T10:13:11Z",
+   "نماد": "آبی",
+   "نام شرکت": "آبی هامون ایرانیان",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634664,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=isszZOZKQu3R0lzncRbHZA%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "آبی"
+   ]
+  },
+  {
+   "id": "codal-1634622",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:39:08+03:30",
+   "fetched_at_utc": "2026-11-14T10:11:07Z",
+   "نماد": "شتوکا",
+   "نام شرکت": "توکا رنگ فولاد سپاهان",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۶/۳۱(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1634622,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOOK1wrtf9QOOObOOOg9RWiLKMUoA%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "شتوکا"
+   ]
+  },
+  {
+   "id": "codal-1634661",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:37:39+03:30",
+   "fetched_at_utc": "2026-11-14T10:09:07Z",
+   "نماد": "کاوان",
+   "نام شرکت": "مس کاوان نماد",
+   "title": "افشای جزییات زمین و ساختمان(اصلاحیه)",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634661,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=3cx85X7HOOObOOOaJaR9gUZJTDlw%3d%3d",
+   "symbols": [
+    "کاوان"
+   ]
+  },
+  {
+   "id": "codal-1634649",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:22:05+03:30",
+   "fetched_at_utc": "2026-11-14T09:54:48Z",
+   "نماد": "همتا",
+   "نام شرکت": "قلک همتا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۴",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634649,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=dxt8iIwhQqT4HqWFPrSbNA%3d%3d&rt=2&let=121&ct=5&ft=4",
+   "symbols": [
+    "همتا"
+   ]
+  },
+  {
+   "id": "codal-1634643",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:20:25+03:30",
+   "fetched_at_utc": "2026-11-14T09:52:47Z",
+   "نماد": "سبد لقمان",
+   "نام شرکت": "سبدگردان لقمان",
+   "title": "گزارش فعالیت هیئت مدیره دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۶/۳۱",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634643,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=gc1jzRf4mOOObOOOtpoOe4RFOOObOOOrXg%3d%3d",
+   "symbols": [
+    "سبد لقمان"
+   ]
+  },
+  {
+   "id": "codal-1634562",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:16:42+03:30",
+   "fetched_at_utc": "2026-11-14T09:48:40Z",
+   "نماد": "کاوان",
+   "نام شرکت": "مس کاوان نماد",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۷/۳۰(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1634562,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=DCXQQQaQQQYkp9kZqkFAIAiLKOow%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "کاوان"
+   ]
+  },
+  {
+   "id": "codal-1634567",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:15:40+03:30",
+   "fetched_at_utc": "2026-11-14T09:48:40Z",
+   "نماد": "رنیک",
+   "نام شرکت": "جنرال مکانیک",
+   "title": "افشای اطلاعات بااهمیت - (شرکت در مناقصه - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634567,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=kl16ZUWhEOOObOOOiXTSnqVhm9bQ%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "رنیک"
+   ]
+  },
+  {
+   "id": "codal-1634632",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:09:56+03:30",
+   "fetched_at_utc": "2026-11-14T09:42:31Z",
+   "نماد": "هیوا",
+   "نام شرکت": "ثروت هیوا",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۷",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634632,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=w1OOObOOOiMR4ykZaoNgV1QQQaQQQpOShA%3d%3d&rt=2&let=121&ct=5&ft=4",
+   "symbols": [
+    "هیوا"
+   ]
+  },
+  {
+   "id": "codal-1634634",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:08:10+03:30",
+   "fetched_at_utc": "2026-11-14T09:40:25Z",
+   "نماد": "وگردش",
+   "نام شرکت": "بانک گردشگری",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - صورتهای مالی منتهی به۱۴۰۵/۰۳/۳۱صنایع ومعادن ماهان- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634634,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=uSLBrex634shuNJod31dGg%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وگردش"
+   ]
+  },
+  {
+   "id": "codal-1634616",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:02:01+03:30",
+   "fetched_at_utc": "2026-11-14T09:34:15Z",
+   "نماد": "همراه",
+   "نام شرکت": "ارتباطات سیار ایران",
+   "title": "شفاف سازی در خصوص شایعه، خبر یا گزارش منتشر شده",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634616,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=Hzvt7ItZp8jTbNnbdwz4OQ%3d%3d&rt=5&let=128&ct=0&ft=-1",
+   "symbols": [
+    "همراه"
+   ]
+  },
+  {
+   "id": "codal-1634521",
+   "source": "کدال",
+   "published_at": "2026-11-14T13:01:05+03:30",
+   "fetched_at_utc": "2026-11-14T09:34:15Z",
+   "نماد": "دی",
+   "نام شرکت": "بانک دی",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مزایده - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634521,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=MYwvpcaOOObOOOR74dYQQQaQQQyrdRQQQaQQQpxg%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "دی"
+   ]
+  },
+  {
+   "id": "codal-1634605",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:59:05+03:30",
+   "fetched_at_utc": "2026-11-14T09:32:15Z",
+   "نماد": "وگردش",
+   "نام شرکت": "بانک گردشگری",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - صورتهای مالی منتهی به۱۴۰۵/۰۴/۳۱-اقتصادی مالی نگین- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1634605,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=p6KnD2o4kJTDSIFvQQQaQQQXsUQg%3d%3d&rt=3&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وگردش"
+   ]
+  },
+  {
+   "id": "codal-1634607",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:50:33+03:30",
+   "fetched_at_utc": "2026-11-14T09:22:06Z",
+   "نماد": "خکاوه",
+   "نام شرکت": "سایپا دیزل",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در مفاد هر نوع اطلاعیه بااهمیتی که قبلاً منتشر شده است - گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634607,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=doBy2W65J7cXOOObOOO1mOUz60QQQaQQQQ%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "خکاوه"
+   ]
+  },
+  {
+   "id": "codal-1634614",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:42:44+03:30",
+   "fetched_at_utc": "2026-11-14T09:15:54Z",
+   "نماد": "درخشان",
+   "نام شرکت": "چند کالایی آبان",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634614,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=luDEWOJDrQQQaQQQh9dc4LuxR6Ng%3d%3d&rt=2&let=122&ct=5&ft=8",
+   "symbols": [
+    "درخشان"
+   ]
+  },
+  {
+   "id": "codal-1633500",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:38:09+03:30",
+   "fetched_at_utc": "2026-11-14T09:09:36Z",
+   "نماد": "گنج",
+   "نام شرکت": "سیمای کاردان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۳ ماهه منتهی به ۱۴۰۵/۰۷/۳۰ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633500,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ZoQQQaQQQh5VI1c7IYjuSxCWXzzg%3d%3d&rt=2&let=6&ct=5&ft=3",
+   "symbols": [
+    "گنج"
+   ]
+  },
+  {
+   "id": "codal-1634603",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:29:40+03:30",
+   "fetched_at_utc": "2026-11-14T09:01:33Z",
+   "نماد": "سنیر",
+   "نام شرکت": "سیمان سفید نی ریز",
+   "title": "افشای اطلاعات بااهمیت - (برگزاری مناقصه - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634603,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=stpuICMYljIa0MV3mbpF6g%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "سنیر"
+   ]
+  },
+  {
+   "id": "codal-1632232",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:29:03+03:30",
+   "fetched_at_utc": "2026-11-14T09:01:33Z",
+   "نماد": "دکوثر",
+   "نام شرکت": "داروسازی کوثر",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت هلپاک)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632232,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=4uxbRLjtKk0QOOObOOOF2uInu5lA%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "دکوثر"
+   ]
+  },
+  {
+   "id": "codal-1634609",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:26:02+03:30",
+   "fetched_at_utc": "2026-11-14T08:57:33Z",
+   "نماد": "ارزش آفرینان ثابت",
+   "نام شرکت": "صندوق سرمایه گذاری ارزش آفرینان دی",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634609,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=TI6DoBm47P3tf1NuctqVMg%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "ارزش آفرینان ثابت"
+   ]
+  },
+  {
+   "id": "codal-1634587",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:18:29+03:30",
+   "fetched_at_utc": "2026-11-14T08:51:23Z",
+   "نماد": "سنیر",
+   "نام شرکت": "سیمان سفید نی ریز",
+   "title": "افشای اطلاعات بااهمیت - (عدم حصول نتیجه از برگزاری مناقصه - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634587,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=92SQEQQQaQQQsFTKxR5QKGWov4mg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "سنیر"
+   ]
+  },
+  {
+   "id": "codal-1634588",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:16:45+03:30",
+   "fetched_at_utc": "2026-11-14T08:49:16Z",
+   "نماد": "افتخار بازار",
+   "نام شرکت": "اختصاصی بازارگردانی افتخار حافظ",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634588,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=H3MOtJu8QQQaQQQKumFR5vfnQPig%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "افتخار بازار"
+   ]
+  },
+  {
+   "id": "codal-1634569",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:12:59+03:30",
+   "fetched_at_utc": "2026-11-14T08:45:10Z",
+   "نماد": "آسمان بازار",
+   "نام شرکت": "اختصاصی بازارگردانی آسمان زاگرس",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634569,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=zppQQQaQQQnNYNy0wcnIVFG07RSw%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "آسمان بازار"
+   ]
+  },
+  {
+   "id": "codal-1634580",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:08:09+03:30",
+   "fetched_at_utc": "2026-11-14T08:41:08Z",
+   "نماد": "غالبر",
+   "نام شرکت": "لبنیات کالبر",
+   "title": "آگهی دعوت به مجمع عمومی عادی بطور فوق العاده",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634580,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=AqZvGg2swj8bi7f43gOnug%3d%3d&rt=0&let=17&ct=0&ft=-1",
+   "symbols": [
+    "غالبر"
+   ]
+  },
+  {
+   "id": "codal-1612365",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:02:44+03:30",
+   "fetched_at_utc": "2026-11-14T08:34:57Z",
+   "نماد": "سپید",
+   "نام شرکت": "سپید ماکیان",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت تولیدمرغ دریای صومعه سرا)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1612365,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=C9JAPNZEnQQQaQQQBvA2V34yJafA%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "سپید"
+   ]
+  },
+  {
+   "id": "codal-1625844",
+   "source": "کدال",
+   "published_at": "2026-11-14T12:00:22+03:30",
+   "fetched_at_utc": "2026-11-14T08:32:58Z",
+   "نماد": "وسمازن",
+   "نام شرکت": "سرمایه گذاری عدالت استان مازندران",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی نشده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1625844,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=mdhV666YPEfcSmYaZZjhKQ%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "وسمازن"
+   ]
+  },
+  {
+   "id": "codal-1623512",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:58:21+03:30",
+   "fetched_at_utc": "2026-11-14T08:30:58Z",
+   "نماد": "بکام",
+   "نام شرکت": "کارخانجات تولیدی شهید قندی",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت پلیمر ایساتیس قندی ابرکوه)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1623512,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=aKReQQQaQQQdvitEWMmudSOxGhFg%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "بکام"
+   ]
+  },
+  {
+   "id": "codal-1623371",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:55:52+03:30",
+   "fetched_at_utc": "2026-11-14T08:28:58Z",
+   "نماد": "بکام",
+   "نام شرکت": "کارخانجات تولیدی شهید قندی",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت ایساتیس ارتباطات قندی)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1623371,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=IdUUcZlDiHnyRMkh5GMNLw%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "بکام"
+   ]
+  },
+  {
+   "id": "codal-1633457",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:55:44+03:30",
+   "fetched_at_utc": "2026-11-14T08:28:58Z",
+   "نماد": "کتوسعه",
+   "نام شرکت": "توسعه صنایع و معادن کوثر",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۳/۳۱(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1633457,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=2oC9fLGRaTxsan7IgOOObOOOon4g%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "کتوسعه"
+   ]
+  },
+  {
+   "id": "codal-1619417",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:46:51+03:30",
+   "fetched_at_utc": "2026-11-14T08:18:44Z",
+   "نماد": "ولغدر",
+   "نام شرکت": "لیزینگ خودروغدیر",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۷/۳۰",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1619417,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=3G1zWXz73VxXWx5S9SjkPA%3d%3d&rt=4&let=58&ct=0&ft=-1",
+   "symbols": [
+    "ولغدر"
+   ]
+  },
+  {
+   "id": "codal-1628079",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:39:35+03:30",
+   "fetched_at_utc": "2026-11-14T08:12:41Z",
+   "نماد": "کورز",
+   "نام شرکت": "ورزیران",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628079,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=9hV7RScbGJ0lQvG9zDFWrg%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "کورز"
+   ]
+  },
+  {
+   "id": "codal-1634556",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:34:39+03:30",
+   "fetched_at_utc": "2026-11-14T08:06:35Z",
+   "نماد": "بمیلا",
+   "نام شرکت": "توسعه سرمایه گذاری میلاد پارس",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - ابلاغ احضاریه- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۳/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634556,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=UCo2FsdJgrRd7Q1ZOOObOOOTq3DA%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "بمیلا"
+   ]
+  },
+  {
+   "id": "codal-1634548",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:26:48+03:30",
+   "fetched_at_utc": "2026-11-14T07:58:19Z",
+   "نماد": "کاوان",
+   "نام شرکت": "مس کاوان نماد",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - مفاصا حساب بدهی با ایمیدرو- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634548,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=tDm5OOObOOOKs77SZYH1xHG6DppA%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "کاوان"
+   ]
+  },
+  {
+   "id": "codal-1632991",
+   "source": "کدال",
+   "published_at": "2026-11-14T11:17:12+03:30",
+   "fetched_at_utc": "2026-11-14T07:50:13Z",
+   "نماد": "کارگزاری ایساتیس پویا",
+   "نام شرکت": "کارگزاری ایساتیس پویا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632991,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=m5ReywgngDHJZoca2fCCjg%3d%3d&rt=2&let=6&ct=14&ft=-1",
+   "symbols": [
+    "کارگزاری ایساتیس پویا"
+   ]
+  },
+  {
+   "id": "codal-1634529",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:58:57+03:30",
+   "fetched_at_utc": "2026-11-14T07:31:40Z",
+   "نماد": "گوهر فام بازار",
+   "نام شرکت": "اختصاصی بازارگردانی گوهر فام امید",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۲",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634529,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=WWt4huzY7Qul7qf8yOOObOOOyI8A%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "گوهر فام بازار"
+   ]
+  },
+  {
+   "id": "codal-1626422",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:58:24+03:30",
+   "fetched_at_utc": "2026-11-14T07:31:40Z",
+   "نماد": "ختور",
+   "نام شرکت": "رادیاتور ایران",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1626422,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOTo3c9IlRXXqUhmlW0XaAg%3d%3d&rt=0&let=60&ct=0&ft=-1",
+   "symbols": [
+    "ختور"
+   ]
+  },
+  {
+   "id": "codal-1634520",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:57:10+03:30",
+   "fetched_at_utc": "2026-11-14T07:29:40Z",
+   "نماد": "ثجنوب",
+   "نام شرکت": "سرمایه گذاری مسکن جنوب",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - تکمیل عملیات اجرایی اسکلت بتنی بلوک E پروزه شار صد- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۶/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634520,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=8hBvzuTXQQQaQQQNrJC1UKulUf6Q%3d%3d&rt=1&let=11&ct=0&ft=-1",
+   "symbols": [
+    "ثجنوب"
+   ]
+  },
+  {
+   "id": "codal-1632909",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:56:32+03:30",
+   "fetched_at_utc": "2026-11-14T07:29:40Z",
+   "نماد": "پاکشو",
+   "نام شرکت": "گروه صنعتی پاکشو",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت سورا صنعت سپیدان)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632909,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=2Koddmnib8S37odxXfOLGw%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "پاکشو"
+   ]
+  },
+  {
+   "id": "codal-1633221",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:52:47+03:30",
+   "fetched_at_utc": "2026-11-14T07:25:33Z",
+   "نماد": "فپنتا",
+   "نام شرکت": "صنعتی سپنتا",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۳/۳۱ (حسابرسی شده) (شرکت لوله و پروفیل سپنتا تهران)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633221,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=Z5jAOOObOOOKqKJaWcOhFJKJPaAQ%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "فپنتا"
+   ]
+  },
+  {
+   "id": "codal-1634517",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:49:23+03:30",
+   "fetched_at_utc": "2026-11-14T07:21:28Z",
+   "نماد": "کاوان",
+   "نام شرکت": "مس کاوان نماد",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - آخرین وضعیت پروژه خط دوم کنسانتره مس- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634517,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=4Of4sODOOObOOOxVNpt4fGH3Nogg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "کاوان"
+   ]
+  },
+  {
+   "id": "codal-1634514",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:48:10+03:30",
+   "fetched_at_utc": "2026-11-14T07:19:27Z",
+   "نماد": "وصنعت",
+   "نام شرکت": "سرمایه گذاری توسعه صنعت و تجارت",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در مفاد هر نوع اطلاعیه بااهمیتی که قبلاً منتشر شده است - گروه ب) منتهی به سال مالی ۱۴۰۶/۰۵/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1634514,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=YYaQEo4wtgueScObiTZxQw%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وصنعت"
+   ]
+  },
+  {
+   "id": "codal-1632757",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:47:52+03:30",
+   "fetched_at_utc": "2026-11-14T07:19:27Z",
+   "نماد": "تابان",
+   "نام شرکت": "گروه پتروشیمی تابان فردا",
+   "title": "تعلیق نماد معاملاتی ناشر به استناد ماده ۱۹ مکرر ۱/ ۱۲ مکرر ۴ دستورالعمل اجرایی نحوه انجام معاملات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1632757,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=QuvrQtUasRYkXKOiOOObOOOLL9DQ%3d%3d&rt=2&let=141&ct=0&ft=-1",
+   "symbols": [
+    "تابان"
+   ]
+  },
+  {
+   "id": "codal-1634507",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:46:54+03:30",
+   "fetched_at_utc": "2026-11-14T07:19:27Z",
+   "نماد": "ملت بازار",
+   "نام شرکت": "اختصاصی بازارگردانی ملت",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۸/۲۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1634507,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=JKK4dq9MzIQQQaQQQgmgCrT5xwQA%3d%3d&rt=2&let=121&ct=5&ft=7",
+   "symbols": [
+    "ملت بازار"
+   ]
+  },
+  {
+   "id": "codal-1633491",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:46:24+03:30",
+   "fetched_at_utc": "2026-11-14T07:19:27Z",
+   "نماد": "موج",
+   "نام شرکت": "سهامی اهرمی موج فیروزه",
+   "title": "نرخ بازدهی واحدهای سرمایهگذاری عادی صندوق سرمایهگذاری سهامی اهرمی موج فیروزه ۱۴۰۵۰۸۲۲ (به پیوست)",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633491,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=OgMG4AeA5nd9ecF4sM1P9w%3d%3d",
+   "symbols": [
+    "موج"
+   ]
+  },
+  {
+   "id": "codal-1633483",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:34:36+03:30",
+   "fetched_at_utc": "2026-11-14T07:07:07Z",
+   "نماد": "معیار بازار",
+   "نام شرکت": "اختصاصی بازارگردانی معیار",
+   "title": "تصمیمات مجمع صندوق سرمایه گذاری",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633483,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=G0CkSHUyWDtIFUw0qHGmSQ%3d%3d&rt=2&let=122&ct=5&ft=7",
+   "symbols": [
+    "معیار بازار"
+   ]
+  },
+  {
+   "id": "codal-1444565",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:33:24+03:30",
+   "fetched_at_utc": "2026-11-14T07:05:07Z",
+   "نماد": "ونیرو",
+   "نام شرکت": "سرمایه گذاری نیرو",
+   "title": "کمیته انتصابات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1444565,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=4NZcLRbQQQaQQQbQGPbIN9uZouag%3d%3d&rt=2&let=248&ct=0&ft=-1",
+   "symbols": [
+    "ونیرو"
+   ]
+  },
+  {
+   "id": "codal-1444896",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:31:26+03:30",
+   "fetched_at_utc": "2026-11-14T07:03:01Z",
+   "نماد": "ونیرو",
+   "نام شرکت": "سرمایه گذاری نیرو",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1444896,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=WcOrFTl7dAQaSR3jjHcSwg%3d%3d&rt=2&let=260&ct=0&ft=-1",
+   "symbols": [
+    "ونیرو"
+   ]
+  },
+  {
+   "id": "codal-1633502",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:27:33+03:30",
+   "fetched_at_utc": "2026-11-14T06:59:00Z",
+   "نماد": "تپسی",
+   "نام شرکت": "پیشگامان فن آوری و دانش آرامیس",
+   "title": "مهلت استفاده از حق تقدم خرید سهام",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633502,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=LX9UVDzTTcvWTmT8leC7QQ%3d%3d&rt=5&let=25&ct=0&ft=-1",
+   "symbols": [
+    "تپسی"
+   ]
+  },
+  {
+   "id": "codal-1634506",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:27:05+03:30",
+   "fetched_at_utc": "2026-11-14T06:59:00Z",
+   "نماد": "وسلرستا",
+   "نام شرکت": "سرمایه گذاری استان لرستان",
+   "title": "تغییر نشانی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1634506,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=MkMyJ003wP51ZD4MQQQaQQQ30q1w%3d%3d",
+   "symbols": [
+    "وسلرستا"
+   ]
+  },
+  {
+   "id": "codal-1418328",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:25:07+03:30",
+   "fetched_at_utc": "2026-11-14T06:56:54Z",
+   "نماد": "ونیرو",
+   "نام شرکت": "سرمایه گذاری نیرو",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1418328,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=l3y7edWeosHAwZaJV3rKtQ%3d%3d&rt=2&let=60&ct=0&ft=-1",
+   "symbols": [
+    "ونیرو"
+   ]
+  },
+  {
+   "id": "codal-1633384",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:16:09+03:30",
+   "fetched_at_utc": "2026-11-14T06:48:46Z",
+   "نماد": "تابان",
+   "نام شرکت": "گروه پتروشیمی تابان فردا",
+   "title": "اطلاعات حاصل از برگزاری کنفرانس اطلاع رسانی از پرسش و پاسخ",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633384,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=Mv8e24KYQ16lADask1SWcw%3d%3d",
+   "symbols": [
+    "تابان"
+   ]
+  },
+  {
+   "id": "codal-1633389",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:15:11+03:30",
+   "fetched_at_utc": "2026-11-14T06:48:46Z",
+   "نماد": "خیریه مهر گیتی",
+   "نام شرکت": "خیریه مهر گیتی",
+   "title": "مشمول اصل ۴۴ - صورتهای مالی سال مالی منتهی به ۱۴۰۴/۱۲/۲۹ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633389,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=hVho2kLjnbYQNvHIiWkv2Q%3d%3d&rt=5&let=6&ct=13&ft=-1",
+   "symbols": [
+    "خیریه مهر گیتی"
+   ]
+  },
+  {
+   "id": "codal-1633488",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:10:17+03:30",
+   "fetched_at_utc": "2026-11-14T06:42:32Z",
+   "نماد": "سفارود",
+   "نام شرکت": "کارخانه فارسیت دورود",
+   "title": "تعلیق نماد معاملاتی ناشر به استناد بند ۷ ماده ۱۳مکرر۲ دستورالعمل اجرایی نحوه انجام معاملات اوراق بهادار در فرابورس ایران",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633488,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=F93EBMBo3OOObOOOu9mzXGiszBww%3d%3d&rt=0&let=169&ct=0&ft=-1",
+   "symbols": [
+    "سفارود"
+   ]
+  },
+  {
+   "id": "codal-1633487",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:09:49+03:30",
+   "fetched_at_utc": "2026-11-14T06:42:32Z",
+   "نماد": "قمرو",
+   "نام شرکت": "قند مرودشت",
+   "title": "توضیحات در خصوص اطلاعات و صورت های مالی منتشر شده",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633487,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=31Ff7zT4FNTAansoGYNtsg%3d%3d&rt=0&let=174&ct=0&ft=-1",
+   "symbols": [
+    "قمرو"
+   ]
+  },
+  {
+   "id": "codal-1633497",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:09:43+03:30",
+   "fetched_at_utc": "2026-11-14T06:42:32Z",
+   "نماد": "شمیم",
+   "نام شرکت": "در اوراق بهادار با درآمد ثابت شمیم تابان مهرگان",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633497,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=JMiMVAQeD7j89gWPMIruOOObOOOw%3d%3d&rt=2&let=121&ct=5&ft=2",
+   "symbols": [
+    "شمیم"
+   ]
+  },
+  {
+   "id": "codal-1633478",
+   "source": "کدال",
+   "published_at": "2026-11-14T10:00:36+03:30",
+   "fetched_at_utc": "2026-11-14T06:32:12Z",
+   "نماد": "قمرو",
+   "نام شرکت": "قند مرودشت",
+   "title": "پیشنهاد هیئت مدیره به مجمع عمومی فوق العاده در خصوص افزایش سرمایه",
+   "نوع": "افزایش سرمایه",
+   "شمارهٔ پیگیری": 1633478,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=saBG5dNfUP9FlOOObOOOTppVDR8Q%3d%3d&rt=0&let=55&ct=0&ft=-1",
+   "symbols": [
+    "قمرو"
+   ]
+  },
+  {
+   "id": "codal-1633422",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:57:21+03:30",
+   "fetched_at_utc": "2026-11-14T06:30:12Z",
+   "نماد": "والماس",
+   "نام شرکت": "سرمایه گذاری الماس حکمت ایرانیان",
+   "title": "افشای اطلاعات بااهمیت - (افشای معاملات موضوع ماده ۱۲۹ اصلاحیه قانون تجارت، یا سایر اشخاص وابسته - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633422,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=n5AohrLNJqSPZ6BXLFItWg%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "والماس"
+   ]
+  },
+  {
+   "id": "codal-1633450",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:50:43+03:30",
+   "fetched_at_utc": "2026-11-14T06:23:55Z",
+   "نماد": "بپویا",
+   "نام شرکت": "دانش محور پویا نیرو",
+   "title": "آگهی دعوت به مجمع عمومی فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633450,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=vGkvIELSukuaOOObOOOHBEOOObOOO15QNw%3d%3d&rt=0&let=18&ct=0&ft=-1",
+   "symbols": [
+    "بپویا"
+   ]
+  },
+  {
+   "id": "codal-1633420",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:48:26+03:30",
+   "fetched_at_utc": "2026-11-14T06:19:51Z",
+   "نماد": "بیمیسکو",
+   "نام شرکت": "مجتمع معدنی و صنعت آهن و فولاد بافق",
+   "title": "ضرورت برگزاری کنفرانس اطلاع رسانی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633420,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=7BnOeMqOmtwooXvRukddMA%3d%3d&rt=0&let=150&ct=0&ft=-1",
+   "symbols": [
+    "بیمیسکو"
+   ]
+  },
+  {
+   "id": "codal-1633442",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:45:41+03:30",
+   "fetched_at_utc": "2026-11-14T06:17:50Z",
+   "نماد": "فکور",
+   "نام شرکت": "مهندسی فکور صنعت تهران",
+   "title": "افشای اطلاعات بااهمیت - (تغییرات اساسی در قرارداد - گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633442,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=bo70EFkBWyZQQQaQQQ8KblQQQaQQQdFasg%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "فکور"
+   ]
+  },
+  {
+   "id": "codal-1633461",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:43:35+03:30",
+   "fetched_at_utc": "2026-11-14T06:15:34Z",
+   "نماد": "آلکان",
+   "نام شرکت": "بخشی راهبر صنایع مهرگان",
+   "title": "آگهی دعوت به مجمع صندوق سرمایه گذاری در تاریخ ۱۴۰۵/۰۹/۰۳",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633461,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=lnDOOObOOOm2eMWTrsPCw1pCSzOQ%3d%3d&rt=2&let=121&ct=5&ft=4",
+   "symbols": [
+    "آلکان"
+   ]
+  },
+  {
+   "id": "codal-1633447",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:40:05+03:30",
+   "fetched_at_utc": "2026-11-14T06:11:23Z",
+   "نماد": "وثوق",
+   "نام شرکت": "سرمایه گذاری وثوق امین",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - اصلاح مبلغ توافق شده بابت تحصیل سهام شرکتهای مژده- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۴/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633447,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=p1Koc5uDKTCI8Z1J8QAaBg%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وثوق"
+   ]
+  },
+  {
+   "id": "codal-1633440",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:39:38+03:30",
+   "fetched_at_utc": "2026-11-14T06:11:23Z",
+   "نماد": "وثوق",
+   "نام شرکت": "سرمایه گذاری وثوق امین",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - قرارداد الحاقی بابت خرید سهام شرکت شگرف ابزار فارس- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۴/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633440,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=ypyI3AUQLaZqcjuFgCkDIQ%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وثوق"
+   ]
+  },
+  {
+   "id": "codal-1633435",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:39:09+03:30",
+   "fetched_at_utc": "2026-11-14T06:11:23Z",
+   "نماد": "وثوق",
+   "نام شرکت": "سرمایه گذاری وثوق امین",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - قرارداد الحاقی بابت خرید سهام شرکت بهین قالب- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۴/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633435,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=8zLGE7x29gB2upgKhhzRhQ%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وثوق"
+   ]
+  },
+  {
+   "id": "codal-1633429",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:37:32+03:30",
+   "fetched_at_utc": "2026-11-14T06:09:23Z",
+   "نماد": "وثوق",
+   "نام شرکت": "سرمایه گذاری وثوق امین",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - قراداد الحاقی بابت خریدسهام شرکت مژده وصل پارسیان- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۴/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633429,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=Y4Wjx4IZ3KslkblQQQaQQQt5fi6A%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وثوق"
+   ]
+  },
+  {
+   "id": "codal-1633411",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:37:07+03:30",
+   "fetched_at_utc": "2026-11-14T06:09:23Z",
+   "نماد": "وثوق",
+   "نام شرکت": "سرمایه گذاری وثوق امین",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - قرارداد الحاقی بابت خرید سهام شرکت مژده وصل شیرار- گروه ب) منتهی به سال مالی ۱۴۰۶/۰۴/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633411,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SYrUMz5v72EwexnbOOObOOOKweWA%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "وثوق"
+   ]
+  },
+  {
+   "id": "codal-1633423",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:27:40+03:30",
+   "fetched_at_utc": "2026-11-14T06:01:12Z",
+   "نماد": "شمواد",
+   "نام شرکت": "تولید مواد اولیه الیاف مصنوعی",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در مفاد هر نوع اطلاعیه بااهمیتی که قبلاً منتشر شده است - گروه ب) منتهی به سال مالی ۱۴۰۶/۰۶/۳۱",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633423,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=0s0OVu5MF4mEtvzMOnnH9A%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "شمواد"
+   ]
+  },
+  {
+   "id": "codal-1633426",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:25:49+03:30",
+   "fetched_at_utc": "2026-11-14T05:57:04Z",
+   "نماد": "کنور",
+   "نام شرکت": "توسعه معدنی و صنعتی صبا نور",
+   "title": "مهلت استفاده از حق تقدم خرید سهام(اصلاحیه)",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633426,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SUunQQQaQQQNpJtz3RBU3OOObOOOFs0Eow%3d%3d&rt=0&let=25&ct=0&ft=-1",
+   "symbols": [
+    "کنور"
+   ]
+  },
+  {
+   "id": "codal-1633415",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:24:35+03:30",
+   "fetched_at_utc": "2026-11-14T05:57:04Z",
+   "نماد": "شسپا",
+   "نام شرکت": "نفت سپاهان",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - اعلام وصول قسط سوم مطالبات از شرکت ملی نفت ایران- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633415,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=PmHPExPwCvKaVHAi8hFr3w%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "شسپا"
+   ]
+  },
+  {
+   "id": "codal-1633425",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:24:12+03:30",
+   "fetched_at_utc": "2026-11-14T05:57:04Z",
+   "نماد": "والماس",
+   "نام شرکت": "سرمایه گذاری الماس حکمت ایرانیان",
+   "title": "افشای اطلاعات بااهمیت - (تحصیل سهام - گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹(اصلاحیه)",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633425,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=6MN6doCzRj130rhoIAX6vw%3d%3d&rt=2&let=11&ct=0&ft=-1",
+   "symbols": [
+    "والماس"
+   ]
+  },
+  {
+   "id": "codal-1633398",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:19:36+03:30",
+   "fetched_at_utc": "2026-11-14T05:53:03Z",
+   "نماد": "حتاید",
+   "نام شرکت": "تاید واتر خاورمیانه",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در مفاد هر نوع اطلاعیه بااهمیتی که قبلاً منتشر شده است - گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633398,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=quEOd1RXKB754cZ0V6JTyg%3d%3d&rt=5&let=11&ct=0&ft=-1",
+   "symbols": [
+    "حتاید"
+   ]
+  },
+  {
+   "id": "codal-1633401",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:11:51+03:30",
+   "fetched_at_utc": "2026-11-14T05:44:49Z",
+   "نماد": "درهآور",
+   "نام شرکت": "داروئی ره آورد تامین",
+   "title": "افشای اطلاعات بااهمیت - (تغییر در نرخ فروش محصولات یا ارائه خدمات – گروه الف) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633401,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=OOObOOOD49fUOOObOOONOkiMzRqWrGs2Hg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "درهآور"
+   ]
+  },
+  {
+   "id": "codal-1633417",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:07:47+03:30",
+   "fetched_at_utc": "2026-11-14T05:40:45Z",
+   "نماد": "شملی",
+   "نام شرکت": "ملی شیمی کشاورز",
+   "title": "آگهی دعوت به مجمع عمومی فوق العاده دوره ۱۲ ماهه منتهی به ۱۴۰۶/۰۶/۳۱(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633417,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=1oU3zq7j6OOObOOOo2V5rajH01tg%3d%3d&rt=0&let=18&ct=0&ft=-1",
+   "symbols": [
+    "شملی"
+   ]
+  },
+  {
+   "id": "codal-1630373",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:06:36+03:30",
+   "fetched_at_utc": "2026-11-14T05:38:45Z",
+   "نماد": "ونیکی",
+   "نام شرکت": "سرمایه گذاری ملی ایران",
+   "title": "اعلامیه پذیره نویسی عمومی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1630373,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=XvSaHX83T6G83MsfjO5irQ%3d%3d&rt=2&let=27&ct=0&ft=-1",
+   "symbols": [
+    "ونیکی"
+   ]
+  },
+  {
+   "id": "codal-1633413",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:02:01+03:30",
+   "fetched_at_utc": "2026-11-14T05:34:41Z",
+   "نماد": "شملی",
+   "نام شرکت": "ملی شیمی کشاورز",
+   "title": "آگهی دعوت به مجمع عمومی عادی بطور فوق العاده(اصلاحیه)",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633413,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=wrzRtZT1AiyTFnXhMaPVZQ%3d%3d&rt=0&let=17&ct=0&ft=-1",
+   "symbols": [
+    "شملی"
+   ]
+  },
+  {
+   "id": "codal-1633396",
+   "source": "کدال",
+   "published_at": "2026-11-14T09:00:34+03:30",
+   "fetched_at_utc": "2026-11-14T05:32:41Z",
+   "نماد": "آبین",
+   "نام شرکت": "کشت وصنعت آب شیرین",
+   "title": "تعلیق نماد معاملاتی ناشر به استناد بند ۷ ماده ۱۳مکرر۲ دستورالعمل اجرایی نحوه انجام معاملات اوراق بهادار در فرابورس ایران",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633396,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=fUGZtvnUS4atpx0IQQQaQQQv9ESg%3d%3d&rt=8&let=169&ct=0&ft=-1",
+   "symbols": [
+    "آبین"
+   ]
+  },
+  {
+   "id": "codal-1633405",
+   "source": "کدال",
+   "published_at": "2026-11-14T08:59:07+03:30",
+   "fetched_at_utc": "2026-11-14T05:30:36Z",
+   "نماد": "کلر",
+   "نام شرکت": "کلرپارس",
+   "title": "توضیحات در خصوص اطلاعات و صورت های مالی منتشر شده",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633405,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=8LkomkZI5qozoYQQQaQQQ9Zhd6iw%3d%3d&rt=0&let=174&ct=0&ft=-1",
+   "symbols": [
+    "کلر"
+   ]
+  },
+  {
+   "id": "codal-1628551",
+   "source": "کدال",
+   "published_at": "2026-11-14T08:44:51+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "شراز",
+   "نام شرکت": "پالایش نفت شیراز",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1628551,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=uVPdc6BjQbiIvHTvSfihEw%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "شراز"
+   ]
+  },
+  {
+   "id": "codal-1633226",
+   "source": "کدال",
+   "published_at": "2026-11-14T08:24:09+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کنور",
+   "نام شرکت": "توسعه معدنی و صنعتی صبا نور",
+   "title": "مهلت استفاده از حق تقدم خرید سهام",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633226,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=yT0Z4LeSJVdcOOObOOOT2gBvEv7g%3d%3d&rt=0&let=25&ct=0&ft=-1",
+   "symbols": [
+    "کنور"
+   ]
+  },
+  {
+   "id": "codal-1633363",
+   "source": "کدال",
+   "published_at": "2026-11-14T08:00:48+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کمرجان",
+   "نام شرکت": "بازرگانی و تولیدی مرجانکار",
+   "title": "تمدید اعلامیه پذیره نویسی عمومی(اصلاحیه)",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633363,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=7bZ33A8LVDPcjXLG5ZOvyg%3d%3d&rt=0&let=27&ct=0&ft=-1",
+   "symbols": [
+    "کمرجان"
+   ]
+  },
+  {
+   "id": "codal-1633357",
+   "source": "کدال",
+   "published_at": "2026-11-14T07:39:41+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "ثنوسا",
+   "نام شرکت": "نوسازی و ساختمان تهران",
+   "title": "تغییر نشانی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633357,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=Fy6FFy9Hd4jl0jzNKwQQQaQQQbfQ%3d%3d",
+   "symbols": [
+    "ثنوسا"
+   ]
+  },
+  {
+   "id": "codal-1633356",
+   "source": "کدال",
+   "published_at": "2026-11-14T07:17:08+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "پرسپولیس",
+   "نام شرکت": "فرهنگی ورزشی پرسپولیس",
+   "title": "آگهی دعوت به مجمع عمومی عادی سالیانه نوبت دوم دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۳/۳۱",
+   "نوع": "مجمع",
+   "شمارهٔ پیگیری": 1633356,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=rx1zKayP9G2q9VOOObOOOeuTlkSg%3d%3d&rt=5&let=52&ct=0&ft=-1",
+   "symbols": [
+    "پرسپولیس"
+   ]
+  },
+  {
+   "id": "codal-1633346",
+   "source": "کدال",
+   "published_at": "2026-11-12T16:16:58+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "آب",
+   "نام شرکت": "مهندسی توسعه آب آسیا",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - تائیدیه بازرس قانونی زمین و ساختمان- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633346,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=KKCguK9CuE6e3gooi4YMjw%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "آب"
+   ]
+  },
+  {
+   "id": "codal-1633333",
+   "source": "کدال",
+   "published_at": "2026-11-12T16:00:16+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "ستران",
+   "نام شرکت": "سیمان تهران",
+   "title": "معرفی /تغییر در ترکیب اعضای هیئت مدیره/مدیر عامل(اصلاحیه)",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633333,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=PgVwWPdDZ5MVuCzicGJdIQ%3d%3d&rt=0&let=19&ct=0&ft=-1",
+   "symbols": [
+    "ستران"
+   ]
+  },
+  {
+   "id": "codal-1633343",
+   "source": "کدال",
+   "published_at": "2026-11-12T16:00:18+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "آب",
+   "نام شرکت": "مهندسی توسعه آب آسیا",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - مفاصا حساب بدهی بیمه تامین اجتماعی سال ۱۴۰۳ شرکت- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1633343,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SOOObOOO6oQQQaQQQd9GAmTGrOOObOOOnEvICdtQ%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "آب"
+   ]
+  },
+  {
+   "id": "codal-1632800",
+   "source": "کدال",
+   "published_at": "2026-11-12T15:29:10+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "آب",
+   "نام شرکت": "مهندسی توسعه آب آسیا",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - مفاصا حساب بدهی مالیات عملکرد سال ۱۴۰۳- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1632800,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=mP1lQQQaQQQQBdMOJXYg3lzval6g%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "آب"
+   ]
+  },
+  {
+   "id": "codal-1632725",
+   "source": "کدال",
+   "published_at": "2026-11-12T15:00:18+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "آب",
+   "نام شرکت": "مهندسی توسعه آب آسیا",
+   "title": "افشای اطلاعات بااهمیت - (سایر اطلاعات بااهمیت - توضیحات در خصوص مفاد قرارداد اشخاص وابسته- گروه ب) منتهی به سال مالی ۱۴۰۵/۱۲/۲۹",
+   "نوع": "افشای اطلاعات بااهمیت",
+   "شمارهٔ پیگیری": 1632725,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=rlmSlq5BK741fVxucVc3mg%3d%3d&rt=0&let=11&ct=0&ft=-1",
+   "symbols": [
+    "آب"
+   ]
+  },
+  {
+   "id": "codal-1633330",
+   "source": "کدال",
+   "published_at": "2026-11-12T14:30:14+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کصدف",
+   "نام شرکت": "کاشی صدف سرام استقلال آباده",
+   "title": "مشخصات کمیته ریسک",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633330,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=SplwNB1EUn9NOOObOOO4jiDPKZBw%3d%3d&rt=0&let=260&ct=0&ft=-1",
+   "symbols": [
+    "کصدف"
+   ]
+  },
+  {
+   "id": "codal-1633331",
+   "source": "کدال",
+   "published_at": "2026-11-12T14:16:28+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "غپاک",
+   "نام شرکت": "لبنیات پاستوریزه پاک",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۷/۳۰(اصلاحیه)",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1633331,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=urGdHiEqx6HQeumOOObOOO8mAXuQ%3d%3d&rt=0&let=58&ct=0&ft=-1",
+   "symbols": [
+    "غپاک"
+   ]
+  },
+  {
+   "id": "codal-1630713",
+   "source": "کدال",
+   "published_at": "2026-11-12T13:37:40+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "خمحرکه",
+   "نام شرکت": "صنعتی نیرو محرکه",
+   "title": "شفاف سازی در خصوص شایعه، خبر یا گزارش منتشر شده",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1630713,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=LQXoHXnxS97zG8XbIMH73g%3d%3d&rt=0&let=128&ct=0&ft=-1",
+   "symbols": [
+    "خمحرکه"
+   ]
+  },
+  {
+   "id": "codal-1633326",
+   "source": "کدال",
+   "published_at": "2026-11-12T13:01:48+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کصدف",
+   "نام شرکت": "کاشی صدف سرام استقلال آباده",
+   "title": "کمیته انتصابات",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633326,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=3S8pZ3tP0osc4aVHYsn5rg%3d%3d&rt=0&let=248&ct=0&ft=-1",
+   "symbols": [
+    "کصدف"
+   ]
+  },
+  {
+   "id": "codal-1633320",
+   "source": "کدال",
+   "published_at": "2026-11-12T12:46:07+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کصدف",
+   "نام شرکت": "کاشی صدف سرام استقلال آباده",
+   "title": "مشخصات کمیته حسابرسی و واحد حسابرسی داخلی",
+   "نوع": "سایر",
+   "شمارهٔ پیگیری": 1633320,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=Sd6jQKQQQaQQQww0DxAruSBqW55g%3d%3d&rt=0&let=60&ct=0&ft=-1",
+   "symbols": [
+    "کصدف"
+   ]
+  },
+  {
+   "id": "codal-1630473",
+   "source": "کدال",
+   "published_at": "2026-11-12T12:38:14+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "بگیلان",
+   "نام شرکت": "توسعه مسیر برق گیلان",
+   "title": "صورتهای مالی سال مالی منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت مدیریت تولید برق گیلان)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1630473,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=2LYkQQQaQQQGHsG0KYrNJceIWxXw%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "بگیلان"
+   ]
+  },
+  {
+   "id": "codal-1632512",
+   "source": "کدال",
+   "published_at": "2026-11-12T12:37:59+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "نماد",
+   "نام شرکت": "گروه مالی نماد غدیر",
+   "title": "اطلاعات و صورتهای مالی میاندورهای دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده) (شرکت سرمایه گذاری آپاداناایساتیس)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1632512,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=g2yodSPuIQQQaQQQO9VaRT0sGYOQ%3d%3d&rt=2&let=6&ct=0&ft=-1",
+   "symbols": [
+    "نماد"
+   ]
+  },
+  {
+   "id": "codal-1633324",
+   "source": "کدال",
+   "published_at": "2026-11-12T12:33:58+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "قاروم",
+   "نام شرکت": "قند ارومیه",
+   "title": "زمانبندی پرداخت سود دوره ۱۲ ماهه منتهی به ۱۴۰۵/۰۴/۳۱(اصلاحیه)",
+   "نوع": "سود",
+   "شمارهٔ پیگیری": 1633324,
+   "url": "https://www.codal.ir/Reports/Attachment.aspx?LetterSerial=zNlCFypavw4tSDBmXTlopg%3d%3d",
+   "symbols": [
+    "قاروم"
+   ]
+  },
+  {
+   "id": "codal-1632784",
+   "source": "کدال",
+   "published_at": "2026-11-12T12:11:38+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "وسخراش",
+   "نام شرکت": "سرمایه گذاری استان خراسان شمالی",
+   "title": "گزارش فعالیت ماهانه دوره ۱ ماهه منتهی به ۱۴۰۵/۰۷/۳۰",
+   "نوع": "گزارش فعالیت ماهانه",
+   "شمارهٔ پیگیری": 1632784,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=QQQaQQQSQ2yVqDuQQQaQQQw385ouNOOObOOOOOObOOO0IQ%3d%3d&rt=2&let=8&ct=0&ft=-1",
+   "symbols": [
+    "وسخراش"
+   ]
+  },
+  {
+   "id": "codal-1633282",
+   "source": "کدال",
+   "published_at": "2026-11-12T11:48:06+03:30",
+   "fetched_at_utc": "2026-11-14T05:16:20Z",
+   "نماد": "کاوان",
+   "نام شرکت": "مس کاوان نماد",
+   "title": "اطلاعات و صورتهای مالی میاندورهای تلفیقی دوره ۶ ماهه منتهی به ۱۴۰۵/۰۶/۳۱ (حسابرسی شده)",
+   "نوع": "صورت مالی",
+   "شمارهٔ پیگیری": 1633282,
+   "url": "https://www.codal.ir/Reports/Decision.aspx?LetterSerial=t6OypGLHqiJkCQP6MemSdA%3d%3d&rt=0&let=6&ct=0&ft=-1",
+   "symbols": [
+    "کاوان"
+   ]
+  }
+ ]
+}

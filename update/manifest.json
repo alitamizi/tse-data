@@ -1,0 +1,6 @@
+{
+ "version": "4.8.3",
+ "url": "https://raw.githubusercontent.com/alitamizi/tse-data/main/update/tse_bot.py",
+ "sha256": "f541f1abc5a7179466055e532a6252d6a1900541675e72a28c7a20faac2b344a",
+ "notes": "تشخیص: افزودن شناسهٔ پردازش و زمان شروع به meta.json برای پیدا کردن اجرای هم‌زمان چند نمونه"
+}

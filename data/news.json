@@ -1,0 +1,1945 @@
+{
+ "fetched_at_utc": "2026-11-21T20:33:25Z",
+ "last_success_utc": {
+  "news:بورس‌نیوز": "2026-11-21T20:33:25Z",
+  "news:سنا": "2026-11-21T20:33:25Z",
+  "news:دنیای اقتصاد": "2026-11-21T20:33:25Z",
+  "news:اکوایران": "2026-11-21T20:33:25Z",
+  "news:تسنیم": "2026-11-21T20:28:16Z",
+  "news:ایرنا": "2026-11-21T20:33:25Z",
+  "news:ایسنا": "2026-11-21T20:33:25Z",
+  "news:اقتصادآنلاین": "2026-11-21T20:33:25Z",
+  "news:تجارت‌نیوز": "2026-11-21T20:33:25Z",
+  "news:نبض بورس": "2026-11-21T20:33:25Z"
+ },
+ "errors": {
+  "فارس": "2026-11-21T20:33:25Z SSLError https://www.farsnews.ir",
+  "تسنیم": "2026-11-21T20:33:25Z خبری پیدا نشد در https://www.tasnimnews.ir/fa/rss/feed/0/7/0/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C"
+ },
+ "items": [
+  {
+   "id": "news-05072f254c659932",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:29:24Z",
+   "fetched_at_utc": "2026-11-21T20:33:25Z",
+   "title": "ابراز امیدواری اسحاقدار نسبت به توافق ایران و آمریکا؛ جهان توان تحمل یک درگیری طولانیمدت در غرب آسیا را ندارد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309920-%D8%A7%D8%A8%D8%B1%D8%A7%D8%B2-%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AD%D8%A7%D9%82-%D8%AF%D8%A7%D8%B1-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AC%D9%87%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D9%86-%D8%AA%D8%AD%D9%85%D9%84-%DB%8C%DA%A9-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D9%85%D8%AF%D8%AA-%D8%AF%D8%B1-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": [
+    "توان",
+    "آسیا"
+   ]
+  },
+  {
+   "id": "news-d7c1cf55b13a1fbb",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:27:57Z",
+   "fetched_at_utc": "2026-11-21T20:33:25Z",
+   "title": "ادعای بحرین: ایران تاسیسات صنعتی ما را هدف قرار داد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309921-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%85%D8%A7-%D8%B1%D8%A7-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF",
+   "symbols": [
+    "ما",
+    "هدف"
+   ]
+  },
+  {
+   "id": "news-3e5958111f3d1ad1",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:25:30Z",
+   "fetched_at_utc": "2026-11-21T20:33:25Z",
+   "title": "نوری قزلجه: از واردات ماهی تن تقریبا بینیاز شدیم +فیلم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309923-%D9%86%D9%88%D8%B1%DB%8C-%D9%82%D8%B2%D9%84%D8%AC%D9%87-%D8%A7%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%A7%D9%87%DB%8C-%D8%AA%D9%86-%D8%AA%D9%82%D8%B1%DB%8C%D8%A8%D8%A7-%D8%A8%DB%8C-%D9%86%DB%8C%D8%A7%D8%B2-%D8%B4%D8%AF%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85",
+   "symbols": [
+    "نوری"
+   ]
+  },
+  {
+   "id": "news-e153fd49a98bdfca",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T20:28:02Z",
+   "fetched_at_utc": "2026-11-21T20:33:25Z",
+   "title": "تغییر مهم در کالابرگ / احتمال افزایش اعتبار بالا گرفت",
+   "url": "https://www.eghtesadonline.com/fa/news/2177262/تغییر-مهم-در-کالابرگ-احتمال-افزایش-اعتبار-بالا-گرفت",
+   "symbols": [
+    "اعتبار"
+   ]
+  },
+  {
+   "id": "news-2bf861b2a37ef620",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T20:29:27Z",
+   "fetched_at_utc": "2026-11-21T20:33:25Z",
+   "title": "کاهش ۳۳ درصدی تولید خودرو در ۷ ماهه سال",
+   "url": "https://tejaratnews.com/%da%a9%d8%a7%d9%87%d8%b4-%db%b3%db%b3-%d8%af%d8%b1%d8%b5%d8%af%db%8c-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%af%d8%b1-%db%b7-%d9%85%d8%a7%d9%87%d9%87-%d8%b3%d8%a7%d9%84",
+   "symbols": [
+    "خودرو"
+   ]
+  },
+  {
+   "id": "news-e9ac619f8851d758",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T20:10:29Z",
+   "fetched_at_utc": "2026-11-21T20:28:16Z",
+   "title": "پزشکیان: درحال برنامهریزی برای کنترل ناترازی انرژی در روزهای سرد هستیم+ ویدئو",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158533-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1%D8%AD%D8%A7%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%DB%8C%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AF-%D9%87%D8%B3%D8%AA%DB%8C%D9%85-%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
+   "symbols": [
+    "انرژی"
+   ]
+  },
+  {
+   "id": "news-184f6bf95f5b951f",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T20:27:30Z",
+   "fetched_at_utc": "2026-11-21T20:28:16Z",
+   "title": "بازتاب رونمایی از شهرک جدید موشکی ایران در رسانههای اسرائیلی",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754537/%D8%A8%D8%A7%D8%B2%D8%AA%D8%A7%D8%A8-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-3f12466eb6226cd0",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T20:20:19Z",
+   "fetched_at_utc": "2026-11-21T20:28:16Z",
+   "title": "تحویل مزدا CX-۳۰ آفتاب خودرو آغاز شد/ قیمت نهایی ۱۰.۶ میلیارد تومان",
+   "url": "https://www.eghtesadonline.com/fa/news/2177269/تحویل-مزدا-cx-30-آفتاب-خودرو-آغاز-شد-قیمت-نهایی-10-6-میلیارد-تومان",
+   "symbols": [
+    "خودرو"
+   ]
+  },
+  {
+   "id": "news-0ac62bc3d198b20e",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:21:33Z",
+   "fetched_at_utc": "2026-11-21T20:23:10Z",
+   "title": "سپاه حمله به دو رادار پدافندی پاتریوت آمریکایی در بحرین را تایید کرد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309925-%D8%B3%D9%BE%D8%A7%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%AF%D9%88-%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF%DB%8C-%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D9%88%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D8%B1%D8%A7-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-2572f252a5c47b4f",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:17:30Z",
+   "fetched_at_utc": "2026-11-21T20:23:10Z",
+   "title": "تسنیم: آمادگی ایران برای مقابله به مثل علیه زیرساخت های نفتی کشورهای منطقه تکذیب شد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309919-%D8%AA%D8%B3%D9%86%DB%8C%D9%85-%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D9%87-%D9%85%D8%AB%D9%84-%D8%B9%D9%84%DB%8C%D9%87-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%AA%DA%A9%D8%B0%DB%8C%D8%A8-%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-3f698155cf6cc699",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T20:21:32Z",
+   "fetched_at_utc": "2026-11-21T20:23:10Z",
+   "title": "رنج بی پایان فلسطینیان در ایستهای بازرسی صهیونیستها",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754605/%D8%B1%D9%86%D8%AC-%D8%A8%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%DB%8C-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7",
+   "symbols": []
+  },
+  {
+   "id": "news-04cb0e02b1853a4e",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T20:20:08Z",
+   "fetched_at_utc": "2026-11-21T20:23:10Z",
+   "title": "حمله موشکی و پهپادی سپاه به 2 رادار پدافندی پاتریوت",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754607/%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D9%88-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%A8%D9%87-2-%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF%DB%8C-%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D9%88%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-d9f3bccca2941ddd",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T20:15:20Z",
+   "fetched_at_utc": "2026-11-21T20:23:10Z",
+   "title": "فوری / حملات موشکی ایران به ۲ پایگاه آمریکا در بحرین تایید شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177268/فوری-حملات-موشکی-ایران-به-2-پایگاه-آمریکا-در-بحرین-تایید-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-4290c75ac590345d",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T20:17:14Z",
+   "fetched_at_utc": "2026-11-21T20:18:07Z",
+   "title": "اعتراف رسانه اسرائیلی: حماس قدرت مدیریتیاش را حفظ کرده است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754595/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C-%D8%AD%D9%85%D8%A7%D8%B3-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D8%A7%D8%B4-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-c0198592613d2b0c",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:11:26Z",
+   "fetched_at_utc": "2026-11-21T20:13:00Z",
+   "title": "شوک به بازار خودرو/ قیمت لاستیک سواری ۳۰ درصد گران شد!",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309918-%D8%B4%D9%88%DA%A9-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9-%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1%D8%B5%D8%AF-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+   "symbols": [
+    "خودرو"
+   ]
+  },
+  {
+   "id": "news-ee6138d420dd7e72",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T20:08:33Z",
+   "fetched_at_utc": "2026-11-21T20:13:00Z",
+   "title": "دموکراتها شمشیر را برای ترامپ از رو بستند / وعده جنجالی درباره پایان جنگ با ایران",
+   "url": "https://www.eghtesadonline.com/fa/news/2177267/دموکرات-ها-شمشیر-را-برای-ترامپ-از-رو-بستند-وعده-جنجالی-درباره-پایان-جنگ-با-ایران",
+   "symbols": []
+  },
+  {
+   "id": "news-0ce887139cbf2b93",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T20:05:22Z",
+   "fetched_at_utc": "2026-11-21T20:07:55Z",
+   "title": "لحظه سقوط موشک پاتریوت آمریکا در منطقه مسکونی در بحرین +فیلم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309917-%D9%84%D8%AD%D8%B8%D9%87-%D8%B3%D9%82%D9%88%D8%B7-%D9%85%D9%88%D8%B4%DA%A9-%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D9%88%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-c6101fab41b60620",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T20:01:48Z",
+   "fetched_at_utc": "2026-11-21T20:07:55Z",
+   "title": "لایحه جدید درباره خشونت علیه زنان / معاون پزشکیان توضیح داد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177265/لایحه-جدید-درباره-خشونت-علیه-زنان-معاون-پزشکیان-توضیح-داد",
+   "symbols": []
+  },
+  {
+   "id": "news-fece010cf09361a7",
+   "source": "ایسنا",
+   "published_at": "2026-11-21T19:59:24Z",
+   "fetched_at_utc": "2026-11-21T20:02:50Z",
+   "title": "قیمت گندم نانواییها تغییر نمیکند/ افزایش قیمت ماکارونی، بیسکویت و نان صنعتی قطعی است",
+   "url": "https://www.isna.ir/news/1405083021151/%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D9%86%D8%AF%D9%85-%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86%DB%8C-%D8%A8%DB%8C%D8%B3%DA%A9%D9%88%DB%8C%D8%AA",
+   "symbols": [
+    "نان"
+   ]
+  },
+  {
+   "id": "news-f8e3ed20086208d4",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:59:01Z",
+   "fetched_at_utc": "2026-11-21T20:02:50Z",
+   "title": "افتتاح شوروم مرکزی آرتابان موتور در شهرک غرب/ تحویل زودهنگام نخستین سری آرتابان توکا",
+   "url": "https://www.eghtesadonline.com/fa/news/2177266/افتتاح-شوروم-مرکزی-آرتابان-موتور-در-شهرک-غرب-تحویل-زودهنگام-نخستین-سری-آرتابان-توکا",
+   "symbols": []
+  },
+  {
+   "id": "news-b821b05cecefcfab",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:58:55Z",
+   "fetched_at_utc": "2026-11-21T20:02:50Z",
+   "title": "افشای یک ادعای تاریخی درباره صدام /هدف پنهان چه بود؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177244/افشای-یک-ادعای-تاریخی-درباره-صدام-هدف-پنهان-چه-بود",
+   "symbols": [
+    "هدف"
+   ]
+  },
+  {
+   "id": "news-b7c912a816d008dd",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:58:32Z",
+   "fetched_at_utc": "2026-11-21T20:02:50Z",
+   "title": "فوری / مردم این مناطق منتظر صدای انفجار باشند",
+   "url": "https://www.eghtesadonline.com/fa/news/2177234/فوری-مردم-این-مناطق-منتظر-صدای-انفجار-باشند",
+   "symbols": []
+  },
+  {
+   "id": "news-77699cdcaf6e360c",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:57:02Z",
+   "fetched_at_utc": "2026-11-21T19:57:44Z",
+   "title": "زلزله فارس را لرزاند",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309916-%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%B1%D8%A7-%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D8%AF",
+   "symbols": [
+    "فارس"
+   ]
+  },
+  {
+   "id": "news-cdd6b50c91e0e7cf",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:49:30Z",
+   "fetched_at_utc": "2026-11-21T19:57:44Z",
+   "title": "پیشبینی بورس فردا یکشنبه ۱ آذر ۱۴۰۵/ احتمال بهبود بازار سرمایه در معاملات فردا وجود دارد؟",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309915-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%B1%D8%AF%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-71546808d33740dd",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T19:53:23Z",
+   "fetched_at_utc": "2026-11-21T19:57:44Z",
+   "title": "پشت صحنه نمایش یالتای سه ابرقدرت",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-107/158502-%D9%BE%D8%B4%D8%AA-%D8%B5%D8%AD%D9%86%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%84%D8%AA%D8%A7%DB%8C-%D8%B3%D9%87-%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-9b32dd02a49dd9bf",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:50:05Z",
+   "fetched_at_utc": "2026-11-21T19:52:38Z",
+   "title": "سیاستمدار آلمانی: همه از تاثیر منفی ارتباط با اسرائیل وحشت دارند",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754592/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%D9%85%D8%AF%D8%A7%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-%D9%87%D9%85%D9%87-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D9%85%D9%86%D9%81%DB%8C-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%88%D8%AD%D8%B4%D8%AA-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-89146b15553f4b0c",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:45:03Z",
+   "fetched_at_utc": "2026-11-21T19:52:38Z",
+   "title": "حمله موشکی و پهپادی به پایگاه ناوگان پنجم آمریکا در بحرین / جزئیات تازه از هدف قرار گرفتن مقر آمریکاییها",
+   "url": "https://www.eghtesadonline.com/fa/news/2177264/حمله-موشکی-و-پهپادی-به-پایگاه-ناوگان-پنجم-آمریکا-در-بحرین-جزئیات-تازه-از-هدف-قرار-گرفتن-مقر-آمریکایی-ها",
+   "symbols": [
+    "ناوگان",
+    "هدف"
+   ]
+  },
+  {
+   "id": "news-b67c4c8b65be25bb",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T19:45:00Z",
+   "fetched_at_utc": "2026-11-21T19:47:32Z",
+   "title": "یالتای جدید یا یک عکس یادگاری سیاسی؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-110/158529-%DB%8C%D8%A7%D9%84%D8%AA%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%8C%D8%A7-%DB%8C%DA%A9-%D8%B9%DA%A9%D8%B3-%DB%8C%D8%A7%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-37ea77105613d1f1",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:47:11Z",
+   "fetched_at_utc": "2026-11-21T19:47:32Z",
+   "title": "دیدار بارزانی با رئیس هیئت حشد شعبی عراق",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754600/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D8%B1%D8%A6%DB%8C%D8%B3-%D9%87%DB%8C%D8%A6%D8%AA-%D8%AD%D8%B4%D8%AF-%D8%B4%D8%B9%D8%A8%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82",
+   "symbols": []
+  },
+  {
+   "id": "news-3417672bfa79b2ae",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:41:28Z",
+   "fetched_at_utc": "2026-11-21T19:42:28Z",
+   "title": "سفیر عمان: درباره تنگه هرمز با ایران همکاری میکنیم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309914-%D8%B3%D9%81%DB%8C%D8%B1-%D8%B9%D9%85%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-380881b37e5f0f39",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:24:11Z",
+   "fetched_at_utc": "2026-11-21T19:42:28Z",
+   "title": "روایت فارس از علت انفجارها در بحرین/ سپاه به دو پایگاه آمریکایی حمله کرد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309910-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%B9%D9%84%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D8%B3%D9%BE%D8%A7%D9%87-%D8%A8%D9%87-%D8%AF%D9%88-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%DA%A9%D8%B1%D8%AF",
+   "symbols": [
+    "فارس"
+   ]
+  },
+  {
+   "id": "news-1fb05ee7cb7052cd",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:42:14Z",
+   "fetched_at_utc": "2026-11-21T19:42:28Z",
+   "title": "عصبانیت آمریکاییها از اظهارات متهکمانه سفیر رژیم صهیونیستی",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754586/%D8%B9%D8%B5%D8%A8%D8%A7%D9%86%DB%8C%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D9%87%DA%A9%D9%85%D8%A7%D9%86%D9%87-%D8%B3%D9%81%DB%8C%D8%B1-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-b02bb9048607f1bd",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:33:59Z",
+   "fetched_at_utc": "2026-11-21T19:37:24Z",
+   "title": "درخواست فوری «حکیم جفریز» برای پایان جنگ با ایران +فیلم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309912-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%81%D9%88%D8%B1%DB%8C-%D8%AD%DA%A9%DB%8C%D9%85-%D8%AC%D9%81%D8%B1%DB%8C%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-10a7be27acad6afd",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:34:29Z",
+   "fetched_at_utc": "2026-11-21T19:37:24Z",
+   "title": "بزرگداشت طوفان الاقصی در کانادا برگزار میشود",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754581/%D8%A8%D8%B2%D8%B1%DA%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%B5%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-28995134951ed340",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T19:30:00Z",
+   "fetched_at_utc": "2026-11-21T19:32:20Z",
+   "title": "ازسرگیری مجدد پروازها میان مصر و سوریه از دسامبر/ روابط دو کشور احیا میشود؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158532-%D8%A7%D8%B2-%D8%B3%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AC%D8%AF%D8%AF-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%D9%87%D8%A7-%D9%85%DB%8C%D8%A7%D9%86-%D9%85%D8%B5%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%A7%D9%85%D8%A8%D8%B1-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%AF%D9%88-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%AD%DB%8C%D8%A7-%D9%85%DB%8C%D8%B4%D9%88%D8%AF",
+   "symbols": [
+    "احیا"
+   ]
+  },
+  {
+   "id": "news-3e28da96c5bb992e",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:30:27Z",
+   "fetched_at_utc": "2026-11-21T19:32:20Z",
+   "title": "جفریز: ایران اکنون در موقعیتی قویتر از پیش از آغاز جنگ قرار دارد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754597/%D8%AC%D9%81%D8%B1%DB%8C%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%DA%A9%D9%86%D9%88%D9%86-%D8%AF%D8%B1-%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA%DB%8C-%D9%82%D9%88%DB%8C-%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-6f9e0e3700326ee5",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:30:01Z",
+   "fetched_at_utc": "2026-11-21T19:32:20Z",
+   "title": "پایان نوار بردهای آرسنال/ نیوکاسل ترمز توپچیها را کشید",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754596/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%86%D9%88%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%A2%D8%B1%D8%B3%D9%86%D8%A7%D9%84-%D9%86%DB%8C%D9%88%DA%A9%D8%A7%D8%B3%D9%84-%D8%AA%D8%B1%D9%85%D8%B2-%D8%AA%D9%88%D9%BE%DA%86%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7-%DA%A9%D8%B4%DB%8C%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-b22828dd514ec046",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:24:11Z",
+   "fetched_at_utc": "2026-11-21T19:27:17Z",
+   "title": "علت انفجارها در بحرین حمله سپاه به پایگاه های آمریکا بود",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309910-%D8%B9%D9%84%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D8%AD%D9%85%D9%84%D9%87-%D8%B3%D9%BE%D8%A7%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%88%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-1ede8a40a90679db",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:25:00Z",
+   "fetched_at_utc": "2026-11-21T19:27:17Z",
+   "title": "خاموشی های برنامه ریزی شده برق از فردا آغاز می شود",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754539/%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%DB%8C%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D8%B1%D9%82-%D8%A7%D8%B2-%D9%81%D8%B1%D8%AF%D8%A7-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-aa6cec6da241deb2",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:15:30Z",
+   "fetched_at_utc": "2026-11-21T19:22:13Z",
+   "title": "سخنگوی ارتش: فرزندان ملت ایران در تنگه هرمز در حال کنترل و اعمال حاکمیت هستند",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309909-%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%81%D8%B1%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%D9%85%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D8%AD%D8%A7%DA%A9%D9%85%DB%8C%D8%AA-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-58fda5901a43a8c2",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:19:18Z",
+   "fetched_at_utc": "2026-11-21T19:22:13Z",
+   "title": "فروش کیا اسپورتیج نیوفیس ۲۰۲۶ با قیمت قطعی/ شرایط ثبتنام و موعد تحویل اعلام شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177263/فروش-کیا-اسپورتیج-نیوفیس-2026-با-قیمت-قطعی-شرایط-ثبت-نام-و-موعد-تحویل-اعلام-شد",
+   "symbols": [
+    "کیا"
+   ]
+  },
+  {
+   "id": "news-b2c85ab68674bd8f",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:10:05Z",
+   "fetched_at_utc": "2026-11-21T19:17:07Z",
+   "title": "نفتالی بنت: با نتانیاهو ائتلاف نمیکنم/ به تشکیل دولتی به ریاست آیزنکوت متعهد هستم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309908-%D9%86%D9%81%D8%AA%D8%A7%D9%84%DB%8C-%D8%A8%D9%86%D8%AA-%D8%A8%D8%A7-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%D9%85-%D8%A8%D9%87-%D8%AA%D8%B4%DA%A9%DB%8C%D9%84-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D9%87%D8%B3%D8%AA%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-86dab4ab82582976",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T19:15:00Z",
+   "fetched_at_utc": "2026-11-21T19:17:07Z",
+   "title": "حکیم جفریز: جنگ ایران بیدلیل و پرهزینه بود/ باید به آن پایان دهیم",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-110/158531-%D8%AD%DA%A9%DB%8C%D9%85-%D8%AC%D9%81%D8%B1%DB%8C%D8%B2-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%DB%8C-%D8%AF%D9%84%DB%8C%D9%84-%D9%BE%D8%B1%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A8%D9%88%D8%AF-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A2%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%87%DB%8C%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-665e303bc6d325ab",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T19:10:05Z",
+   "fetched_at_utc": "2026-11-21T19:12:04Z",
+   "title": "بنت: با نتانیاهو ائتلاف نمیکنم/ به تشکیل دولتی به ریاست آیزنکوت متعهد هستم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309908-%D8%A8%D9%86%D8%AA-%D8%A8%D8%A7-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%D9%85-%D8%A8%D9%87-%D8%AA%D8%B4%DA%A9%DB%8C%D9%84-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D9%87%D8%B3%D8%AA%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-a19c623f5288cb9f",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:16:24Z",
+   "fetched_at_utc": "2026-11-21T19:12:04Z",
+   "title": "زمان آغاز خاموشیها در بخش خانگی و تجاری اعلام شد + جزئیات",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309862-%D8%B2%D9%85%D8%A7%D9%86-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-5f476c474aa88c51",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T19:06:09Z",
+   "fetched_at_utc": "2026-11-21T19:12:04Z",
+   "title": "رشد تولید کشاورزی ایران در شرایط جنگی / صادرات ۳ میلیارد دلاری محصولات در ۷ ماه",
+   "url": "https://www.eghtesadonline.com/fa/news/2177261/رشد-تولید-کشاورزی-ایران-در-شرایط-جنگی-صادرات-3-میلیارد-دلاری-محصولات-در-7-ماه",
+   "symbols": []
+  },
+  {
+   "id": "news-bc7dd4dbc4e0bd29",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:04:44Z",
+   "fetched_at_utc": "2026-11-21T19:06:59Z",
+   "title": "پوکر مالن و جشنواره گل رم در خانه پارما",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754589/%D9%BE%D9%88%DA%A9%D8%B1-%D9%85%D8%A7%D9%84%D9%86-%D9%88-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%DA%AF%D9%84-%D8%B1%D9%85-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B1%D9%85%D8%A7",
+   "symbols": []
+  },
+  {
+   "id": "news-d50e545370eafc6c",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T19:04:14Z",
+   "fetched_at_utc": "2026-11-21T19:06:59Z",
+   "title": "یارانه نقدی آبانماه دهکهای چهارم تا نهم واریز شد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754590/%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D9%86%D9%82%D8%AF%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%D8%AF%D9%87%DA%A9-%D9%87%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AA%D8%A7-%D9%86%D9%87%D9%85-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-10bfb74ea0324bf8",
+   "source": "ایرنا",
+   "published_at": "2026-11-21T19:02:35Z",
+   "fetched_at_utc": "2026-11-21T19:06:59Z",
+   "title": "رشد ۲.۳ درصدی بخش کشاورزی با وجود شرایط سخت تحمیلی / ثبت صادرات ۳ میلیارد دلاری",
+   "url": "https://www.irna.ir/news/86328694/%D8%B1%D8%B4%D8%AF-%DB%B2-%DB%B3-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B3%D8%AE%D8%AA-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%AB%D8%A8%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-28325593506e7ae8",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:57:47Z",
+   "fetched_at_utc": "2026-11-21T19:01:56Z",
+   "title": "تصاویر منتشر شده از آتشسوزی دقایقی پیش در بحرین",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309907-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A2%D8%AA%D8%B4-%D8%B3%D9%88%D8%B2%DB%8C-%D8%AF%D9%82%D8%A7%DB%8C%D9%82%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-7b710573277ebfea",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T19:00:00Z",
+   "fetched_at_utc": "2026-11-21T19:01:56Z",
+   "title": "نتانیاهو در تلاش برای از میان بردن ائتلاف آیزنکوت",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-110/158530-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AF%D8%B1-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D9%86-%D8%A8%D8%B1%D8%AF%D9%86-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-a5e7ca4bf90207ff",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:58:36Z",
+   "fetched_at_utc": "2026-11-21T19:01:56Z",
+   "title": "سخنگوی ارتش: تنگه هرمز در اختیار فرزندان ایران است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754588/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%81%D8%B1%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-0d566a9d01765854",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T19:00:59Z",
+   "fetched_at_utc": "2026-11-21T19:01:56Z",
+   "title": "۷۰ همت از منابع سهام عدالت رسوب کرده است",
+   "url": "https://tejaratnews.com/%db%b7%db%b0-%d9%87%d9%85%d8%aa-%d8%a7%d8%b2-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d8%b3%d9%87%d8%a7%d9%85-%d8%b9%d8%af%d8%a7%d9%84%d8%aa-%d8%b1%d8%b3%d9%88%d8%a8-%da%a9%d8%b1%d8%af%d9%87-%d8%a7%d8%b3%d8%aa",
+   "symbols": []
+  },
+  {
+   "id": "news-9509a0644e6f8be7",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:54:59Z",
+   "fetched_at_utc": "2026-11-21T18:56:52Z",
+   "title": "درخواست نیمی از مردم آلمان برای توقف حمایت مالی از اوکراین",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754411/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%86%DB%8C%D9%85%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%82%D9%81-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D8%B2-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-bab0cfd84c307fda",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:54:55Z",
+   "fetched_at_utc": "2026-11-21T18:56:52Z",
+   "title": "برد تلخ پاریسنژرمن در شب مصدومیت دوئه/ ستاره PSG رباط داد؟",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754587/%D8%A8%D8%B1%D8%AF-%D8%AA%D9%84%D8%AE-%D9%BE%D8%A7%D8%B1%DB%8C-%D8%B3%D9%86-%DA%98%D8%B1%D9%85%D9%86-%D8%AF%D8%B1-%D8%B4%D8%A8-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%AF%D9%88%D8%A6%D9%87-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-psg-%D8%B1%D8%A8%D8%A7%D8%B7-%D8%AF%D8%A7%D8%AF",
+   "symbols": [
+    "ستاره"
+   ]
+  },
+  {
+   "id": "news-18d0e6372ec84df4",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:54:32Z",
+   "fetched_at_utc": "2026-11-21T18:56:52Z",
+   "title": "هشدار رهبر دموکراتهای آمریکا درباره جنگ با ایران / جفریز از استیضاح ترامپ گفت",
+   "url": "https://www.eghtesadonline.com/fa/news/2177259/هشدار-رهبر-دموکرات-های-آمریکا-درباره-جنگ-با-ایران-جفریز-از-استیضاح-ترامپ-گفت",
+   "symbols": []
+  },
+  {
+   "id": "news-5e6b3b358ae8ec30",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:51:06Z",
+   "fetched_at_utc": "2026-11-21T18:56:52Z",
+   "title": "خبر مهم برای خریداران خودروهای صفر / قانون جدید اعلام شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177257/خبر-مهم-برای-خریداران-خودروهای-صفر-قانون-جدید-اعلام-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-66896c6b5dc261ea",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:48:46Z",
+   "fetched_at_utc": "2026-11-21T18:51:48Z",
+   "title": "ادعای مقابله پدافند هوایی با حملات ایران در آسمان بحرین",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309905-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-90116038d33072e4",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T18:45:00Z",
+   "fetched_at_utc": "2026-11-21T18:46:42Z",
+   "title": "نیمی از مردم آلمان خواستار کاهش یا توقف کمک به اوکراین هستند",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-107/158528-%D9%86%DB%8C%D9%85%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-e489023d8574fe4b",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:41:25Z",
+   "fetched_at_utc": "2026-11-21T18:46:42Z",
+   "title": "آژیر خطر بار دیگر در بحرین به صدا درآمد / هشدار امنیتی تازه در میزبان ناوگان پنجم آمریکا",
+   "url": "https://www.eghtesadonline.com/fa/news/2177256/آژیر-خطر-بار-دیگر-در-بحرین-به-صدا-درآمد-هشدار-امنیتی-تازه-در-میزبان-ناوگان-پنجم-آمریکا",
+   "symbols": [
+    "ناوگان"
+   ]
+  },
+  {
+   "id": "news-3ec2eb19ef87e9b4",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T18:45:34Z",
+   "fetched_at_utc": "2026-11-21T18:46:42Z",
+   "title": "وام مسکن در کمتر از ۳ روز پرداخت میشود",
+   "url": "https://tejaratnews.com/%d9%88%d8%a7%d9%85-%d9%85%d8%b3%da%a9%d9%86-%d8%af%d8%b1-%da%a9%d9%85%d8%aa%d8%b1-%d8%a7%d8%b2-%db%b3-%d8%b1%d9%88%d8%b2-%d9%be%d8%b1%d8%af%d8%a7%d8%ae%d8%aa-%d9%85%db%8c%d8%b4%d9%88%d8%af",
+   "symbols": []
+  },
+  {
+   "id": "news-3b1467d9ccee4c7d",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:40:04Z",
+   "fetched_at_utc": "2026-11-21T18:41:38Z",
+   "title": "احتمال شنیده شدن صدای انفجار اطراف اهواز و خرمشهر/ شهروندان نگران نباشند",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309873-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%B4%D9%86%DB%8C%D8%AF%D9%87-%D8%B4%D8%AF%D9%86-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A7%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%B1%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%87%D8%B1%D9%88%D9%86%D8%AF%D8%A7%D9%86-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%D9%86%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-8da8f3c830857579",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:32:41Z",
+   "fetched_at_utc": "2026-11-21T18:41:38Z",
+   "title": "۵ برابر شدن حضور شرکتهای دانشبنیان و فناور در پتروفن",
+   "url": "https://www.eghtesadonline.com/fa/news/2177254/5-برابر-شدن-حضور-شرکت-های-دانش-بنیان-و-فناور-در-پتروفن",
+   "symbols": []
+  },
+  {
+   "id": "news-32b8984ffe71acf8",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:31:43Z",
+   "fetched_at_utc": "2026-11-21T18:36:34Z",
+   "title": "آژیر هشدار در بحرین فعال شد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309872-%D8%A2%DA%98%DB%8C%D8%B1-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-bf94c4a03665d389",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:30:00Z",
+   "fetched_at_utc": "2026-11-21T18:36:34Z",
+   "title": "هوش مصنوعی بزرگترین مسئله حلنشده ریاضی را حل کرد؟",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4309866-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%B3%D8%A6%D9%84%D9%87-%D8%AD%D9%84-%D9%86%D8%B4%D8%AF%D9%87-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%B1%D8%A7-%D8%AD%D9%84-%DA%A9%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-f56f1651b285f627",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:33:27Z",
+   "fetched_at_utc": "2026-11-21T18:36:34Z",
+   "title": "اعتراض مردم لندن به سیاستهای نظامیگرایانه دولت انگلیس",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754575/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%D8%B1%D8%AF%D9%85-%D9%84%D9%86%D8%AF%D9%86-%D8%A8%D9%87-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%DA%AF%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3",
+   "symbols": []
+  },
+  {
+   "id": "news-2343f45083bc865f",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:31:38Z",
+   "fetched_at_utc": "2026-11-21T18:36:34Z",
+   "title": "لیست قیمت خرید مسکن در منطقه ۴ تهران/ میانگین قیمت هر متر آپارتمان در این منطقه چقدر است؟ + جدول آبان ۱۴۰۵",
+   "url": "https://www.eghtesadonline.com/fa/news/2177249/لیست-قیمت-خرید-مسکن-در-منطقه-4-تهران-میانگین-قیمت-هر-متر-آپارتمان-در-این-منطقه-چقدر-است-جدول-آبان-1405",
+   "symbols": []
+  },
+  {
+   "id": "news-fbebd540189e2c5b",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T18:30:28Z",
+   "fetched_at_utc": "2026-11-21T18:31:29Z",
+   "title": "کف بازار | ریزش بازار جهانی و کاهش شدید قیمت طلا و سکه داخلی",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%DA%A9%D9%81-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-105/158527-%DA%A9%D9%81-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-3a4544e92d6fcb07",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T18:30:00Z",
+   "fetched_at_utc": "2026-11-21T18:31:29Z",
+   "title": "71 حمله به یمن از سوی عربستان در 24 ساعت گذشته",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158526-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%DB%8C%D9%85%D9%86-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87",
+   "symbols": []
+  },
+  {
+   "id": "news-52ab8428d5abf7ce",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:27:53Z",
+   "fetched_at_utc": "2026-11-21T18:31:29Z",
+   "title": "فعال شدن آژیر هشدار در بحرین",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754582/%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF%D9%86-%D8%A2%DA%98%DB%8C%D8%B1-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-baaaedff9658dd9d",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:28:37Z",
+   "fetched_at_utc": "2026-11-21T18:31:29Z",
+   "title": "نویدکیا از بازیکنانش عصبانی شد / اعتراف سرمربی سپاهان پس از دیدار با فولاد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177251/نویدکیا-از-بازیکنانش-عصبانی-شد-اعتراف-سرمربی-سپاهان-پس-از-دیدار-با-فولاد",
+   "symbols": [
+    "فولاد"
+   ]
+  },
+  {
+   "id": "news-083a48fd6f589f1b",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T18:30:17Z",
+   "fetched_at_utc": "2026-11-21T18:31:29Z",
+   "title": "ورود موج جدید بارشها به کشور از یکشنبه",
+   "url": "https://tejaratnews.com/%d9%88%d8%b1%d9%88%d8%af-%d9%85%d9%88%d8%ac-%d8%ac%d8%af%db%8c%d8%af-%d8%a8%d8%a7%d8%b1%d8%b4%d9%87%d8%a7-%d8%a8%d9%87-%da%a9%d8%b4%d9%88%d8%b1-%d8%a7%d8%b2-%db%8c%da%a9%d8%b4%d9%86%d8%a8",
+   "symbols": [
+    "موج"
+   ]
+  },
+  {
+   "id": "news-188ec41f35649a59",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:23:24Z",
+   "fetched_at_utc": "2026-11-21T18:26:20Z",
+   "title": "بروجردی: تا حالا درباره استفاده از موشکها خویشتن داری کردیم/ اگر آمریکا مانع عبور نفتکشها شود، به جنگ برمیگردیم/ / هر چه بادا باد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309871-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF%DB%8C-%D8%AA%D8%A7-%D8%AD%D8%A7%D9%84%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7-%D8%AE%D9%88%DB%8C%D8%B4%D8%AA%D9%86-%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85-%D8%A7%DA%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D8%A7%D9%86%D8%B9-%D8%B9%D8%A8%D9%88%D8%B1-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%87%D8%A7-%D8%B4%D9%88%D8%AF-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A8%D8%B1%D9%85%DB%8C-%DA%AF%D8%B1%D8%AF%DB%8C%D9%85-%D9%87%D8%B1-%DA%86%D9%87-%D8%A8%D8%A7%D8%AF%D8%A7-%D8%A8%D8%A7%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-80ee668c47e03870",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:23:02Z",
+   "fetched_at_utc": "2026-11-21T18:26:20Z",
+   "title": "صدای انفجار شدید در سواحل هرمزگان شنیده شد / ماجرا چیست؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177248/صدای-انفجار-شدید-در-سواحل-هرمزگان-شنیده-شد-ماجرا-چیست",
+   "symbols": []
+  },
+  {
+   "id": "news-79f6acfef4babd8f",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T18:17:48Z",
+   "fetched_at_utc": "2026-11-21T18:26:20Z",
+   "title": "گزارش مجامع بورسی امروز ۳۰ آبان ۱۴۰۵ | افزایش سرمایه ۹۲۷ و ۳۲۰۰ درصدی و تصویب سود ۱۷۵۰ ریالی این نمادها",
+   "url": "https://nabzebourse.com/fa/news/142089/گزارش-مجامع-بورسی-امروز-30-آبان-1405-افزایش-سرمایه-927-و-3200-درصدی-و-تصویب-سود-1750-ریالی-این-نماد-ها",
+   "symbols": []
+  },
+  {
+   "id": "news-6a3647f2801fd8c3",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:16:26Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "پیام تسلیت مسعود پزشکیان به تولیت آستان قدس رضوی",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309870-%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%B3%D9%84%DB%8C%D8%AA-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AA-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86-%D9%82%D8%AF%D8%B3-%D8%B1%D8%B6%D9%88%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-c35c78514156483c",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:06:10Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "بیانیه مشترک قطر و آلمان درباره ایران",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309867-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D9%82%D8%B7%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-55e7daeea1f2525f",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T18:00:35Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "بمباران یمن از سوی جنگندههای سعودی/ استانهای حجه، صعده و شبکه مخابراتی هدف قرار گرفت",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309868-%D8%A8%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%DB%8C%D9%85%D9%86-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AD%D8%AC%D9%87-%D8%B5%D8%B9%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%DB%8C-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
+   "symbols": [
+    "هدف"
+   ]
+  },
+  {
+   "id": "news-23390f29d88d8ed9",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:51:39Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "صدای انفجار شدید در سیریک از سمت دریا",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309869-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9-%D8%A7%D8%B2-%D8%B3%D9%85%D8%AA-%D8%AF%D8%B1%DB%8C%D8%A7",
+   "symbols": [
+    "دریا"
+   ]
+  },
+  {
+   "id": "news-4c4368a96443e41d",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:16:02Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "تسنیم بغداد|هشدار نماینده پارلمان عراق در پرونده احیای روادید با ایران",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754579/%D8%AA%D8%B3%D9%86%DB%8C%D9%85-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D8%AD%DB%8C%D8%A7%DB%8C-%D8%B1%D9%88%D8%A7%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-294c708ea5e9f6d2",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T18:19:56Z",
+   "fetched_at_utc": "2026-11-21T18:21:16Z",
+   "title": "۲ نماینده کنگره آمریکا: با قطع بودجه جنگ ایران، به آن پایان میدهیم",
+   "url": "https://tejaratnews.com/%db%b2-%d9%86%d9%85%d8%a7%db%8c%d9%86%d8%af%d9%87-%da%a9%d9%86%da%af%d8%b1%d9%87-%d8%a2%d9%85%d8%b1%db%8c%da%a9%d8%a7-%d8%a8%d8%a7-%d9%82%d8%b7%d8%b9-%d8%a8%d9%88%d8%af%d8%ac%d9%87-%d8%ac%d9%86%da%af",
+   "symbols": []
+  },
+  {
+   "id": "news-e7b794c4125542c7",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T18:15:01Z",
+   "fetched_at_utc": "2026-11-21T18:16:11Z",
+   "title": "حمله جنگندههای روسی به مرکز فرماندهی پهپادهای مرزبانی اوکراین",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158525-%D8%AD%D9%85%D9%84%D9%87-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C-%D8%A8%D9%87-%D9%85%D8%B1%DA%A9%D8%B2-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-323632495b14c9a4",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:16:02Z",
+   "fetched_at_utc": "2026-11-21T18:16:11Z",
+   "title": "تسنیم بغداد|هشدار نماینده پارلمان عراق در مورد احیای روادید با ایران",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754579/%D8%AA%D8%B3%D9%86%DB%8C%D9%85-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%AD%DB%8C%D8%A7%DB%8C-%D8%B1%D9%88%D8%A7%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-585b119559710b17",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:12:51Z",
+   "fetched_at_utc": "2026-11-21T18:16:11Z",
+   "title": "لولا از گفتوگو با ترامپ، پوتین و شی پرده برداشت / پیام رئیسجمهور برزیل به سه قدرت جهانی",
+   "url": "https://www.eghtesadonline.com/fa/news/2177245/لولا-از-گفت-وگو-با-ترامپ-پوتین-و-شی-پرده-برداشت-پیام-رئیس-جمهور-برزیل-به-سه-قدرت-جهانی",
+   "symbols": []
+  },
+  {
+   "id": "news-c95a5e58618112c6",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T15:37:14Z",
+   "fetched_at_utc": "2026-11-21T18:11:07Z",
+   "title": "تیتر یک | پسلرزههای رکود تا کی ادامه دارد؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AA%DB%8C%D8%AA%D8%B1-%DB%8C%DA%A9-241/158515-%D8%AA%DB%8C%D8%AA%D8%B1-%DB%8C%DA%A9-%D9%BE%D8%B3-%D9%84%D8%B1%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%DA%A9%D9%88%D8%AF-%D8%AA%D8%A7-%DA%A9%DB%8C-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-59bff94555f89bb7",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T18:11:02Z",
+   "fetched_at_utc": "2026-11-21T18:11:07Z",
+   "title": "پرداخت وام ۱.۲ میلیارد تومانی به متقاضیان تاکسی برقی",
+   "url": "https://tejaratnews.com/%d9%be%d8%b1%d8%af%d8%a7%d8%ae%d8%aa-%d9%88%d8%a7%d9%85-%db%b1-%db%b2-%d9%85%db%8c%d9%84%db%8c%d8%a7%d8%b1%d8%af-%d8%aa%d9%88%d9%85%d8%a7%d9%86%db%8c-%d8%a8%d9%87-%d9%85%d8%aa%d9%82%d8%a7%d8%b6%db%8c",
+   "symbols": []
+  },
+  {
+   "id": "news-0aa2e70a0adab6a1",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T18:00:16Z",
+   "fetched_at_utc": "2026-11-21T18:06:03Z",
+   "title": "انرژی ارزان؛ موتور توسعه یا دام صنایع ایران؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-122/158458-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+   "symbols": [
+    "انرژی"
+   ]
+  },
+  {
+   "id": "news-1937ee7767e5e291",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:05:41Z",
+   "fetched_at_utc": "2026-11-21T18:06:03Z",
+   "title": "یسرائیل هیوم: نتانیاهو درحال متلاشی کردن ائتلاف آیزنکوت است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754576/%DB%8C%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%87%DB%8C%D9%88%D9%85-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AF%D8%B1%D8%AD%D8%A7%D9%84-%D9%85%D8%AA%D9%84%D8%A7%D8%B4%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-d6cb5af7653c19be",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T18:03:24Z",
+   "fetched_at_utc": "2026-11-21T18:06:03Z",
+   "title": "الموسوی به الزیدی: نباید در برابر آمریکا سر خم کنی",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754580/%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D8%A8%D9%87-%D8%A7%D9%84%D8%B2%DB%8C%D8%AF%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B3%D8%B1-%D8%AE%D9%85-%DA%A9%D9%86%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-d5fed72ef93e1e93",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T18:01:46Z",
+   "fetched_at_utc": "2026-11-21T18:06:03Z",
+   "title": "حملات گسترده عربستان به یمن / آمار حملات در ۲۴ ساعت گذشته اعلام شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177242/حملات-گسترده-عربستان-به-یمن-آمار-حملات-در-24-ساعت-گذشته-اعلام-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-80302da699e6c9f3",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:55:53Z",
+   "fetched_at_utc": "2026-11-21T18:00:58Z",
+   "title": "نیروی ذخیره ارتش اسرائیل به نقطه فروپاشی نزدیک شده است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754558/%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D9%86%D9%82%D8%B7%D9%87-%D9%81%D8%B1%D9%88%D9%BE%D8%A7%D8%B4%DB%8C-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-57d79ed9aec446ad",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:55:36Z",
+   "fetched_at_utc": "2026-11-21T18:00:58Z",
+   "title": "عون از دو چالش اصلی استقلال لبنان پرده برداشت / پیام صریح رئیسجمهور به تهران",
+   "url": "https://www.eghtesadonline.com/fa/news/2177240/عون-از-دو-چالش-اصلی-استقلال-لبنان-پرده-برداشت-پیام-صریح-رئیس-جمهور-به-تهران",
+   "symbols": [
+    "استقلال"
+   ]
+  },
+  {
+   "id": "news-27f48331d45ef780",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:55:00Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "سفیر عمان: در موضوع تنگههرمز با ایران همکاری میکنیم",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-107/158524-%D8%B3%D9%81%DB%8C%D8%B1-%D8%B9%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C%DA%A9%D9%86%DB%8C%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-40390a1d96938a34",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:51:21Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "اختلافات عمیق در میان مخالفان نتانیاهو؛ آیا بلوک مخالفان فرو میپاشد؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-107/158487-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%B9%D9%85%DB%8C%D9%82-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A2%DB%8C%D8%A7-%D8%A8%D9%84%D9%88%DA%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%86-%D9%81%D8%B1%D9%88-%D9%85%DB%8C-%D9%BE%D8%A7%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-7e1ded1d0c332730",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:52:13Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "پرواز تلآویو به دبی همچنان در تعلیق",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754531/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%A8%D9%87-%D8%AF%D8%A8%DB%8C-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%B9%D9%84%DB%8C%D9%82",
+   "symbols": []
+  },
+  {
+   "id": "news-29cce646462b16c2",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:53:41Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "فرایندهای بیمه شخص ثالث و درمان از فردا کاملا الکترونیکی میشود",
+   "url": "https://tejaratnews.com/%d9%81%d8%b1%d8%a7%db%8c%d9%86%d8%af%d9%87%d8%a7%db%8c-%d8%a8%db%8c%d9%85%d9%87-%d8%b4%d8%ae%d8%b5-%d8%ab%d8%a7%d9%84%d8%ab-%d9%88-%d8%af%d8%b1%d9%85%d8%a7%d9%86-%d8%a7%d8%b2-%d9%81%d8%b1%d8%af%d8%a7",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-d448418c91ab1e10",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:51:33Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "ثبتنام بیمه تکمیلی درمان بازنشستگان تأمیناجتماعی آغاز شد",
+   "url": "https://tejaratnews.com/%d8%ab%d8%a8%d8%aa%d9%86%d8%a7%d9%85-%d8%a8%db%8c%d9%85%d9%87-%d8%aa%da%a9%d9%85%db%8c%d9%84%db%8c-%d8%af%d8%b1%d9%85%d8%a7%d9%86-%d8%a8%d8%a7%d8%b2%d9%86%d8%b4%d8%b3%d8%aa%da%af%d8%a7%d9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-c8d81f8f320b249a",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T17:52:53Z",
+   "fetched_at_utc": "2026-11-21T17:55:54Z",
+   "title": "قیمت را بازار تعیین میکند یا سیاست گذار؟",
+   "url": "https://nabzebourse.com/fa/news/142088/قیمت-را-بازار-تعیین-می-کند-یا-سیاست-گذار",
+   "symbols": []
+  },
+  {
+   "id": "news-146b7fe629611296",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:50:15Z",
+   "fetched_at_utc": "2026-11-21T17:50:49Z",
+   "title": "بیانیه اختتامیه مجمع عمومی جبهه پایداری",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754577/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%A7%D8%AE%D8%AA%D8%AA%D8%A7%D9%85%DB%8C%D9%87-%D9%85%D8%AC%D9%85%D8%B9-%D8%B9%D9%85%D9%88%D9%85%DB%8C-%D8%AC%D8%A8%D9%87%D9%87-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-d42e3eb91ce60a17",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:42:46Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "پشت پرده سفر فرستاده قطر به تهران به روایت باراک راوید",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309865-%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%B3%D9%81%D8%B1-%D9%81%D8%B1%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D9%82%D8%B7%D8%B1-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B1%D8%A7%D9%88%DB%8C%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-892f62289ff29d20",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:33:36Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "زمان واریز سود سهام عدالت اعلام شد +فیلم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309864-%D8%B2%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%D8%B3%D9%88%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-a1549218c6d82088",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:30:00Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "تهران تا کجا ظرفیت توسعه بیشتر دارد؟",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4309860-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%DA%A9%D8%AC%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-e3672dcb08399b11",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:41:06Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "حملات هوایی سعودی به شبکه ارتباطی در استان بیضاء یمن",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754573/%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%DB%8C%D8%B6%D8%A7%D8%A1-%DB%8C%D9%85%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-473e9daeb0bdff31",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:43:49Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "نسخه جدید دولت برای مستأجران / وزیر راه خبر داد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177236/نسخه-جدید-دولت-برای-مستأجران-وزیر-راه-خبر-داد",
+   "symbols": []
+  },
+  {
+   "id": "news-de8a595090eacb90",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:41:17Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "قیمت جدید کارخانه دنا اعلام شد+ جدول آبان ۱۴۰۵",
+   "url": "https://www.eghtesadonline.com/fa/news/2177237/قیمت-جدید-کارخانه-دنا-اعلام-شد-جدول-آبان-1405",
+   "symbols": []
+  },
+  {
+   "id": "news-9f43419ae0ab212c",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:40:30Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "بیانیه مشترک قطر و آلمان درباره ایران / موضعگیری تازه دوحه و برلین خبرساز شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177238/بیانیه-مشترک-قطر-و-آلمان-درباره-ایران-موضع-گیری-تازه-دوحه-و-برلین-خبرساز-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-a1697aefa3de5085",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:29:57Z",
+   "fetched_at_utc": "2026-11-21T17:45:44Z",
+   "title": "خداحافظی با ارزانترین غذای سفره ایرانیها / رقم باورنکردنی که برای خرید یک بسته ماکارونی ۷۰۰ گرمی باید بپردازید",
+   "url": "https://www.eghtesadonline.com/fa/news/2177235/خداحافظی-با-ارزان-ترین-غذای-سفره-ایرانی-ها-رقم-باورنکردنی-که-برای-خرید-یک-بسته-ماکارونی-700-گرمی-باید-بپردازید",
+   "symbols": []
+  },
+  {
+   "id": "news-099795624e12ab16",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:31:57Z",
+   "fetched_at_utc": "2026-11-21T17:35:39Z",
+   "title": "دورنمای بازارها؛ شماره ۱۰ | ارزیابی تاثیر «بلک فرایدی» بر خردهفروشی | پاسخهای ۲۳ خبره بازارهای مالی",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D8%B1%D9%86%D9%85%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-255/158523-%D8%AF%D9%88%D8%B1%D9%86%D9%85%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D8%A8%D9%84%DA%A9-%D9%81%D8%B1%D8%A7%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1-%D8%AE%D8%B1%D8%AF%D9%87-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A8%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C",
+   "symbols": []
+  },
+  {
+   "id": "news-e2f2095e4357acea",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:30:01Z",
+   "fetched_at_utc": "2026-11-21T17:35:39Z",
+   "title": "رشد ۹۹ درصدی داراییهای صنعت غذایی در بورس | فروش ۷ ماهه از کل درآمد سال گذشته عبور کرد",
+   "url": "https://www.eghtesadonline.com/fa/news/2176216/رشد-99-درصدی-دارایی-های-صنعت-غذایی-در-بورس-فروش-7-ماهه-از-کل-درآمد-سال-گذشته-عبور-کرد",
+   "symbols": []
+  },
+  {
+   "id": "news-2903a4680594a619",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:33:04Z",
+   "fetched_at_utc": "2026-11-21T17:35:39Z",
+   "title": "پرداخت تسهیلات مسکن در کمتر از سه روز",
+   "url": "https://tejaratnews.com/%d9%be%d8%b1%d8%af%d8%a7%d8%ae%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84%d8%a7%d8%aa-%d9%85%d8%b3%da%a9%d9%86-%d8%af%d8%b1-%da%a9%d9%85%d8%aa%d8%b1-%d8%a7%d8%b2-%d8%b3%d9%87-%d8%b1%d9%88%d8%b2",
+   "symbols": []
+  },
+  {
+   "id": "news-786a963aab1d27cd",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:24:15Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "تریتا پارسی: ترامپ به جنگی تهدید میکند که خودش هم باور ندارد بتواند در آن پیروز شود",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309863-%D8%AA%D8%B1%DB%8C%D8%AA%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF%DB%8C-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%DA%A9%D9%87-%D8%AE%D9%88%D8%AF%D8%B4-%D9%87%D9%85-%D8%A8%D8%A7%D9%88%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%AF%D8%B1-%D8%A2%D9%86-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D9%88%D8%AF",
+   "symbols": [
+    "پیروز"
+   ]
+  },
+  {
+   "id": "news-b1b84b0e6a1332cc",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:16:24Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "کدام مشترکان از اول آذر با محدودیت برق روبهرو میشوند؟",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309862-%DA%A9%D8%AF%D8%A7%D9%85-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%B0%D8%B1-%D8%A8%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A8%D8%B1%D9%82-%D8%B1%D9%88%D8%A8%D9%87-%D8%B1%D9%88-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-1f3791ce0515e16c",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T17:07:08Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "ترامپ درباره تغییر رژیم در ایران؛ هیچوقت به این مساله اهمیت نمیدادم/ تاکنون دو رژیم را سرنگون کردهام! +فیلم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309856-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%B1%DA%98%DB%8C%D9%85-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%DB%8C%DA%86-%D9%88%D9%82%D8%AA-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86-%D9%85%D8%B3%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D9%86%D9%85%DB%8C-%D8%AF%D8%A7%D8%AF%D9%85-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%D9%86-%D8%AF%D9%88-%D8%B1%DA%98%DB%8C%D9%85-%D8%B1%D8%A7-%D8%B3%D8%B1%D9%86%DA%AF%D9%88%D9%86-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D9%85-%D9%81%DB%8C%D9%84%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-09ba26293ce2db57",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:58:14Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "اتهام فنلاند علیه روسیه درباره نقض حریم هوایی با بالگرد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309853-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D9%82%D8%B6-%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%A8%D8%A7%D9%84%DA%AF%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-54b7a200a1a4d8ef",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:30:00Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "قطعی برق از فردا آغاز میشود+ ویدئو",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158522-%D9%82%D8%B7%D8%B9%DB%8C-%D8%A8%D8%B1%D9%82-%D8%A7%D8%B2-%D9%81%D8%B1%D8%AF%D8%A7-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-2e15bf3f41476af0",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:30:14Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "ببینید| ادامه اعتراضات مردمی در فرانسه و اقدامات سرکوبگرانه پلیس",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754571/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D9%85%D8%B1%D8%AF%D9%85%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%88-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D8%B3%D8%B1%DA%A9%D9%88%D8%A8%DA%AF%D8%B1%D8%A7%D9%86%D9%87-%D9%BE%D9%84%DB%8C%D8%B3",
+   "symbols": []
+  },
+  {
+   "id": "news-3ee67b1feedc206d",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:29:57Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "خداحافظی با ارزانترین غذای سفره ایرانیها / رقم باورنکردنی که برای خرید یک بسته ۷۰۰ گرمی باید بپردازید",
+   "url": "https://www.eghtesadonline.com/fa/news/2177235/خداحافظی-با-ارزان-ترین-غذای-سفره-ایرانی-ها-رقم-باورنکردنی-که-برای-خرید-یک-بسته-700-گرمی-باید-بپردازید",
+   "symbols": []
+  },
+  {
+   "id": "news-5c1752ed842ca42a",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:28:28Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "اطلاعیه توانیر درباره اعمال محدودیتهای برق ناشی از محدودیت در تامین سوخت نیروگاهها",
+   "url": "https://tejaratnews.com/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d8%aa%d9%88%d8%a7%d9%86%db%8c%d8%b1-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%a7%d8%b9%d9%85%d8%a7%d9%84-%d9%85%d8%ad%d8%af%d9%88%d8%af%db%8c%d8%aa",
+   "symbols": []
+  },
+  {
+   "id": "news-75e6eee18917ecf9",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:26:52Z",
+   "fetched_at_utc": "2026-11-21T17:30:36Z",
+   "title": "یارانه ۳۰۰ هزار تومانی به حسابها نشست",
+   "url": "https://tejaratnews.com/%db%8c%d8%a7%d8%b1%d8%a7%d9%86%d9%87-%db%b3%db%b0%db%b0-%d9%87%d8%b2%d8%a7%d8%b1-%d8%aa%d9%88%d9%85%d8%a7%d9%86%db%8c-%d8%a8%d9%87-%d8%ad%d8%b3%d8%a7%d8%a8%d9%87%d8%a7-%d9%86%d8%b4%d8%b3",
+   "symbols": []
+  },
+  {
+   "id": "news-7ea843e104e942bd",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:21:13Z",
+   "fetched_at_utc": "2026-11-21T17:25:32Z",
+   "title": "طائب: بسیج بهدنبال اتصال مراکز درمانی به مساجد و محلات است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754551/%D8%B7%D8%A7%D8%A6%D8%A8-%D8%A8%D8%B3%DB%8C%D8%AC-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D9%88-%D9%85%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-0373c50ff8ab70fd",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:20:32Z",
+   "fetched_at_utc": "2026-11-21T17:25:32Z",
+   "title": "«شراکه»، موتور پیشران عادیسازی روابط اسرائیل با جهان عرب",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754564/%D8%B4%D8%B1%D8%A7%DA%A9%D9%87-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%BE%DB%8C%D8%B4%D8%B1%D8%A7%D9%86-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D8%A7-%D8%AC%D9%87%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8",
+   "symbols": [
+    "پیشران"
+   ]
+  },
+  {
+   "id": "news-8955f2be336fda15",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:25:09Z",
+   "fetched_at_utc": "2026-11-21T17:25:32Z",
+   "title": "مبارزه با پولشویی و تأمین مالی تروریسم یک اولویت ملی",
+   "url": "https://tejaratnews.com/%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d9%87-%d8%a8%d8%a7-%d9%be%d9%88%d9%84%d8%b4%d9%88%db%8c%db%8c-%d9%88-%d8%aa%d8%a3%d9%85%db%8c%d9%86-%d9%85%d8%a7%d9%84%db%8c-%d8%aa%d8%b1%d9%88%d8%b1%db%8c%d8%b3%d9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-c25f7b18c290ba1b",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:21:50Z",
+   "fetched_at_utc": "2026-11-21T17:25:32Z",
+   "title": "آخرین فرصت صاحبان مشاغل برای تعیین تکلیف مالیات عملکرد ۱۴۰۴",
+   "url": "https://tejaratnews.com/%d8%a2%d8%ae%d8%b1%db%8c%d9%86-%d9%81%d8%b1%d8%b5%d8%aa-%d8%b5%d8%a7%d8%ad%d8%a8%d8%a7%d9%86-%d9%85%d8%b4%d8%a7%d8%ba%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%d8%b9%db%8c%db%8c%d9%86-%d8%aa%da%a9%d9%84",
+   "symbols": [
+    "فرصت"
+   ]
+  },
+  {
+   "id": "news-565d95c3dff32c43",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:15:00Z",
+   "fetched_at_utc": "2026-11-21T17:20:27Z",
+   "title": "طرح ترور از سوی روسیه در خاک دانمارک خنثی شد!/ ماجرا چیست؟",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-110/158521-%D8%B7%D8%B1%D8%AD-%D8%AA%D8%B1%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AE%D8%A7%DA%A9-%D8%AF%D8%A7%D9%86%D9%85%D8%A7%D8%B1%DA%A9-%D8%AE%D9%86%D8%AB%DB%8C-%D8%B4%D8%AF-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7-%DA%86%DB%8C%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-d78656026c1d5b0c",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:16:29Z",
+   "fetched_at_utc": "2026-11-21T17:20:27Z",
+   "title": "سفیر عمان: درباره تنگه هرمز با ایران همکاری میکنیم",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754569/%D8%B3%D9%81%DB%8C%D8%B1-%D8%B9%D9%85%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-21e0ed62cfd5fbb8",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:20:15Z",
+   "fetched_at_utc": "2026-11-21T17:20:27Z",
+   "title": "ترامپ: توافق با ایران باید دائمی باشد",
+   "url": "https://tejaratnews.com/%d8%aa%d8%b1%d8%a7%d9%85%d9%be-%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d8%a8%d8%a7-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d8%af%d8%a7%d8%a6%d9%85%db%8c-%d8%a8%d8%a7%d8%b4%d8%af",
+   "symbols": []
+  },
+  {
+   "id": "news-098b5587b2612ede",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T17:18:34Z",
+   "fetched_at_utc": "2026-11-21T17:20:27Z",
+   "title": "عراقچی: روابط ایران و عمان از پایههای مستحکمی برخوردار است",
+   "url": "https://tejaratnews.com/%d8%b9%d8%b1%d8%a7%d9%82%da%86%db%8c-%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d9%88-%d8%b9%d9%85%d8%a7%d9%86-%d8%a7%d8%b2-%d9%be%d8%a7%db%8c%d9%87%d9%87%d8%a7%db%8c",
+   "symbols": []
+  },
+  {
+   "id": "news-12c1d86ad0482351",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:08:05Z",
+   "fetched_at_utc": "2026-11-21T17:10:17Z",
+   "title": "یحیی سریع: آمار تجاوزات سعودی به یمن به 5500 حمله رسید",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754567/%DB%8C%D8%AD%DB%8C%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%A2%D9%85%D8%A7%D8%B1-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%A7%D8%AA-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%DB%8C%D9%85%D9%86-%D8%A8%D9%87-5500-%D8%AD%D9%85%D9%84%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-ddd9ca262a8a5cb5",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:05:10Z",
+   "fetched_at_utc": "2026-11-21T17:10:17Z",
+   "title": "خاموشی یکماهه چاههای کشاورزی قم از دیماه",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754560/%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%DB%8C%DA%A9-%D9%85%D8%A7%D9%87%D9%87-%DA%86%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%82%D9%85-%D8%A7%D8%B2-%D8%AF%DB%8C-%D9%85%D8%A7%D9%87",
+   "symbols": []
+  },
+  {
+   "id": "news-b4983d468393adae",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:38:46Z",
+   "fetched_at_utc": "2026-11-21T17:10:17Z",
+   "title": "عراقچی: بازگشایی تنگه هرمز سخت نیست؛ کافی است آمریکا شرایط را بپذیرد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754552/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%B3%D8%AE%D8%AA-%D9%86%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D9%81%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B1%D8%A7-%D8%A8%D9%BE%D8%B0%DB%8C%D8%B1%D8%AF",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-749caf720c564e33",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:09:47Z",
+   "fetched_at_utc": "2026-11-21T17:10:17Z",
+   "title": "فوری / پروژه مسیر ترامپ از فردا آغاز میشود",
+   "url": "https://www.eghtesadonline.com/fa/news/2177233/فوری-پروژه-مسیر-ترامپ-از-فردا-آغاز-می-شود",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-351d85ba8aaa5d72",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T17:00:00Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "عراقچی: بازگشایی تنگههرمز منوط به پذیرفتن شروط ایران است",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-107/158519-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%D9%86%D9%88%D8%B7-%D8%A8%D9%87-%D9%BE%D8%B0%DB%8C%D8%B1%D9%81%D8%AA%D9%86-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-e2e3f9d5437592ca",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:04:01Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "بیانیه حزبالله به مناسبت سالروز استقلال لبنان",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754563/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA-%D8%B3%D8%A7%D9%84%D8%B1%D9%88%D8%B2-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+   "symbols": [
+    "استقلال"
+   ]
+  },
+  {
+   "id": "news-dd1890c6ceefcf35",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:04:00Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "قائممقام وزیر کشور: شاخصهای جرم در بوشهر پایینتر از میانگین ملی است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754547/%D9%82%D8%A7%D8%A6%D9%85-%D9%85%D9%82%D8%A7%D9%85-%D9%88%D8%B2%DB%8C%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B1%D9%85-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D9%86%DA%AF%DB%8C%D9%86-%D9%85%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-97e28b721bf33957",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:03:23Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "شکست سنگین چلسی در استمفوردبریج/ تیم آلونسو کامبک خورد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754553/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%DA%86%D9%84%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D9%85%D9%81%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%DB%8C%D8%AC-%D8%AA%DB%8C%D9%85-%D8%A2%D9%84%D9%88%D9%86%D8%B3%D9%88-%DA%A9%D8%A7%D9%85%D8%A8%DA%A9-%D8%AE%D9%88%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-f2515f79d4dd565d",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:02:07Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "اشتغال و مسکن، مهمترین دغدغه مدالآوران اصفهانی است",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754550/%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84-%D9%88-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%87%D9%85-%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%BA%D8%AF%D8%BA%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D9%88%D8%B1%D8%A7%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-64f6dba64fb18135",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T17:01:01Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "تولید 68 هزار تن میگوی پرورشی استان بوشهر تا پایان برنامه هفتم",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754542/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-68-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%86-%D9%85%DB%8C%DA%AF%D9%88%DB%8C-%D9%BE%D8%B1%D9%88%D8%B1%D8%B4%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D9%81%D8%AA%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-4201859f7d301b3a",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:44:53Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "ادعای جدید ترامپ: توافق دائمی میخواهم",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754557/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-57bf5fe7db192301",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T17:00:02Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "پیش بینی بورس فردا یکشنبه اول آذر | اولین حمایت مهم شاخص کل چه محدودهای است؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177141/پیش-بینی-بورس-فردا-یکشنبه-اول-آذر-اولین-حمایت-مهم-شاخص-کل-چه-محدوده-ای-است",
+   "symbols": [
+    "فردا"
+   ]
+  },
+  {
+   "id": "news-2f2b13c65ea5ce05",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:43:31Z",
+   "fetched_at_utc": "2026-11-21T17:05:12Z",
+   "title": "صدرنشینی موقت پس از توقف سپاهان مقابل فولاد/ جدول لیگ برتر زرد شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177228/صدرنشینی-موقت-پس-از-توقف-سپاهان-مقابل-فولاد-جدول-لیگ-برتر-زرد-شد",
+   "symbols": [
+    "فولاد"
+   ]
+  },
+  {
+   "id": "news-d20ed28188f537e4",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:56:18Z",
+   "fetched_at_utc": "2026-11-21T17:00:04Z",
+   "title": "واریز سود سهام عدالت در شب یلدا؟ / رئیس سازمان بورس پاسخ داد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177232/واریز-سود-سهام-عدالت-در-شب-یلدا-رئیس-سازمان-بورس-پاسخ-داد",
+   "symbols": [
+    "یلدا"
+   ]
+  },
+  {
+   "id": "news-8de23c7f7dc39a39",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:53:47Z",
+   "fetched_at_utc": "2026-11-21T17:00:04Z",
+   "title": "آمادهباش همزمان ارتش، پلیس و تیمهای امدادی اسرائیل",
+   "url": "https://www.eghtesadonline.com/fa/news/2177231/آماده-باش-هم-زمان-ارتش-پلیس-و-تیم-های-امدادی-اسرائیل",
+   "symbols": []
+  },
+  {
+   "id": "news-d2d8510b36a92d82",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:50:23Z",
+   "fetched_at_utc": "2026-11-21T16:54:58Z",
+   "title": "عراقچی: بازگشایی تنگه هرمز سخت نیست/ هیچ راه حلی جز اعتراف آمریکا به اشتباهات و اجرای تعهداتش وجود ندارد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309849-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%B3%D8%AE%D8%AA-%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%DB%8C%DA%86-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84%DB%8C-%D8%AC%D8%B2-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87%D8%A7%D8%AA-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA%D8%B4-%D9%88%D8%AC%D9%88%D8%AF-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-20edb88337f99f63",
+   "source": "ایرنا",
+   "published_at": "2026-11-21T16:52:08Z",
+   "fetched_at_utc": "2026-11-21T16:54:58Z",
+   "title": "وزیر راه و شهرسازی: مسکن ملی استیجاری در مازندران پیگیری میشود",
+   "url": "https://www.irna.ir/news/86328623/%D9%88%D8%B2%DB%8C%D8%B1-%D8%B1%D8%A7%D9%87-%D9%88-%D8%B4%D9%87%D8%B1%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-2234a6e165048d14",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:53:47Z",
+   "fetched_at_utc": "2026-11-21T16:54:58Z",
+   "title": "آمادهباش همزمان ارتش، پلیس و تیمهای امدادی اسرائیل / پشت پرده این سناریوی اضطراری چیست؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177231/آماده-باش-هم-زمان-ارتش-پلیس-و-تیم-های-امدادی-اسرائیل-پشت-پرده-این-سناریوی-اضطراری-چیست",
+   "symbols": []
+  },
+  {
+   "id": "news-dc437cd57de8aa4f",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T16:45:00Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "ترامپ: توافق مدنظر من، عدم دستیابی ایران به سلاح هستهای است",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158518-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%D8%AF%D9%86%D8%B8%D8%B1-%D9%85%D9%86-%D8%B9%D8%AF%D9%85-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-5b9b0bc11c1b3cdf",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:47:37Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "ویژه برنامههای سالروز وفات حضرت امالبنین(س) در آستان شاه سیدعلی(ع)",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754556/%D9%88%DB%8C%DA%98%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D9%84%D8%B1%D9%88%D8%B2-%D9%88%D9%81%D8%A7%D8%AA-%D8%AD%D8%B6%D8%B1%D8%AA-%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%86%DB%8C%D9%86-%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%A7%D9%87-%D8%B3%DB%8C%D8%AF%D8%B9%D9%84%DB%8C-%D8%B9",
+   "symbols": []
+  },
+  {
+   "id": "news-4db20876bce4b8b4",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:46:24Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "درختکاری اقدامی نمادین نیست؛ سرمایهگذاری برای آینده نسلهاست",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754543/%D8%AF%D8%B1%D8%AE%D8%AA%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%DB%8C-%D9%86%D9%85%D8%A7%D8%AF%DB%8C%D9%86-%D9%86%DB%8C%D8%B3%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%86%D8%B3%D9%84-%D9%87%D8%A7%D8%B3%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-2014c4e0dcc745b7",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:44:53Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "ادعای ترامپ تروریست: توافق دائمی میخواهم",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754557/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-5317594fd78eb25a",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:49:45Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "زنگ خطر برای فروش نفت ایران / نمایندگان به پزشکیان نامه نوشتند",
+   "url": "https://www.eghtesadonline.com/fa/news/2177221/زنگ-خطر-برای-فروش-نفت-ایران-نمایندگان-به-پزشکیان-نامه-نوشتند",
+   "symbols": []
+  },
+  {
+   "id": "news-8ff6c0ad25f88647",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:47:15Z",
+   "fetched_at_utc": "2026-11-21T16:49:54Z",
+   "title": "لیست قیمت پراید کارکرده/ پراید صندوقدار در بازار چند؟+ جدول آبان ۱۴۰۵",
+   "url": "https://www.eghtesadonline.com/fa/news/2177229/لیست-قیمت-پراید-کارکرده-پراید-صندوق-دار-در-بازار-چند-جدول-آبان-1405",
+   "symbols": []
+  },
+  {
+   "id": "news-3dc6694d5a6609c4",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:41:23Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "پارادوکس اعتبار آمریکا",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4309852-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%DA%A9%D8%B3-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+   "symbols": [
+    "اعتبار"
+   ]
+  },
+  {
+   "id": "news-da1838a8c3205f6d",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:41:20Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "پیام تسلیت معاون اول رئیسجمهور به رهبر انقلاب",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309845-%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%B3%D9%84%DB%8C%D8%AA-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%88%D9%84-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A8%D9%87-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8",
+   "symbols": []
+  },
+  {
+   "id": "news-27185e9801106673",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:43:31Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "صدرنشینی موقت پس از نبرد ۴ گله / جدول لیگ برتر در پایان روز سوم هفته سیزدهم چگونه شد؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177228/صدرنشینی-موقت-پس-از-نبرد-4-گله-جدول-لیگ-برتر-در-پایان-روز-سوم-هفته-سیزدهم-چگونه-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-034869262466e4b2",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:42:49Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "تهدید اسرائیل علیه آمریکا با بمب کثیف؟ / جنک اویگر مدعی شد",
+   "url": "https://www.eghtesadonline.com/fa/news/2177218/تهدید-اسرائیل-علیه-آمریکا-با-بمب-کثیف-جنک-اویگر-مدعی-شد",
+   "symbols": []
+  },
+  {
+   "id": "news-5587d9f359f83e70",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:41:37Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "قیمت جدید انواع تلویزیونهای سایز بزرگ ۳۰ آبان ۱۴۰۵/ مدلهای ۷۵ تا ۱۰۰ اینچ الجی، دوو، سامسونگ و...چند شد؟ + جدول",
+   "url": "https://www.eghtesadonline.com/fa/news/2177227/قیمت-جدید-انواع-تلویزیون-های-سایز-بزرگ-30-آبان-1405-مدل-های-75-تا-100-اینچ-ال-جی-دوو-سامسونگ-و-چند-شد-جدول",
+   "symbols": [
+    "بزرگ"
+   ]
+  },
+  {
+   "id": "news-1b52e7e21b94faec",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T16:43:00Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "دروازه جدید تجارت ایران و چین منتظر اقدام تهران است",
+   "url": "https://tejaratnews.com/%d8%af%d8%b1%d9%88%d8%a7%d8%b2%d9%87-%d8%ac%d8%af%db%8c%d8%af-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d9%88-%da%86%db%8c%d9%86-%d9%85%d9%86%d8%aa%d8%b8%d8%b1-%d8%a7%d9%82%d8%af",
+   "symbols": []
+  },
+  {
+   "id": "news-dd7e915df72d0c15",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T16:40:39Z",
+   "fetched_at_utc": "2026-11-21T16:44:46Z",
+   "title": "سونامی سرخ در بورسهای جهان",
+   "url": "https://tejaratnews.com/%d8%b3%d9%88%d9%86%d8%a7%d9%85%db%8c-%d8%b3%d8%b1%d8%ae-%d8%af%d8%b1-%d8%a8%d9%88%d8%b1%d8%b3%d9%87%d8%a7%db%8c-%d8%ac%d9%87%d8%a7%d9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-07cd0c07c50c1369",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:33:59Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "نامهای جدید در بازی قدرت/ ترامپ نامزدهای احتمالی انتخابات ریاستجمهوری ۲۰۲۸ را اعلام کرد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309844-%D9%86%D8%A7%D9%85-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%86%D8%A7%D9%85%D8%B2%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%DA%A9%D8%B1%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-07919bca85a35b28",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:38:46Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "عراقچی در روز ملی عمان: امنیت منطقه باید درونزا باشد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754552/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%85%D9%84%DB%8C-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1%D9%88%D9%86-%D8%B2%D8%A7-%D8%A8%D8%A7%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-21b127127e9c1b94",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:35:29Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "دیدار خلیل الحیه با رئیس سازمان اطلاعات ترکیه",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754548/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%AE%D9%84%DB%8C%D9%84-%D8%A7%D9%84%D8%AD%DB%8C%D9%87-%D8%A8%D8%A7-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
+   "symbols": []
+  },
+  {
+   "id": "news-a2b8c0b8741287bf",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:35:26Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "گروگانگیری کرسی ریاست اسرائیل، راهکار نتانیاهو برای فرار از زندان",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754439/%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86-%DA%AF%DB%8C%D8%B1%DB%8C-%DA%A9%D8%B1%D8%B3%DB%8C-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%B2%D9%86%D8%AF%D8%A7%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-50af447bedfea011",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:34:12Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "چرخش غیرمنتظره ترامپ پس از شکست در انتخابات میاندورهای / دو گزینه اصلی جانشینی او چه کسانیاند؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177226/چرخش-غیرمنتظره-ترامپ-پس-از-شکست-در-انتخابات-میان-دوره-ای-دو-گزینه-اصلی-جانشینی-او-چه-کسانی-اند",
+   "symbols": []
+  },
+  {
+   "id": "news-a37ce67dea5e8876",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:23:22Z",
+   "fetched_at_utc": "2026-11-21T16:39:41Z",
+   "title": "لحظهشماری برای قرعهکشی تویوتا کرولای طلایی",
+   "url": "https://www.eghtesadonline.com/fa/news/2177225/لحظه-شماری-برای-قرعه-کشی-تویوتا-کرولای-طلایی",
+   "symbols": []
+  },
+  {
+   "id": "news-523dc2d91d6f139f",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:30:00Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "شاه در بازار تنزل مصنوعی ایجاد میکند",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4309811-%D8%B4%D8%A7%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AA%D9%86%D8%B2%D9%84-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-b35c91549c367724",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T16:30:06Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "آخرین بهروزرسانی قیمت ارز شنبه 30 آبان/ کاهش قیمتها",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2-80/158517-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%B2%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D8%B1%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7",
+   "symbols": []
+  },
+  {
+   "id": "news-c72d0a8f7e6158c0",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:30:20Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "درخواست ایران برای نشست اضطراری سازمان همکاری اسلامی درباره غزه",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754546/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%B4%D8%B3%D8%AA-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%BA%D8%B2%D9%87",
+   "symbols": []
+  },
+  {
+   "id": "news-bdcfad4b45bf4c7f",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:29:42Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "تساوی سپاهان و فولاد به نفع پرسپولیس/ تیم نویدکیا به صدر بازگشت",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754526/%D8%AA%D8%B3%D8%A7%D9%88%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D9%88-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%AA%DB%8C%D9%85-%D9%86%D9%88%DB%8C%D8%AF%DA%A9%DB%8C%D8%A7-%D8%A8%D9%87-%D8%B5%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
+   "symbols": [
+    "فولاد",
+    "پرسپولیس"
+   ]
+  },
+  {
+   "id": "news-a2816f89d0969e3a",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:29:32Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "افتتاح 25مرکز درمانی مهر شفا",
+   "url": "https://www.tasnimnews.ir/fa/media/1405/08/30/3754544/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-25%D9%85%D8%B1%DA%A9%D8%B2-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D9%87%D8%B1-%D8%B4%D9%81%D8%A7",
+   "symbols": [
+    "شفا"
+   ]
+  },
+  {
+   "id": "news-1efae5483e539474",
+   "source": "ایرنا",
+   "published_at": "2026-11-21T16:32:03Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "یارانه نقدی آبان دهکهای چهارم تا نهم واریز شد",
+   "url": "https://www.irna.ir/news/86328551/%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D9%86%D9%82%D8%AF%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AF%D9%87%DA%A9-%D9%87%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AA%D8%A7-%D9%86%D9%87%D9%85-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-3e189ad8a579e626",
+   "source": "ایرنا",
+   "published_at": "2026-11-21T16:31:34Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "خاموشیها از اول آذر اعمال می شود",
+   "url": "https://www.irna.ir/news/86328555/%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%B0%D8%B1-%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-48cdc7ba1c2c50e3",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:27:21Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "کسرام: ارزیابی کارخانه ۲٬۹۶۰ میلیاردی",
+   "url": "https://nabzebourse.com/fa/news/142087/کسرام-ارزیابی-کارخانه-2-960-میلیاردی",
+   "symbols": [
+    "کسرام"
+   ]
+  },
+  {
+   "id": "news-4850e69820a2b00c",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:25:36Z",
+   "fetched_at_utc": "2026-11-21T16:34:36Z",
+   "title": "سنیر: مناقصه نوبت سوم نیروگاه خورشیدی",
+   "url": "https://nabzebourse.com/fa/news/142086/سنیر-مناقصه-نوبت-سوم-نیروگاه-خورشیدی",
+   "symbols": [
+    "سنیر"
+   ]
+  },
+  {
+   "id": "news-3427f04ac955b6bb",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:22:14Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "اطلاعیه توانیر درباره اعمال برخی محدودیتها در تأمین برق",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309829-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D8%AE%DB%8C-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D9%82",
+   "symbols": []
+  },
+  {
+   "id": "news-cddbbb608ee63b95",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:28:05Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "عراقچی به تسنیم: تا شروط ایران اجرا نشود، تنگه هرمز باز نخواهد شد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754545/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D9%87-%D8%AA%D8%B3%D9%86%DB%8C%D9%85-%D8%AA%D8%A7-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%AC%D8%B1%D8%A7-%D9%86%D8%B4%D9%88%D8%AF-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7%D8%B2-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%B4%D8%AF",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-606f0f687a0659c3",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:25:33Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "بازآرایی نظامی و انسداد سیاسی؛ راهبرد عربستان برای تداوم جنگ در یمن",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754533/%D8%A8%D8%A7%D8%B2%D8%A2%D8%B1%D8%A7%DB%8C%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D9%88-%D8%A7%D9%86%D8%B3%D8%AF%D8%A7%D8%AF-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%AC%D9%86%DA%AF-%D8%AF%D8%B1-%DB%8C%D9%85%D9%86",
+   "symbols": [
+    "تداوم"
+   ]
+  },
+  {
+   "id": "news-754626a663b1e507",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:23:03Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "عراقچی درباره بازگشایی تنگه هرمز چه گفت؟ / تعیین تکلیف صریح برای آمریکا",
+   "url": "https://www.eghtesadonline.com/fa/news/2177223/عراقچی-درباره-بازگشایی-تنگه-هرمز-چه-گفت-تعیین-تکلیف-صریح-برای-آمریکا",
+   "symbols": [
+    "هرمز"
+   ]
+  },
+  {
+   "id": "news-b0d647b0e5fc08db",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T16:28:23Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "۱۶هزار تانکر نفت عراق به ترکیه قاچاق شد",
+   "url": "https://tejaratnews.com/%db%b1%db%b6%d9%87%d8%b2%d8%a7%d8%b1-%d8%aa%d8%a7%d9%86%da%a9%d8%b1-%d9%86%d9%81%d8%aa-%d8%b9%d8%b1%d8%a7%d9%82-%d8%a8%d9%87-%d8%aa%d8%b1%da%a9%db%8c%d9%87-%d9%82%d8%a7%da%86%d8%a7%d9%82-%d8%b4%d8%af",
+   "symbols": []
+  },
+  {
+   "id": "news-44cc3829fab247fd",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:24:19Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "افزایش سرمایه «غمینو» به حسابرس رسید",
+   "url": "https://nabzebourse.com/fa/news/142085/افزایش-سرمایه-غمینو-به-حسابرس-رسید",
+   "symbols": [
+    "غمینو"
+   ]
+  },
+  {
+   "id": "news-7a9953119eb06b57",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:22:46Z",
+   "fetched_at_utc": "2026-11-21T16:29:31Z",
+   "title": "سود خالص فباهنر ۱۸۸ درصد افزایش یافت",
+   "url": "https://nabzebourse.com/fa/news/142084/سود-خالص-فباهنر-188-درصد-افزایش-یافت",
+   "symbols": [
+    "فباهنر"
+   ]
+  },
+  {
+   "id": "news-74fcebe43c7dd38a",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:20:06Z",
+   "fetched_at_utc": "2026-11-21T16:24:28Z",
+   "title": "ورود موج جدید بارشی از فردا یکم آذر ۱۴۰۵ / این استانها منتظر برف باشند",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309839-%D9%88%D8%B1%D9%88%D8%AF-%D9%85%D9%88%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D8%B1%D8%B4%DB%8C-%D8%A7%D8%B2-%D9%81%D8%B1%D8%AF%D8%A7-%DB%8C%DA%A9%D9%85-%D8%A2%D8%B0%D8%B1-%D8%A7%DB%8C%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7-%D9%85%D9%86%D8%AA%D8%B8%D8%B1-%D8%A8%D8%B1%D9%81-%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
+   "symbols": [
+    "یکم",
+    "فردا",
+    "موج"
+   ]
+  },
+  {
+   "id": "news-74a5838b6a0df0f8",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:22:32Z",
+   "fetched_at_utc": "2026-11-21T16:24:28Z",
+   "title": "صعود دورتموند به صدر جدول بوندسلیگا",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754540/%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-%D8%A8%D9%87-%D8%B5%D8%AF%D8%B1-%D8%AC%D8%AF%D9%88%D9%84-%D8%A8%D9%88%D9%86%D8%AF%D8%B3-%D9%84%DB%8C%DA%AF%D8%A7",
+   "symbols": []
+  },
+  {
+   "id": "news-a22bb61c234c8a16",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T16:22:43Z",
+   "fetched_at_utc": "2026-11-21T16:24:28Z",
+   "title": "ایران تحریم کرد؛ قیمت میوه و ترهبار در اربیل 3 برابر شد",
+   "url": "https://tejaratnews.com/%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%aa%d8%ad%d8%b1%db%8c%d9%85-%da%a9%d8%b1%d8%af%d8%9b-%d9%82%db%8c%d9%85%d8%aa-%d9%85%db%8c%d9%88%d9%87-%d9%88-%d8%aa%d8%b1%d9%87%d8%a8%d8%a7%d8%b1-%d8%af",
+   "symbols": []
+  },
+  {
+   "id": "news-c744be88db4be22b",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:18:08Z",
+   "fetched_at_utc": "2026-11-21T16:24:28Z",
+   "title": "خلنت: افزایش ۲۵ درصدی نرخ لنت ترمز",
+   "url": "https://nabzebourse.com/fa/news/142083/خلنت-افزایش-25-درصدی-نرخ-لنت-ترمز",
+   "symbols": [
+    "خلنت"
+   ]
+  },
+  {
+   "id": "news-0a5e10ef8834245b",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:17:05Z",
+   "fetched_at_utc": "2026-11-21T16:24:28Z",
+   "title": "مجمع «حآفرین» ۱۱ آذر برگزار میشود",
+   "url": "https://nabzebourse.com/fa/news/142082/مجمع-حآفرین-11-آذر-برگزار-می-شود",
+   "symbols": [
+    "حآفرین"
+   ]
+  },
+  {
+   "id": "news-45c68e3849153129",
+   "source": "اکوایران",
+   "published_at": "2026-11-21T16:15:00Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "سهمیه بنزین در برخی استانها افزایش مییابد+ جزئیات",
+   "url": "https://ecoiran.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-2/158516-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+   "symbols": []
+  },
+  {
+   "id": "news-14dd268d3ec81f8e",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:14:24Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "اشتغال 1500 معلول سختاشتغال در مازندران",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754535/%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84-1500-%D9%85%D8%B9%D9%84%D9%88%D9%84-%D8%B3%D8%AE%D8%AA-%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86",
+   "symbols": []
+  },
+  {
+   "id": "news-127f7446c0ac19ab",
+   "source": "ایسنا",
+   "published_at": "2026-11-21T16:17:13Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "کدام مشترکان از اول آذر با محدودیت برق روبهرو میشوند؟",
+   "url": "https://www.isna.ir/news/1405083021060/%DA%A9%D8%AF%D8%A7%D9%85-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%B0%D8%B1-%D8%A8%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A8%D8%B1%D9%82-%D8%B1%D9%88%D8%A8%D9%87-%D8%B1%D9%88-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-b1185276c9ed6516",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:10:11Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "دیدار مهم مقام ترکیهای با رهبران حماس / محور گفتوگوها چه بود؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177220/دیدار-مهم-مقام-ترکیه-ای-با-رهبران-حماس-محور-گفت-وگوها-چه-بود",
+   "symbols": []
+  },
+  {
+   "id": "news-525394e3c9316f9b",
+   "source": "تجارت‌نیوز",
+   "published_at": "2026-11-21T16:15:59Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "خط آتش شکارچی F-16 در آسمان قشم",
+   "url": "https://tejaratnews.com/%d8%ae%d8%b7-%d8%a2%d8%aa%d8%b4-%d8%b4%da%a9%d8%a7%d8%b1%da%86%db%8c-f-16-%d8%af%d8%b1-%d8%a2%d8%b3%d9%85%d8%a7%d9%86-%d9%82%d8%b4%d9%85",
+   "symbols": [
+    "آتش"
+   ]
+  },
+  {
+   "id": "news-f0d8738163dde6c8",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:14:45Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "سود خالص خراسان ۲۶۱ درصد افزایش یافت",
+   "url": "https://nabzebourse.com/fa/news/142081/سود-خالص-خراسان-261-درصد-افزایش-یافت",
+   "symbols": [
+    "خراسان"
+   ]
+  },
+  {
+   "id": "news-5a6d2d95e1223b92",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:12:59Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "حتوکا: افزایش ۲۲٫۶ درصدی نرخ حمل بار",
+   "url": "https://nabzebourse.com/fa/news/142080/حتوکا-افزایش-22-6-درصدی-نرخ-حمل-بار",
+   "symbols": [
+    "حتوکا"
+   ]
+  },
+  {
+   "id": "news-579177188e2873c8",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:11:05Z",
+   "fetched_at_utc": "2026-11-21T16:19:23Z",
+   "title": "خچرخش: معامله ۱٬۲۰۸ میلیاردی با اشخاص وابسته",
+   "url": "https://nabzebourse.com/fa/news/142079/خچرخش-معامله-1-208-میلیاردی-با-اشخاص-وابسته",
+   "symbols": [
+    "خچرخش"
+   ]
+  },
+  {
+   "id": "news-e4c6e88cd21d57cc",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T14:15:28Z",
+   "fetched_at_utc": "2026-11-21T16:14:18Z",
+   "title": "معاون عراقچی سفر هیات قطری به تهران را تایید کرد/ هر اقدامی که لازم باشد برای شکستن محاصره اقتصادی انجام خواهیم داد",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309796-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%B3%D9%81%D8%B1-%D9%87%DB%8C%D8%A7%D8%AA-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%87%D8%B1-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%DB%8C-%DA%A9%D9%87-%D9%84%D8%A7%D8%B2%D9%85-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%AF%D8%A7%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-b2885522448e13e4",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:09:12Z",
+   "fetched_at_utc": "2026-11-21T16:14:18Z",
+   "title": "کتابخوانی دانش و آگاهی را فراتر از تخصص گسترش میدهد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754517/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AE%D9%88%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D9%88-%D8%A2%DA%AF%D8%A7%D9%87%DB%8C-%D8%B1%D8%A7-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AA%D8%AE%D8%B5%D8%B5-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-bef9e92f49823964",
+   "source": "نبض بورس",
+   "published_at": "2026-11-21T16:09:39Z",
+   "fetched_at_utc": "2026-11-21T16:14:18Z",
+   "title": "افزایش نرخ ۷ شرکت بورسی؛ کدام شرکتهای بورسی قیمت محصولات خود را بالا بردند؟",
+   "url": "https://nabzebourse.com/fa/news/142078/افزایش-نرخ-7-شرکت-بورسی-کدام-شرکت-های-بورسی-قیمت-محصولات-خود-را-بالا-بردند",
+   "symbols": []
+  },
+  {
+   "id": "news-2fb7b40510b789ca",
+   "source": "دنیای اقتصاد",
+   "published_at": "2026-11-21T16:06:41Z",
+   "fetched_at_utc": "2026-11-21T16:09:14Z",
+   "title": "غریبآبادی: برای همه سناریوها آمادهایم/ محاصره اقتصادی را اقدام جنگی میدانیم",
+   "url": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309835-%D8%BA%D8%B1%DB%8C%D8%A8-%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D9%85%D9%87-%D8%B3%D9%86%D8%A7%D8%B1%DB%8C%D9%88%D9%87%D8%A7-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A7%DB%8C%D9%85-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B1%D8%A7-%D8%A7%D9%82%D8%AF%D8%A7%D9%85-%D8%AC%D9%86%DA%AF%DB%8C-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%DB%8C%D9%85",
+   "symbols": []
+  },
+  {
+   "id": "news-1b56f0dd0f6b0532",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:05:34Z",
+   "fetched_at_utc": "2026-11-21T16:09:14Z",
+   "title": "کشف 2 تن آرد احتکارشده و 206 کارت بانکی در یک نانوایی یزد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754518/%DA%A9%D8%B4%D9%81-2-%D8%AA%D9%86-%D8%A2%D8%B1%D8%AF-%D8%A7%D8%AD%D8%AA%DA%A9%D8%A7%D8%B1%D8%B4%D8%AF%D9%87-%D9%88-206-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C-%DB%8C%D8%B2%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-263d83c24b8cda45",
+   "source": "تسنیم",
+   "published_at": "2026-11-21T16:04:43Z",
+   "fetched_at_utc": "2026-11-21T16:09:14Z",
+   "title": "حریق تانکر حامل گاز مایع در محور شهرری مهار شد",
+   "url": "https://www.tasnimnews.ir/fa/news/1405/08/30/3754532/%D8%AD%D8%B1%DB%8C%D9%82-%D8%AA%D8%A7%D9%86%DA%A9%D8%B1-%D8%AD%D8%A7%D9%85%D9%84-%DA%AF%D8%A7%D8%B2-%D9%85%D8%A7%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%85%D8%AD%D9%88%D8%B1-%D8%B4%D9%87%D8%B1%D8%B1%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D8%B4%D8%AF",
+   "symbols": []
+  },
+  {
+   "id": "news-2bfb887a654605dd",
+   "source": "اقتصادآنلاین",
+   "published_at": "2026-11-21T16:02:26Z",
+   "fetched_at_utc": "2026-11-21T16:09:14Z",
+   "title": "هشدار بیسابقه تهران درباره اقدام جنگی علیه ایران / آمریکا در آستانه یک شکست بزرگتر قرار میگیرد؟",
+   "url": "https://www.eghtesadonline.com/fa/news/2177217/هشدار-بی-سابقه-تهران-درباره-اقدام-جنگی-علیه-ایران-آمریکا-در-آستانه-یک-شکست-بزرگ-تر-قرار-می-گیرد",
+   "symbols": []
+  }
+ ]
+}

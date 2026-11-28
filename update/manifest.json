@@ -1,0 +1,6 @@
+{
+ "version": "4.9.2",
+ "url": "https://raw.githubusercontent.com/alitamizi/tse-data/main/update/tse_bot.py",
+ "sha256": "e2d5dbb763c25e70490b54c9257cfabd4942460af977951f8fb2354a7dfee59c",
+ "notes": "اصلاح حذف اشتباه نمادها از latest.csv در فهرست صبح بورس و بازگرداندن ردیف‌های دیروز"
+}
